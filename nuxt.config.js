@@ -17,6 +17,9 @@ module.exports = {
   ** Customize the progress bar color
   */
   loading: { color: '#3B8070' },
+	router:{
+		base: './'
+	},
   /*
   ** Build configuration
   */
@@ -24,6 +27,7 @@ module.exports = {
     /*
     ** Run ESLint on save
     */
+	  publicPath: '',
     extend (config, ctx) {
       if (ctx.dev && ctx.isClient) {
         config.module.rules.push({
