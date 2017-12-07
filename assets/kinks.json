@@ -1,0 +1,2268 @@
+{
+	"B": {
+		"code": "B",
+		"title": "Bondage & Domination",
+		"kinks": {
+			"B1": {
+				"id": "B1",
+				"name": "Behavior",
+				"subKinks": {
+					"B1-1": {
+						"id": "B1-1",
+						"name": "Begging"
+					},
+					"B1-2": {
+						"id": "B1-2",
+						"name": "Meek"
+					},
+					"B1-3": {
+						"id": "B1-3",
+						"name": "Pet Play"
+					},
+					"B1-4": {
+						"id": "B1-4",
+						"name": "Physical Exhaustion"
+					},
+					"B1-5": {
+						"id": "B1-5",
+						"name": "Pony Play"
+					},
+					"B1-6": {
+						"id": "B1-6",
+						"name": "Sexual Exhaustion"
+					},
+					"B1-7": {
+						"id": "B1-7",
+						"name": "Uppity"
+					}
+				}
+			},
+			"B2": {
+				"id": "B2",
+				"name": "Bondage",
+				"subKinks": {
+					"B2-1": {
+						"id": "B2-1",
+						"name": "Belts"
+					},
+					"B2-10": {
+						"id": "B2-10",
+						"name": "Leash & Collar"
+					},
+					"B2-11": {
+						"id": "B2-11",
+						"name": "Magic"
+					},
+					"B2-12": {
+						"id": "B2-12",
+						"name": "Manacles"
+					},
+					"B2-13": {
+						"id": "B2-13",
+						"name": "Restraint(Light)"
+					},
+					"B2-14": {
+						"id": "B2-14",
+						"name": "Restraint(Heavy)"
+					},
+					"B2-15": {
+						"id": "B2-15",
+						"name": "Rope"
+					},
+					"B2-16": {
+						"id": "B2-16",
+						"name": "Shibari"
+					},
+					"B2-17": {
+						"id": "B2-17",
+						"name": "Suspension"
+					},
+					"B2-2": {
+						"id": "B2-2",
+						"name": "Caging"
+					},
+					"B2-3": {
+						"id": "B2-3",
+						"name": "Chain"
+					},
+					"B2-4": {
+						"id": "B2-4",
+						"name": "Contortion"
+					},
+					"B2-5": {
+						"id": "B2-5",
+						"name": "Devices"
+					},
+					"B2-6": {
+						"id": "B2-6",
+						"name": "Encasement"
+					},
+					"B2-7": {
+						"id": "B2-7",
+						"name": "Gags"
+					},
+					"B2-8": {
+						"id": "B2-8",
+						"name": "Handcuffs"
+					},
+					"B2-9": {
+						"id": "B2-9",
+						"name": "Immobilization"
+					}
+				}
+			},
+			"B3": {
+				"id": "B3",
+				"name": "Rules",
+				"subKinks": {
+					"B3-1": {
+						"id": "B3-1",
+						"name": "Access Restrictions"
+					},
+					"B3-2": {
+						"id": "B3-2",
+						"name": "Clothing Restriction"
+					},
+					"B3-3": {
+						"id": "B3-3",
+						"name": "Chastity"
+					},
+					"B3-4": {
+						"id": "B3-4",
+						"name": "Humiliation"
+					},
+					"B3-5": {
+						"id": "B3-5",
+						"name": "Movement Restriction"
+					},
+					"B3-6": {
+						"id": "B3-6",
+						"name": "Orgasm Control"
+					},
+					"B3-7": {
+						"id": "B3-7",
+						"name": "Orgasm Denial"
+					},
+					"B3-8": {
+						"id": "B3-8",
+						"name": "Speech Restraints"
+					}
+				}
+			},
+			"B4": {
+				"id": "B4",
+				"name": "Sensory Deprivation",
+				"subKinks": {
+					"B4-1": {
+						"id": "B4-1",
+						"name": "Blindfolds"
+					},
+					"B4-2": {
+						"id": "B4-2",
+						"name": "Earplugs"
+					},
+					"B4-3": {
+						"id": "B4-3",
+						"name": "Full Body"
+					},
+					"B4-4": {
+						"id": "B4-4",
+						"name": "Hoods"
+					},
+					"B4-5": {
+						"id": "B4-5",
+						"name": "Masks"
+					},
+					"B4-6": {
+						"id": "B4-6",
+						"name": "Numbing"
+					}
+				}
+			},
+			"B5": {
+				"id": "B5",
+				"name": "Slavery",
+				"subKinks": {
+					"B5-1": {
+						"id": "B5-1",
+						"name": "Branding"
+					},
+					"B5-2": {
+						"id": "B5-2",
+						"name": "Discipline"
+					},
+					"B5-3": {
+						"id": "B5-3",
+						"name": "Harem"
+					},
+					"B5-4": {
+						"id": "B5-4",
+						"name": "Objectification"
+					},
+					"B5-5": {
+						"id": "B5-5",
+						"name": "Pet"
+					},
+					"B5-6": {
+						"id": "B5-6",
+						"name": "Slave"
+					}
+				}
+			}
+		}
+	},
+	"H": {
+		"code": "H",
+		"title": "Hardplay",
+		"kinks": {
+			"H1": {
+				"id": "H1",
+				"name": "Amputation",
+				"subKinks": {
+					"H1-1": {
+						"id": "H1-1",
+						"name": "Clean"
+					},
+					"H1-2": {
+						"id": "H1-2",
+						"name": "Realistic"
+					}
+				}
+			},
+			"H10": {
+				"id": "H10",
+				"name": "Messy",
+				"subKinks": {
+					"H10-1": {
+						"id": "H10-1",
+						"name": "Menses"
+					},
+					"H10-2": {
+						"id": "H10-2",
+						"name": "Musk"
+					},
+					"H10-3": {
+						"id": "H10-3",
+						"name": "Slob"
+					},
+					"H10-4": {
+						"id": "H10-4",
+						"name": "Smegma"
+					},
+					"H10-5": {
+						"id": "H10-5",
+						"name": "Wet and Messy"
+					}
+				}
+			},
+			"H11": {
+				"id": "H11",
+				"name": "Mutilation",
+				"subKinks": {
+					"H11-1": {
+						"id": "H11-1",
+						"name": "Abrasions"
+					},
+					"H11-2": {
+						"id": "H11-2",
+						"name": "Branding"
+					},
+					"H11-3": {
+						"id": "H11-3",
+						"name": "Castration"
+					},
+					"H11-4": {
+						"id": "H11-4",
+						"name": "Piercing"
+					},
+					"H11-5": {
+						"id": "H11-5",
+						"name": "Scarring"
+					},
+					"H11-6": {
+						"id": "H11-6",
+						"name": "Tattoos"
+					}
+				}
+			},
+			"H12": {
+				"id": "H12",
+				"name": "Necrophilia",
+				"subKinks": {}
+			},
+			"H13": {
+				"id": "H13",
+				"name": "Scat",
+				"subKinks": {
+					"H13-1": {
+						"id": "H13-1",
+						"name": "Diapers"
+					},
+					"H13-2": {
+						"id": "H13-2",
+						"name": "Farting"
+					},
+					"H13-3": {
+						"id": "H13-3",
+						"name": "Feces Play"
+					},
+					"H13-4": {
+						"id": "H13-4",
+						"name": "Hyper Scat"
+					},
+					"H13-5": {
+						"id": "H13-5",
+						"name": "Scat Torture"
+					},
+					"H13-6": {
+						"id": "H13-6",
+						"name": "Soiling"
+					},
+					"H13-7": {
+						"id": "H13-7",
+						"name": "Swallowing"
+					}
+				}
+			},
+			"H14": {
+				"id": "H14",
+				"name": "Transformation",
+				"subKinks": {
+					"H14-1": {
+						"id": "H14-1",
+						"name": "Addition"
+					},
+					"H14-10": {
+						"id": "H14-10",
+						"name": "Expansion"
+					},
+					"H14-11": {
+						"id": "H14-11",
+						"name": "Fast"
+					},
+					"H14-12": {
+						"id": "H14-12",
+						"name": "Fatal"
+					},
+					"H14-13": {
+						"id": "H14-13",
+						"name": "Forced"
+					},
+					"H14-14": {
+						"id": "H14-14",
+						"name": "Growth"
+					},
+					"H14-15": {
+						"id": "H14-15",
+						"name": "Inanimate"
+					},
+					"H14-16": {
+						"id": "H14-16",
+						"name": "Mental"
+					},
+					"H14-17": {
+						"id": "H14-17",
+						"name": "Merging"
+					},
+					"H14-18": {
+						"id": "H14-18",
+						"name": "Permanent"
+					},
+					"H14-19": {
+						"id": "H14-19",
+						"name": "Petrification"
+					},
+					"H14-2": {
+						"id": "H14-2",
+						"name": "Age Progression"
+					},
+					"H14-20": {
+						"id": "H14-20",
+						"name": "Removal"
+					},
+					"H14-21": {
+						"id": "H14-21",
+						"name": "Rubber/Latex"
+					},
+					"H14-22": {
+						"id": "H14-22",
+						"name": "Sex/Gender"
+					},
+					"H14-23": {
+						"id": "H14-23",
+						"name": "Shrinking"
+					},
+					"H14-24": {
+						"id": "H14-24",
+						"name": "Slow"
+					},
+					"H14-25": {
+						"id": "H14-25",
+						"name": "Theft"
+					},
+					"H14-26": {
+						"id": "H14-26",
+						"name": "Weird"
+					},
+					"H14-3": {
+						"id": "H14-3",
+						"name": "Age Regression"
+					},
+					"H14-4": {
+						"id": "H14-4",
+						"name": "Animal"
+					},
+					"H14-5": {
+						"id": "H14-5",
+						"name": "Anthro"
+					},
+					"H14-6": {
+						"id": "H14-6",
+						"name": "Bimbo"
+					},
+					"H14-7": {
+						"id": "H14-7",
+						"name": "Desexualization"
+					},
+					"H14-8": {
+						"id": "H14-8",
+						"name": "Dollification"
+					},
+					"H14-9": {
+						"id": "H14-9",
+						"name": "Enhancement"
+					}
+				}
+			},
+			"H15": {
+				"id": "H15",
+				"name": "Vomit",
+				"subKinks": {
+					"H15-1": {
+						"id": "H15-1",
+						"name": "Swallowing"
+					}
+				}
+			},
+			"H16": {
+				"id": "H16",
+				"name": "Vore",
+				"subKinks": {
+					"H16-1": {
+						"id": "H16-1",
+						"name": "Absorption"
+					},
+					"H16-10": {
+						"id": "H16-10",
+						"name": "Digestion"
+					},
+					"H16-11": {
+						"id": "H16-11",
+						"name": "Disposal"
+					},
+					"H16-12": {
+						"id": "H16-12",
+						"name": "Hard Vore"
+					},
+					"H16-13": {
+						"id": "H16-13",
+						"name": "Realistic Vore"
+					},
+					"H16-14": {
+						"id": "H16-14",
+						"name": "Soft Vore"
+					},
+					"H16-15": {
+						"id": "H16-15",
+						"name": "Soul Vore"
+					},
+					"H16-16": {
+						"id": "H16-16",
+						"name": "Unbirthing"
+					},
+					"H16-17": {
+						"id": "H16-17",
+						"name": "Unrealistic Vore"
+					},
+					"H16-2": {
+						"id": "H16-2",
+						"name": "Alternative Vore"
+					},
+					"H16-3": {
+						"id": "H16-3",
+						"name": "Anal Vore"
+					},
+					"H16-4": {
+						"id": "H16-4",
+						"name": "Being Predator"
+					},
+					"H16-5": {
+						"id": "H16-5",
+						"name": "Being Prey"
+					},
+					"H16-6": {
+						"id": "H16-6",
+						"name": "Breast Vore"
+					},
+					"H16-7": {
+						"id": "H16-7",
+						"name": "Cannibalism"
+					},
+					"H16-8": {
+						"id": "H16-8",
+						"name": "Cock Vore"
+					},
+					"H16-9": {
+						"id": "H16-9",
+						"name": "Cooking"
+					}
+				}
+			},
+			"H17": {
+				"id": "H17",
+				"name": "Watersports",
+				"subKinks": {
+					"H17-1": {
+						"id": "H17-1",
+						"name": "Bathroom Control"
+					},
+					"H17-2": {
+						"id": "H17-2",
+						"name": "Bathroom Play"
+					},
+					"H17-3": {
+						"id": "H17-3",
+						"name": "Diapers"
+					},
+					"H17-4": {
+						"id": "H17-4",
+						"name": "Hyper Watersports"
+					},
+					"H17-5": {
+						"id": "H17-5",
+						"name": "Marking"
+					},
+					"H17-6": {
+						"id": "H17-6",
+						"name": "Piss Enema"
+					},
+					"H17-7": {
+						"id": "H17-7",
+						"name": "Swallowing"
+					},
+					"H17-8": {
+						"id": "H17-8",
+						"name": "Voyeur"
+					},
+					"H17-9": {
+						"id": "H17-9",
+						"name": "Wetting"
+					}
+				}
+			},
+			"H2": {
+				"id": "H2",
+				"name": "Blood",
+				"subKinks": {
+					"H2-1": {
+						"id": "H2-1",
+						"name": "Bloodletting"
+					},
+					"H2-2": {
+						"id": "H2-2",
+						"name": "Swallowing"
+					}
+				}
+			},
+			"H3": {
+				"id": "H3",
+				"name": "Breath Control",
+				"subKinks": {
+					"H3-1": {
+						"id": "H3-1",
+						"name": "Asphyxiation"
+					},
+					"H3-2": {
+						"id": "H3-2",
+						"name": "Choking"
+					}
+				}
+			},
+			"H4": {
+				"id": "H4",
+				"name": "Death",
+				"subKinks": {
+					"H4-1": {
+						"id": "H4-1",
+						"name": "Defilement"
+					},
+					"H4-2": {
+						"id": "H4-2",
+						"name": "Impalement"
+					},
+					"H4-3": {
+						"id": "H4-3",
+						"name": "Permanent"
+					}
+				}
+			},
+			"H5": {
+				"id": "H5",
+				"name": "Drugs",
+				"subKinks": {
+					"H5-1": {
+						"id": "H5-1",
+						"name": "Addiction"
+					},
+					"H5-2": {
+						"id": "H5-2",
+						"name": "Alcohol"
+					},
+					"H5-3": {
+						"id": "H5-3",
+						"name": "Aphrodisiacs"
+					},
+					"H5-4": {
+						"id": "H5-4",
+						"name": "Hard Drugs"
+					},
+					"H5-5": {
+						"id": "H5-5",
+						"name": "Smoking"
+					}
+				}
+			},
+			"H6": {
+				"id": "H6",
+				"name": "Enema",
+				"subKinks": {
+					"H6-1": {
+						"id": "H6-1",
+						"name": "Clean"
+					},
+					"H6-2": {
+						"id": "H6-2",
+						"name": "Cum"
+					},
+					"H6-3": {
+						"id": "H6-3",
+						"name": "Messy"
+					}
+				}
+			},
+			"H7": {
+				"id": "H7",
+				"name": "Inflation",
+				"subKinks": {
+					"H7-1": {
+						"id": "H7-1",
+						"name": "Heavy"
+					},
+					"H7-2": {
+						"id": "H7-2",
+						"name": "Light"
+					},
+					"H7-3": {
+						"id": "H7-3",
+						"name": "Popping"
+					}
+				}
+			},
+			"H8": {
+				"id": "H8",
+				"name": "Rape",
+				"subKinks": {
+					"H8-1": {
+						"id": "H8-1",
+						"name": "Hard Rape"
+					},
+					"H8-2": {
+						"id": "H8-2",
+						"name": "Pseudo-Rape"
+					}
+				}
+			},
+			"H9": {
+				"id": "H9",
+				"name": "Torture",
+				"subKinks": {
+					"H9-1": {
+						"id": "H9-1",
+						"name": "Breast/Nipple"
+					},
+					"H9-2": {
+						"id": "H9-2",
+						"name": "Burning"
+					},
+					"H9-3": {
+						"id": "H9-3",
+						"name": "Chemical"
+					},
+					"H9-4": {
+						"id": "H9-4",
+						"name": "Electro-Torture"
+					},
+					"H9-5": {
+						"id": "H9-5",
+						"name": "Genital Torture"
+					},
+					"H9-6": {
+						"id": "H9-6",
+						"name": "Hot/Cold"
+					},
+					"H9-7": {
+						"id": "H9-7",
+						"name": "Pain"
+					},
+					"H9-8": {
+						"id": "H9-8",
+						"name": "Sexual"
+					},
+					"H9-9": {
+						"id": "H9-9",
+						"name": "Starvation"
+					}
+				}
+			}
+		}
+	},
+	"M": {
+		"code": "M",
+		"title": "Role",
+		"kinks": {
+			"M1": {
+				"id": "M1",
+				"name": "Bottom",
+				"subKinks": {}
+			},
+			"M2": {
+				"id": "M2",
+				"name": "Dominant",
+				"subKinks": {}
+			},
+			"M3": {
+				"id": "M3",
+				"name": "Equal",
+				"subKinks": {}
+			},
+			"M4": {
+				"id": "M4",
+				"name": "Submissive",
+				"subKinks": {}
+			},
+			"M5": {
+				"id": "M5",
+				"name": "Switch",
+				"subKinks": {}
+			},
+			"M6": {
+				"id": "M6",
+				"name": "Top",
+				"subKinks": {}
+			}
+		}
+	},
+	"P": {
+		"code": "P",
+		"title": "Preference",
+		"kinks": {
+			"P1": {
+				"id": "P1",
+				"name": "Androgynous",
+				"subKinks": {
+					"P1-1": {
+						"id": "P1-1",
+						"name": "Trap"
+					},
+					"P1-2": {
+						"id": "P1-2",
+						"name": "Reverse-Trap"
+					}
+				}
+			},
+			"P2": {
+				"id": "P2",
+				"name": "Cuntboys",
+				"subKinks": {}
+			},
+			"P3": {
+				"id": "P3",
+				"name": "Females",
+				"subKinks": {}
+			},
+			"P4": {
+				"id": "P4",
+				"name": "Hermaphrodites",
+				"subKinks": {}
+			},
+			"P5": {
+				"id": "P5",
+				"name": "Male Herms",
+				"subKinks": {}
+			},
+			"P6": {
+				"id": "P6",
+				"name": "Males",
+				"subKinks": {}
+			},
+			"P7": {
+				"id": "P7",
+				"name": "Shemales",
+				"subKinks": {}
+			},
+			"P8": {
+				"id": "P8",
+				"name": "Transgender",
+				"subKinks": {}
+			}
+		}
+	},
+	"R": {
+		"code": "R",
+		"title": "Roleplay",
+		"kinks": {
+			"R1": {
+				"id": "R1",
+				"name": "Clothing",
+				"subKinks": {
+					"R1-1": {
+						"id": "R1-1",
+						"name": "Boots/Shoes"
+					},
+					"R1-10": {
+						"id": "R1-10",
+						"name": "Maid"
+					},
+					"R1-11": {
+						"id": "R1-11",
+						"name": "Naked Apron"
+					},
+					"R1-12": {
+						"id": "R1-12",
+						"name": "Religious"
+					},
+					"R1-13": {
+						"id": "R1-13",
+						"name": "Slutty"
+					},
+					"R1-14": {
+						"id": "R1-14",
+						"name": "Style"
+					},
+					"R1-15": {
+						"id": "R1-15",
+						"name": "Suits"
+					},
+					"R1-16": {
+						"id": "R1-16",
+						"name": "Underwear"
+					},
+					"R1-17": {
+						"id": "R1-17",
+						"name": "Uniforms"
+					},
+					"R1-18": {
+						"id": "R1-18",
+						"name": "Wedding/Formal"
+					},
+					"R1-19": {
+						"id": "R1-19",
+						"name": "Stockings"
+					},
+					"R1-2": {
+						"id": "R1-2",
+						"name": "Costumes"
+					},
+					"R1-20": {
+						"id": "R1-20",
+						"name": "Living Clothing"
+					},
+					"R1-3": {
+						"id": "R1-3",
+						"name": "Crossdressing"
+					},
+					"R1-4": {
+						"id": "R1-4",
+						"name": "Glasses"
+					},
+					"R1-5": {
+						"id": "R1-5",
+						"name": "Kimono/Japanese"
+					},
+					"R1-6": {
+						"id": "R1-6",
+						"name": "Latex"
+					},
+					"R1-7": {
+						"id": "R1-7",
+						"name": "Leather"
+					},
+					"R1-8": {
+						"id": "R1-8",
+						"name": "Lingerie"
+					},
+					"R1-9": {
+						"id": "R1-9",
+						"name": "Masks"
+					}
+				}
+			},
+			"R10": {
+				"id": "R10",
+				"name": "Perspective - Second",
+				"subKinks": {}
+			},
+			"R11": {
+				"id": "R11",
+				"name": "Perspective - Third",
+				"subKinks": {}
+			},
+			"R12": {
+				"id": "R12",
+				"name": "Pregnancy",
+				"subKinks": {
+					"R12-1": {
+						"id": "R12-1",
+						"name": "Birthing"
+					},
+					"R12-2": {
+						"id": "R12-2",
+						"name": "Breeding"
+					},
+					"R12-3": {
+						"id": "R12-3",
+						"name": "Extreme Pregnancy"
+					},
+					"R12-4": {
+						"id": "R12-4",
+						"name": "Impregnation"
+					},
+					"R12-5": {
+						"id": "R12-5",
+						"name": "Male Pregnancy"
+					},
+					"R12-6": {
+						"id": "R12-6",
+						"name": "Oviposition"
+					},
+					"R12-7": {
+						"id": "R12-7",
+						"name": "Pregnant Sex"
+					},
+					"R12-8": {
+						"id": "R12-8",
+						"name": "Risk of Pregnancy"
+					},
+					"R12-9": {
+						"id": "R12-9",
+						"name": "Unusual Pregnancy"
+					}
+				}
+			},
+			"R13": {
+				"id": "R13",
+				"name": "Role Reversal",
+				"subKinks": {}
+			},
+			"R14": {
+				"id": "R14",
+				"name": "Romance",
+				"subKinks": {
+					"R14-1": {
+						"id": "R14-1",
+						"name": "Cuddling"
+					},
+					"R14-2": {
+						"id": "R14-2",
+						"name": "Dating"
+					},
+					"R14-3": {
+						"id": "R14-3",
+						"name": "Kissing"
+					},
+					"R14-4": {
+						"id": "R14-4",
+						"name": "Marriage"
+					},
+					"R14-5": {
+						"id": "R14-5",
+						"name": "PDA"
+					},
+					"R14-6": {
+						"id": "R14-6",
+						"name": "Polygamy"
+					},
+					"R14-7": {
+						"id": "R14-7",
+						"name": "Monogamy"
+					}
+				}
+			},
+			"R15": {
+				"id": "R15",
+				"name": "RP in RP",
+				"subKinks": {
+					"R15-1": {
+						"id": "R15-1",
+						"name": "Ageplay"
+					},
+					"R15-2": {
+						"id": "R15-2",
+						"name": "Costumes"
+					},
+					"R15-3": {
+						"id": "R15-3",
+						"name": "Infantilism"
+					}
+				}
+			},
+			"R16": {
+				"id": "R16",
+				"name": "Rubber/Latex",
+				"subKinks": {
+					"R16-1": {
+						"id": "R16-1",
+						"name": "Hoods"
+					},
+					"R16-2": {
+						"id": "R16-2",
+						"name": "Suits"
+					},
+					"R16-3": {
+						"id": "R16-3",
+						"name": "Toys"
+					}
+				}
+			},
+			"R17": {
+				"id": "R17",
+				"name": "Sandboxing",
+				"subKinks": {}
+			},
+			"R18": {
+				"id": "R18",
+				"name": "Taboo",
+				"subKinks": {
+					"R18-1": {
+						"id": "R18-1",
+						"name": "Adultery"
+					},
+					"R18-2": {
+						"id": "R18-2",
+						"name": "Age Differences"
+					},
+					"R18-3": {
+						"id": "R18-3",
+						"name": "Blasphemy"
+					},
+					"R18-4": {
+						"id": "R18-4",
+						"name": "Incest"
+					},
+					"R18-5": {
+						"id": "R18-5",
+						"name": "Interracial"
+					},
+					"R18-6": {
+						"id": "R18-6",
+						"name": "Interspecies"
+					},
+					"R18-7": {
+						"id": "R18-7",
+						"name": "Orientation Play"
+					},
+					"R18-8": {
+						"id": "R18-8",
+						"name": "Spanking"
+					}
+				}
+			},
+			"R19": {
+				"id": "R19",
+				"name": "Teasing",
+				"subKinks": {
+					"R19-1": {
+						"id": "R19-1",
+						"name": "Caressing"
+					},
+					"R19-2": {
+						"id": "R19-2",
+						"name": "Humiliation"
+					},
+					"R19-3": {
+						"id": "R19-3",
+						"name": "Tickling"
+					}
+				}
+			},
+			"R2": {
+				"id": "R2",
+				"name": "Exhibitionism",
+				"subKinks": {
+					"R2-1": {
+						"id": "R2-1",
+						"name": "Public Nudity"
+					},
+					"R2-2": {
+						"id": "R2-2",
+						"name": "Public Sex"
+					}
+				}
+			},
+			"R20": {
+				"id": "R20",
+				"name": "Themed",
+				"subKinks": {
+					"R20-1": {
+						"id": "R20-1",
+						"name": "Captivity"
+					},
+					"R20-10": {
+						"id": "R20-10",
+						"name": "School"
+					},
+					"R20-11": {
+						"id": "R20-11",
+						"name": "Sci-Fi"
+					},
+					"R20-12": {
+						"id": "R20-12",
+						"name": "Steampunk"
+					},
+					"R20-13": {
+						"id": "R20-13",
+						"name": "Tribal"
+					},
+					"R20-14": {
+						"id": "R20-14",
+						"name": "Zero-G"
+					},
+					"R20-15": {
+						"id": "R20-15",
+						"name": "Superheroes"
+					},
+					"R20-2": {
+						"id": "R20-2",
+						"name": "Fantasy"
+					},
+					"R20-3": {
+						"id": "R20-3",
+						"name": "Isolation"
+					},
+					"R20-4": {
+						"id": "R20-4",
+						"name": "Law Enforcement"
+					},
+					"R20-5": {
+						"id": "R20-5",
+						"name": "Medical"
+					},
+					"R20-6": {
+						"id": "R20-6",
+						"name": "Office"
+					},
+					"R20-7": {
+						"id": "R20-7",
+						"name": "Political"
+					},
+					"R20-8": {
+						"id": "R20-8",
+						"name": "Prostitution"
+					},
+					"R20-9": {
+						"id": "R20-9",
+						"name": "Religion"
+					}
+				}
+			},
+			"R21": {
+				"id": "R21",
+				"name": "Unwilling",
+				"subKinks": {
+					"R21-1": {
+						"id": "R21-1",
+						"name": "Blackmail"
+					},
+					"R21-2": {
+						"id": "R21-2",
+						"name": "Obligation"
+					},
+					"R21-3": {
+						"id": "R21-3",
+						"name": "Penalty"
+					}
+				}
+			},
+			"R22": {
+				"id": "R22",
+				"name": "Violence",
+				"subKinks": {
+					"R22-1": {
+						"id": "R22-1",
+						"name": "Bladeplay"
+					},
+					"R22-2": {
+						"id": "R22-2",
+						"name": "Fighting"
+					},
+					"R22-3": {
+						"id": "R22-3",
+						"name": "Guns"
+					},
+					"R22-4": {
+						"id": "R22-4",
+						"name": "Wrestling"
+					}
+				}
+			},
+			"R23": {
+				"id": "R23",
+				"name": "Voyeurism",
+				"subKinks": {
+					"R23-1": {
+						"id": "R23-1",
+						"name": "Accidental"
+					},
+					"R23-2": {
+						"id": "R23-2",
+						"name": "Cuckolding"
+					},
+					"R23-3": {
+						"id": "R23-3",
+						"name": "Spying"
+					}
+				}
+			},
+			"R3": {
+				"id": "R3",
+				"name": "Food",
+				"subKinks": {
+					"R3-1": {
+						"id": "R3-1",
+						"name": "Force Feeding"
+					},
+					"R3-2": {
+						"id": "R3-2",
+						"name": "Nyo/Nan-taimori"
+					},
+					"R3-3": {
+						"id": "R3-3",
+						"name": "Sweets"
+					},
+					"R3-4": {
+						"id": "R3-4",
+						"name": "Syrups"
+					},
+					"R3-5": {
+						"id": "R3-5",
+						"name": "Weight Gain"
+					}
+				}
+			},
+			"R4": {
+				"id": "R4",
+				"name": "Instant Hookups",
+				"subKinks": {}
+			},
+			"R5": {
+				"id": "R5",
+				"name": "Long Term",
+				"subKinks": {
+					"R5-1": {
+						"id": "R5-1",
+						"name": "Grid"
+					},
+					"R5-2": {
+						"id": "R5-2",
+						"name": "Sandbox"
+					}
+				}
+			},
+			"R6": {
+				"id": "R6",
+				"name": "Magic",
+				"subKinks": {
+					"R6-1": {
+						"id": "R6-1",
+						"name": "Background"
+					},
+					"R6-2": {
+						"id": "R6-2",
+						"name": "Magic Sex"
+					},
+					"R6-3": {
+						"id": "R6-3",
+						"name": "Potions"
+					}
+				}
+			},
+			"R7": {
+				"id": "R7",
+				"name": "Mind Control",
+				"subKinks": {
+					"R7-1": {
+						"id": "R7-1",
+						"name": "Body Control"
+					},
+					"R7-2": {
+						"id": "R7-2",
+						"name": "Direct Control"
+					},
+					"R7-3": {
+						"id": "R7-3",
+						"name": "Hypnotism"
+					},
+					"R7-4": {
+						"id": "R7-4",
+						"name": "Memory Wipe"
+					},
+					"R7-5": {
+						"id": "R7-5",
+						"name": "Programming"
+					},
+					"R7-6": {
+						"id": "R7-6",
+						"name": "Suggestion"
+					},
+					"R7-7": {
+						"id": "R7-7",
+						"name": "Training"
+					}
+				}
+			},
+			"R8": {
+				"id": "R8",
+				"name": "Nonsexual",
+				"subKinks": {}
+			},
+			"R9": {
+				"id": "R9",
+				"name": "Perspective - First",
+				"subKinks": {}
+			}
+		}
+	},
+	"S": {
+		"code": "S",
+		"title": "Sex",
+		"kinks": {
+			"S1": {
+				"id": "S1",
+				"name": "Anal Sex",
+				"subKinks": {
+					"S1-1": {
+						"id": "S1-1",
+						"name": "Ass Worship"
+					},
+					"S1-2": {
+						"id": "S1-2",
+						"name": "Fisting"
+					},
+					"S1-3": {
+						"id": "S1-3",
+						"name": "Gaping"
+					},
+					"S1-4": {
+						"id": "S1-4",
+						"name": "Hotdogging"
+					},
+					"S1-5": {
+						"id": "S1-5",
+						"name": "Pegging"
+					},
+					"S1-6": {
+						"id": "S1-6",
+						"name": "Penetration"
+					},
+					"S1-7": {
+						"id": "S1-7",
+						"name": "Rimming"
+					},
+					"S1-8": {
+						"id": "S1-8",
+						"name": "Training"
+					},
+					"S1-9": {
+						"id": "S1-9",
+						"name": "Virginity"
+					}
+				}
+			},
+			"S10": {
+				"id": "S10",
+				"name": "Oral Sex",
+				"subKinks": {
+					"S10-1": {
+						"id": "S10-1",
+						"name": "Autocunnilingus"
+					},
+					"S10-2": {
+						"id": "S10-2",
+						"name": "Autofellatio"
+					},
+					"S10-3": {
+						"id": "S10-3",
+						"name": "Cunnilingus"
+					},
+					"S10-4": {
+						"id": "S10-4",
+						"name": "Face-Fucking"
+					},
+					"S10-5": {
+						"id": "S10-5",
+						"name": "Fellatio"
+					},
+					"S10-6": {
+						"id": "S10-6",
+						"name": "Throat Penetration"
+					},
+					"S10-7": {
+						"id": "S10-7",
+						"name": "Virginity"
+					}
+				}
+			},
+			"S11": {
+				"id": "S11",
+				"name": "Penis Sex",
+				"subKinks": {
+					"S11-1": {
+						"id": "S11-1",
+						"name": "Docking"
+					},
+					"S11-2": {
+						"id": "S11-2",
+						"name": "Frottage"
+					},
+					"S11-3": {
+						"id": "S11-3",
+						"name": "Handjob"
+					},
+					"S11-4": {
+						"id": "S11-4",
+						"name": "Sounding"
+					},
+					"S11-5": {
+						"id": "S11-5",
+						"name": "Cock Worship"
+					},
+					"S11-6": {
+						"id": "S11-6",
+						"name": "Ball Worship"
+					}
+				}
+			},
+			"S12": {
+				"id": "S12",
+				"name": "Toys",
+				"subKinks": {
+					"S12-1": {
+						"id": "S12-1",
+						"name": "Anal Beads"
+					},
+					"S12-2": {
+						"id": "S12-2",
+						"name": "Dildos"
+					},
+					"S12-3": {
+						"id": "S12-3",
+						"name": "Sex Machines"
+					},
+					"S12-4": {
+						"id": "S12-4",
+						"name": "Strap-ons"
+					},
+					"S12-5": {
+						"id": "S12-5",
+						"name": "Vibrators"
+					}
+				}
+			},
+			"S13": {
+				"id": "S13",
+				"name": "Vaginal Sex",
+				"subKinks": {
+					"S13-1": {
+						"id": "S13-1",
+						"name": "Cervical Penetration"
+					},
+					"S13-10": {
+						"id": "S13-10",
+						"name": "Virginity"
+					},
+					"S13-2": {
+						"id": "S13-2",
+						"name": "Fingering"
+					},
+					"S13-3": {
+						"id": "S13-3",
+						"name": "Fisting"
+					},
+					"S13-4": {
+						"id": "S13-4",
+						"name": "Gaping"
+					},
+					"S13-5": {
+						"id": "S13-5",
+						"name": "Penetration"
+					},
+					"S13-6": {
+						"id": "S13-6",
+						"name": "Pussy Worship"
+					},
+					"S13-7": {
+						"id": "S13-7",
+						"name": "Squirting"
+					},
+					"S13-8": {
+						"id": "S13-8",
+						"name": "Tribadism"
+					},
+					"S13-9": {
+						"id": "S13-9",
+						"name": "Urethra Penetration"
+					}
+				}
+			},
+			"S2": {
+				"id": "S2",
+				"name": "Biting",
+				"subKinks": {
+					"S2-1": {
+						"id": "S2-1",
+						"name": "Marking"
+					}
+				}
+			},
+			"S3": {
+				"id": "S3",
+				"name": "Breasts",
+				"subKinks": {
+					"S3-1": {
+						"id": "S3-1",
+						"name": "Breast Worship"
+					},
+					"S3-2": {
+						"id": "S3-2",
+						"name": "Docking"
+					},
+					"S3-3": {
+						"id": "S3-3",
+						"name": "Fondling"
+					},
+					"S3-4": {
+						"id": "S3-4",
+						"name": "Lactation"
+					},
+					"S3-5": {
+						"id": "S3-5",
+						"name": "Nipple Penetration"
+					},
+					"S3-6": {
+						"id": "S3-6",
+						"name": "Titfucking"
+					}
+				}
+			},
+			"S4": {
+				"id": "S4",
+				"name": "Clothed Sex",
+				"subKinks": {}
+			},
+			"S5": {
+				"id": "S5",
+				"name": "Condoms",
+				"subKinks": {
+					"S5-1": {
+						"id": "S5-1",
+						"name": "Breaking"
+					},
+					"S5-2": {
+						"id": "S5-2",
+						"name": "Swallowing After"
+					}
+				}
+			},
+			"S6": {
+				"id": "S6",
+				"name": "Cumplay",
+				"subKinks": {
+					"S6-1": {
+						"id": "S6-1",
+						"name": "Bukkake"
+					},
+					"S6-10": {
+						"id": "S6-10",
+						"name": "Creampie"
+					},
+					"S6-11": {
+						"id": "S6-11",
+						"name": "Internal"
+					},
+					"S6-2": {
+						"id": "S6-2",
+						"name": "Cum Bath"
+					},
+					"S6-3": {
+						"id": "S6-3",
+						"name": "Cum Diet"
+					},
+					"S6-4": {
+						"id": "S6-4",
+						"name": "Inflation(Light)"
+					},
+					"S6-5": {
+						"id": "S6-5",
+						"name": "Inflation(Medium)"
+					},
+					"S6-6": {
+						"id": "S6-6",
+						"name": "Inflation(Heavy)"
+					},
+					"S6-7": {
+						"id": "S6-7",
+						"name": "Large Quantities"
+					},
+					"S6-8": {
+						"id": "S6-8",
+						"name": "Swallowing"
+					},
+					"S6-9": {
+						"id": "S6-9",
+						"name": "Unusual Semen"
+					}
+				}
+			},
+			"S7": {
+				"id": "S7",
+				"name": "Exotic",
+				"subKinks": {
+					"S7-1": {
+						"id": "S7-1",
+						"name": "Armpit Sex"
+					},
+					"S7-10": {
+						"id": "S7-10",
+						"name": "Other"
+					},
+					"S7-11": {
+						"id": "S7-11",
+						"name": "Sleep Sex"
+					},
+					"S7-2": {
+						"id": "S7-2",
+						"name": "Ear Penetration"
+					},
+					"S7-3": {
+						"id": "S7-3",
+						"name": "Ear Play"
+					},
+					"S7-4": {
+						"id": "S7-4",
+						"name": "Eye Penetration"
+					},
+					"S7-5": {
+						"id": "S7-5",
+						"name": "Foot Fetish"
+					},
+					"S7-6": {
+						"id": "S7-6",
+						"name": "Footjobs"
+					},
+					"S7-7": {
+						"id": "S7-7",
+						"name": "Hairjob"
+					},
+					"S7-8": {
+						"id": "S7-8",
+						"name": "Navel Penetration"
+					},
+					"S7-9": {
+						"id": "S7-9",
+						"name": "Navel Play"
+					}
+				}
+			},
+			"S8": {
+				"id": "S8",
+				"name": "Masturbation",
+				"subKinks": {
+					"S8-1": {
+						"id": "S8-1",
+						"name": "In Scenes"
+					},
+					"S8-2": {
+						"id": "S8-2",
+						"name": "Mutual Masturbation"
+					},
+					"S8-3": {
+						"id": "S8-3",
+						"name": "Secret"
+					}
+				}
+			},
+			"S9": {
+				"id": "S9",
+				"name": "Multiple Penetration",
+				"subKinks": {
+					"S9-1": {
+						"id": "S9-1",
+						"name": "3+ Penetration"
+					},
+					"S9-2": {
+						"id": "S9-2",
+						"name": "All The Way Through"
+					},
+					"S9-3": {
+						"id": "S9-3",
+						"name": "Double Penetration"
+					},
+					"S9-4": {
+						"id": "S9-4",
+						"name": "Gangbang"
+					}
+				}
+			}
+		}
+	},
+	"T": {
+		"code": "T",
+		"title": "Body Types",
+		"kinks": {
+			"T1": {
+				"id": "T1",
+				"name": "Animal",
+				"subKinks": {
+					"T1-1": {
+						"id": "T1-1",
+						"name": "Aquatic"
+					},
+					"T1-2": {
+						"id": "T1-2",
+						"name": "Avian"
+					},
+					"T1-3": {
+						"id": "T1-3",
+						"name": "Draconic"
+					},
+					"T1-4": {
+						"id": "T1-4",
+						"name": "Equine"
+					},
+					"T1-5": {
+						"id": "T1-5",
+						"name": "Insect/Arachnid"
+					},
+					"T1-6": {
+						"id": "T1-6",
+						"name": "Pokemon/Digimon"
+					},
+					"T1-7": {
+						"id": "T1-7",
+						"name": "Quadruped"
+					},
+					"T1-8": {
+						"id": "T1-8",
+						"name": "Serpentine"
+					}
+				}
+			},
+			"T10": {
+				"id": "T10",
+				"name": "Giant/Macro",
+				"subKinks": {}
+			},
+			"T11": {
+				"id": "T11",
+				"name": "Head Hair",
+				"subKinks": {
+					"T11-1": {
+						"id": "T11-1",
+						"name": "Bald"
+					},
+					"T11-2": {
+						"id": "T11-2",
+						"name": "Short"
+					},
+					"T11-3": {
+						"id": "T11-3",
+						"name": "Long"
+					},
+					"T11-4": {
+						"id": "T11-4",
+						"name": "Very Long"
+					},
+					"T11-5": {
+						"id": "T11-5",
+						"name": "Exotic"
+					}
+				}
+			},
+			"T12": {
+				"id": "T12",
+				"name": "Hirsute",
+				"subKinks": {
+					"T12-1": {
+						"id": "T12-1",
+						"name": "Armpit Hair"
+					},
+					"T12-2": {
+						"id": "T12-2",
+						"name": "Beards"
+					},
+					"T12-3": {
+						"id": "T12-3",
+						"name": "Body Hair"
+					},
+					"T12-4": {
+						"id": "T12-4",
+						"name": "Pubic Hair"
+					}
+				}
+			},
+			"T13": {
+				"id": "T13",
+				"name": "Humanoid",
+				"subKinks": {
+					"T13-1": {
+						"id": "T13-1",
+						"name": "Angel"
+					},
+					"T13-2": {
+						"id": "T13-2",
+						"name": "Demon"
+					},
+					"T13-3": {
+						"id": "T13-3",
+						"name": "Elvish"
+					},
+					"T13-4": {
+						"id": "T13-4",
+						"name": "Human"
+					}
+				}
+			},
+			"T14": {
+				"id": "T14",
+				"name": "Large Anatomy",
+				"subKinks": {
+					"T14-1": {
+						"id": "T14-1",
+						"name": "Chubby"
+					},
+					"T14-2": {
+						"id": "T14-2",
+						"name": "Large Asses"
+					},
+					"T14-3": {
+						"id": "T14-3",
+						"name": "Large Balls"
+					},
+					"T14-4": {
+						"id": "T14-4",
+						"name": "Large Breasts"
+					},
+					"T14-5": {
+						"id": "T14-5",
+						"name": "Large Cocks"
+					},
+					"T14-6": {
+						"id": "T14-6",
+						"name": "Muscle"
+					}
+				}
+			},
+			"T15": {
+				"id": "T15",
+				"name": "Sexless",
+				"subKinks": {
+					"T15-1": {
+						"id": "T15-1",
+						"name": "Desexed"
+					},
+					"T15-2": {
+						"id": "T15-2",
+						"name": "Eunuch"
+					}
+				}
+			},
+			"T16": {
+				"id": "T16",
+				"name": "Shapeshifters",
+				"subKinks": {
+					"T16-1": {
+						"id": "T16-1",
+						"name": "Multiple-Form"
+					},
+					"T16-2": {
+						"id": "T16-2",
+						"name": "Single-Form"
+					},
+					"T16-3": {
+						"id": "T16-3",
+						"name": "Unwilling"
+					},
+					"T16-4": {
+						"id": "T16-4",
+						"name": "Willing"
+					}
+				}
+			},
+			"T17": {
+				"id": "T17",
+				"name": "Small Anatomy",
+				"subKinks": {
+					"T17-1": {
+						"id": "T17-1",
+						"name": "Extreme Tightness"
+					},
+					"T17-2": {
+						"id": "T17-2",
+						"name": "Flat Chest"
+					},
+					"T17-3": {
+						"id": "T17-3",
+						"name": "Small Breasts"
+					},
+					"T17-4": {
+						"id": "T17-4",
+						"name": "Small Cocks"
+					}
+				}
+			},
+			"T18": {
+				"id": "T18",
+				"name": "Tails",
+				"subKinks": {
+					"T18-1": {
+						"id": "T18-1",
+						"name": "Fluffy"
+					},
+					"T18-2": {
+						"id": "T18-2",
+						"name": "Prehensile"
+					}
+				}
+			},
+			"T19": {
+				"id": "T19",
+				"name": "Taurs/Hybrid",
+				"subKinks": {
+					"T19-1": {
+						"id": "T19-1",
+						"name": "Aquatic"
+					},
+					"T19-2": {
+						"id": "T19-2",
+						"name": "Avian"
+					},
+					"T19-3": {
+						"id": "T19-3",
+						"name": "Insect/Arachnid"
+					},
+					"T19-4": {
+						"id": "T19-4",
+						"name": "Quadruped"
+					},
+					"T19-5": {
+						"id": "T19-5",
+						"name": "Serpentine"
+					}
+				}
+			},
+			"T2": {
+				"id": "T2",
+				"name": "Animal Anatomy",
+				"subKinks": {
+					"T2-1": {
+						"id": "T2-1",
+						"name": "Barbed Cocks"
+					},
+					"T2-2": {
+						"id": "T2-2",
+						"name": "Bestial Cocks"
+					},
+					"T2-3": {
+						"id": "T2-3",
+						"name": "Knotted Cocks"
+					},
+					"T2-4": {
+						"id": "T2-4",
+						"name": "Sheaths"
+					},
+					"T2-5": {
+						"id": "T2-5",
+						"name": "Udders"
+					}
+				}
+			},
+			"T20": {
+				"id": "T20",
+				"name": "Tentacles",
+				"subKinks": {
+					"T20-1": {
+						"id": "T20-1",
+						"name": "Consentacles"
+					},
+					"T20-2": {
+						"id": "T20-2",
+						"name": "Phallic"
+					},
+					"T20-3": {
+						"id": "T20-3",
+						"name": "Suction"
+					}
+				}
+			},
+			"T21": {
+				"id": "T21",
+				"name": "Twins/Clones",
+				"subKinks": {}
+			},
+			"T22": {
+				"id": "T22",
+				"name": "Wings",
+				"subKinks": {
+					"T22-1": {
+						"id": "T22-1",
+						"name": "Batlike"
+					},
+					"T22-2": {
+						"id": "T22-2",
+						"name": "Fairy"
+					},
+					"T22-3": {
+						"id": "T22-3",
+						"name": "Feathery"
+					}
+				}
+			},
+			"T23": {
+				"id": "T23",
+				"name": "Young Partners",
+				"subKinks": {
+					"T23-1": {
+						"id": "T23-1",
+						"name": "Preteen"
+					},
+					"T23-2": {
+						"id": "T23-2",
+						"name": "Pubescent"
+					},
+					"T23-3": {
+						"id": "T23-3",
+						"name": "Teenage"
+					}
+				}
+			},
+			"T24": {
+				"id": "T24",
+				"name": "Decorations",
+				"subKinks": {
+					"T24-1": {
+						"id": "T24-1",
+						"name": "Marks"
+					},
+					"T24-2": {
+						"id": "T24-2",
+						"name": "Scars"
+					},
+					"T24-3": {
+						"id": "T24-3",
+						"name": "Paint"
+					},
+					"T24-4": {
+						"id": "T24-4",
+						"name": "Piercings"
+					},
+					"T24-5": {
+						"id": "T24-5",
+						"name": "Tattoos"
+					}
+				}
+			},
+			"T3": {
+				"id": "T3",
+				"name": "Anthro",
+				"subKinks": {
+					"T3-1": {
+						"id": "T3-1",
+						"name": "Equine"
+					},
+					"T3-2": {
+						"id": "T3-2",
+						"name": "Feathers"
+					},
+					"T3-3": {
+						"id": "T3-3",
+						"name": "Fur"
+					},
+					"T3-4": {
+						"id": "T3-4",
+						"name": "Kemonomimi"
+					},
+					"T3-5": {
+						"id": "T3-5",
+						"name": "Muzzles"
+					},
+					"T3-6": {
+						"id": "T3-6",
+						"name": "Pokemorph"
+					},
+					"T3-7": {
+						"id": "T3-7",
+						"name": "Scales"
+					}
+				}
+			},
+			"T4": {
+				"id": "T4",
+				"name": "Artificial",
+				"subKinks": {
+					"T4-1": {
+						"id": "T4-1",
+						"name": "Dolljoints"
+					},
+					"T4-2": {
+						"id": "T4-2",
+						"name": "Robots/Cyborgs"
+					}
+				}
+			},
+			"T5": {
+				"id": "T5",
+				"name": "Elderly Partners",
+				"subKinks": {
+					"T5-1": {
+						"id": "T5-1",
+						"name": "Middle Age"
+					},
+					"T5-2": {
+						"id": "T5-2",
+						"name": "Elderly"
+					}
+				}
+			},
+			"T6": {
+				"id": "T6",
+				"name": "Exotic Anatomy",
+				"subKinks": {
+					"T6-1": {
+						"id": "T6-1",
+						"name": "Dicknipples"
+					},
+					"T6-2": {
+						"id": "T6-2",
+						"name": "Heterochromia"
+					},
+					"T6-3": {
+						"id": "T6-3",
+						"name": "Missing Parts"
+					},
+					"T6-4": {
+						"id": "T6-4",
+						"name": "Multiple Breasts"
+					},
+					"T6-5": {
+						"id": "T6-5",
+						"name": "Multiple Genitalia"
+					},
+					"T6-6": {
+						"id": "T6-6",
+						"name": "Out of Place"
+					},
+					"T6-7": {
+						"id": "T6-7",
+						"name": "Prehensile Cocks"
+					},
+					"T6-8": {
+						"id": "T6-8",
+						"name": "Additional Parts"
+					}
+				}
+			},
+			"T7": {
+				"id": "T7",
+				"name": "Exotic Material",
+				"subKinks": {
+					"T7-1": {
+						"id": "T7-1",
+						"name": "Ghostly"
+					},
+					"T7-2": {
+						"id": "T7-2",
+						"name": "Latex"
+					},
+					"T7-3": {
+						"id": "T7-3",
+						"name": "Metal"
+					},
+					"T7-4": {
+						"id": "T7-4",
+						"name": "Rubber"
+					},
+					"T7-5": {
+						"id": "T7-5",
+						"name": "Stone"
+					},
+					"T7-6": {
+						"id": "T7-6",
+						"name": "Water/Liquid"
+					}
+				}
+			},
+			"T8": {
+				"id": "T8",
+				"name": "Exotic Species",
+				"subKinks": {
+					"T8-1": {
+						"id": "T8-1",
+						"name": "Alien/Xeno"
+					},
+					"T8-2": {
+						"id": "T8-2",
+						"name": "Blob"
+					},
+					"T8-3": {
+						"id": "T8-3",
+						"name": "Eldritch"
+					},
+					"T8-4": {
+						"id": "T8-4",
+						"name": "Fantastical"
+					},
+					"T8-5": {
+						"id": "T8-5",
+						"name": "Monstrous"
+					},
+					"T8-6": {
+						"id": "T8-6",
+						"name": "Plants"
+					}
+				}
+			},
+			"T9": {
+				"id": "T9",
+				"name": "Extreme Anatomy",
+				"subKinks": {
+					"T9-1": {
+						"id": "T9-1",
+						"name": "Huge Ass"
+					},
+					"T9-2": {
+						"id": "T9-2",
+						"name": "Massive Breasts"
+					},
+					"T9-3": {
+						"id": "T9-3",
+						"name": "Massive Cocks"
+					},
+					"T9-4": {
+						"id": "T9-4",
+						"name": "Obesity"
+					}
+				}
+			}
+		}
+	}
+}
