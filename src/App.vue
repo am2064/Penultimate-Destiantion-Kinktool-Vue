@@ -14,9 +14,9 @@
 </template>
 
 <script>
-import KinkSelection from '~/components/KinkSelection.vue'
-import KinkLine from '~/components/KinkLine.vue'
-import Kinks from '~/assets/kinks'
+import KinkSelection from './components/KinkSelection.vue'
+import KinkLine from './components/KinkLine.vue'
+import Kinks from './assets/kinks'
 import {mapState} from 'vuex'
 
 export default {
