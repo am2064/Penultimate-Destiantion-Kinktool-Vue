@@ -27,7 +27,6 @@ module.exports = {
     /*
     ** Run ESLint on save
     */
-	  publicPath: '',
     extend (config, ctx) {
       if (ctx.dev && ctx.isClient) {
         config.module.rules.push({
