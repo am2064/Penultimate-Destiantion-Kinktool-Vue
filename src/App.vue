@@ -10,6 +10,7 @@
 			</li>
 		</ul>
 	</div>
+	<kink-line></kink-line>
 </div>
 </template>
 
