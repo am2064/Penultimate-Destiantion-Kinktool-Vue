@@ -6,252 +6,255 @@
 			"B1": {
 				"id": "B1",
 				"name": "Behavior",
-				"desc": "",
+				"desc": "Dictating of behavior, or causing it.",
 				"subKinks": {
 					"B1-1": {
 						"id": "B1-1",
 						"name": "Begging",
-						"desc": ""
+						"desc": "Situations where the submissive is made to beg."
 					},
 					"B1-2": {
 						"id": "B1-2",
 						"name": "Meek",
-						"desc": ""
+						"desc": "Situations in which the submissive is forced to quietly accept events."
 					},
 					"B1-3": {
 						"id": "B1-3",
 						"name": "Pet Play",
-						"desc": ""
+						"desc": "Situations in which the submissive is treated like an animal or pet."
 					},
 					"B1-4": {
 						"id": "B1-4",
 						"name": "Physical Exhaustion",
-						"desc": ""
+						"desc": "Situations which leave the submissive fatigued to the point of collapse."
 					},
 					"B1-5": {
 						"id": "B1-5",
 						"name": "Pony Play",
-						"desc": ""
+						"desc": "Related to Pet Play, but specifically treated as a pony. May involve dressing up and carrying loads."
 					},
 					"B1-6": {
 						"id": "B1-6",
 						"name": "Sexual Exhaustion",
-						"desc": ""
+						"desc": "Situations which leave the submissive exhausted from sexual stimulation past the point of comfort."
 					},
 					"B1-7": {
 						"id": "B1-7",
 						"name": "Uppity",
-						"desc": ""
+						"desc": "Situations which have the submissive resisting or disobedient."
 					}
 				}
 			},
 			"B2": {
 				"id": "B2",
 				"name": "Bondage",
-				"desc": "",
+				"desc": "Restraint or control of some kind, usually physical.",
 				"subKinks": {
 					"B2-1": {
 						"id": "B2-1",
 						"name": "Belts",
-						"desc": ""
+						"desc": "The use of belts to buckle and restrain."
 					},
 					"B2-10": {
 						"id": "B2-10",
-						"name": "Leash & Collar"
+						"name": "Leash & Collar",
+						"desc": "The use of a collar to denote bondage, and possibly leash."
 					},
 					"B2-11": {
 						"id": "B2-11",
 						"name": "Magic",
-						"desc": ""
+						"desc": "The use of magic in restraint in some way."
 					},
 					"B2-12": {
 						"id": "B2-12",
 						"name": "Manacles",
-						"desc": ""
+						"desc": "The chaining of wrists and/or ankles to a stationary object."
 					},
 					"B2-13": {
 						"id": "B2-13",
-						"name": "Restraint(Light)"
+						"name": "Restraint(Light)",
+						"desc": "Generic restraint of the body in a partial manner."
 					},
 					"B2-14": {
 						"id": "B2-14",
-						"name": "Restraint(Heavy)"
+						"name": "Restraint(Heavy)",
+						"desc": "Generic restraint of the body in a near or full manner."
 					},
 					"B2-15": {
 						"id": "B2-15",
 						"name": "Rope",
-						"desc": ""
+						"desc": "The use of rope as a means to restrain."
 					},
 					"B2-16": {
 						"id": "B2-16",
 						"name": "Shibari",
-						"desc": ""
+						"desc": "The use of rope in intricate patterns, with limited actual restraint."
 					},
 					"B2-17": {
 						"id": "B2-17",
 						"name": "Suspension",
-						"desc": ""
+						"desc": "Restraining a partner by suspending the body above the floor or ground in some way."
 					},
 					"B2-2": {
 						"id": "B2-2",
 						"name": "Caging",
-						"desc": ""
+						"desc": "Keeping a partner in a confined space like a cage or box."
 					},
 					"B2-3": {
 						"id": "B2-3",
 						"name": "Chain",
-						"desc": ""
+						"desc": "Utilizing chains to restrain."
 					},
 					"B2-4": {
 						"id": "B2-4",
 						"name": "Contortion",
-						"desc": ""
+						"desc": "Restraining a partner in a way that is an unnatural pose."
 					},
 					"B2-5": {
 						"id": "B2-5",
 						"name": "Devices",
-						"desc": ""
+						"desc": "Restraints involving mechanical devices of some sort."
 					},
 					"B2-6": {
 						"id": "B2-6",
 						"name": "Encasement",
-						"desc": ""
+						"desc": "Complete encasement of a partner in a substance, sometimes leaving the head or portions of the limbs free."
 					},
 					"B2-7": {
 						"id": "B2-7",
 						"name": "Gags",
-						"desc": ""
+						"desc": "Utilizing gags to silence a partner or control the mouth."
 					},
 					"B2-8": {
 						"id": "B2-8",
 						"name": "Handcuffs",
-						"desc": ""
+						"desc": "Use of handcuffs as restraints."
 					},
 					"B2-9": {
 						"id": "B2-9",
 						"name": "Immobilization",
-						"desc": ""
+						"desc": "Completely restraining all movement in some way."
 					}
 				}
 			},
 			"B3": {
 				"id": "B3",
 				"name": "Rules",
-				"desc": "",
+				"desc": "Dictation of rules that a submissive must follow.",
 				"subKinks": {
 					"B3-1": {
 						"id": "B3-1",
 						"name": "Access Restrictions",
-						"desc": ""
+						"desc": "Rules that ban the submissive from going certain places or performing certain actions not covered by other things."
 					},
 					"B3-2": {
 						"id": "B3-2",
 						"name": "Clothing Restriction",
-						"desc": ""
+						"desc": "Rules dictating the type of clothing worn."
 					},
 					"B3-3": {
 						"id": "B3-3",
 						"name": "Chastity",
-						"desc": ""
+						"desc": "Rules restricting the sexual activity of the submissive."
 					},
 					"B3-4": {
 						"id": "B3-4",
 						"name": "Humiliation",
-						"desc": ""
+						"desc": "Rules designed to embarrass the submissive."
 					},
 					"B3-5": {
 						"id": "B3-5",
 						"name": "Movement Restriction",
-						"desc": ""
+						"desc": "Rules restricting how the submissive may move about."
 					},
 					"B3-6": {
 						"id": "B3-6",
 						"name": "Orgasm Control",
-						"desc": ""
+						"desc": "Control over the submissive's orgasms."
 					},
 					"B3-7": {
 						"id": "B3-7",
 						"name": "Orgasm Denial",
-						"desc": ""
+						"desc": "Restricting the submissive from orgasming in some way."
 					},
 					"B3-8": {
 						"id": "B3-8",
 						"name": "Speech Restraints",
-						"desc": ""
+						"desc": "Rules restricting what the submissive may say, or how they say it."
 					}
 				}
 			},
 			"B4": {
 				"id": "B4",
 				"name": "Sensory Deprivation",
-				"desc": "",
+				"desc": "Relieving a partner of one or more senses.",
 				"subKinks": {
 					"B4-1": {
 						"id": "B4-1",
 						"name": "Blindfolds",
-						"desc": ""
+						"desc": "Use of blindfolds or blinders or other sight-restricting paraphernalia."
 					},
 					"B4-2": {
 						"id": "B4-2",
 						"name": "Earplugs",
-						"desc": ""
+						"desc": "Blockage of the ears with plugs or earmuffs or the like."
 					},
 					"B4-3": {
 						"id": "B4-3",
 						"name": "Full Body",
-						"desc": ""
+						"desc": "Full sensory deprivation through some means like a bodysuit."
 					},
 					"B4-4": {
 						"id": "B4-4",
 						"name": "Hoods",
-						"desc": ""
+						"desc": "The use of face-covering hoods to block sight, sound, smell, and most senses."
 					},
 					"B4-5": {
 						"id": "B4-5",
 						"name": "Masks",
-						"desc": ""
+						"desc": "The use of masks over the face to control the senses."
 					},
 					"B4-6": {
 						"id": "B4-6",
 						"name": "Numbing",
-						"desc": ""
+						"desc": "Numbing of the body in some way so as to remove sensation."
 					}
 				}
 			},
 			"B5": {
 				"id": "B5",
 				"name": "Slavery",
-				"desc": "",
+				"desc": "Ownership of another and related control.",
 				"subKinks": {
 					"B5-1": {
 						"id": "B5-1",
 						"name": "Branding",
-						"desc": ""
+						"desc": "Indication of ownership through permanent marks like brands, tattoos, or scars."
 					},
 					"B5-2": {
 						"id": "B5-2",
 						"name": "Discipline",
-						"desc": ""
+						"desc": "A heavy focus on discipline as reinforcement of a slave's place."
 					},
 					"B5-3": {
 						"id": "B5-3",
 						"name": "Harem",
-						"desc": ""
+						"desc": "Treatment of the slave as part of a group for sexual gratification."
 					},
 					"B5-4": {
 						"id": "B5-4",
 						"name": "Objectification",
-						"desc": ""
+						"desc": "Treatment of the slave as an object, usually with a dehumanizing bent and attacking self-worth."
 					},
 					"B5-5": {
 						"id": "B5-5",
 						"name": "Pet",
-						"desc": ""
+						"desc": "Treatment of the slave as a favorite, but less than human."
 					},
 					"B5-6": {
 						"id": "B5-6",
 						"name": "Slave",
-						"desc": ""
+						"desc": "General ownership of a person and play reinforcing this."
 					}
 				}
 			}
@@ -264,622 +267,628 @@
 			"H1": {
 				"id": "H1",
 				"name": "Amputation",
-				"desc": "",
+				"desc": "The removal of parts of the body.",
 				"subKinks": {
 					"H1-1": {
 						"id": "H1-1",
 						"name": "Clean",
-						"desc": ""
+						"desc": "Relatively bloodless and clean removal, possibly without much pain."
 					},
 					"H1-2": {
 						"id": "H1-2",
 						"name": "Realistic",
-						"desc": ""
+						"desc": "Messy and bloody removal, or painful."
 					}
 				}
 			},
 			"H10": {
 				"id": "H10",
 				"name": "Messy",
-				"desc": "",
+				"desc": "Roleplay that involves messes, smells, or things usually considered unappealing in some way.",
 				"subKinks": {
 					"H10-1": {
 						"id": "H10-1",
 						"name": "Menses",
-						"desc": ""
+						"desc": "Roleplay involving menstruation in some way."
 					},
 					"H10-2": {
 						"id": "H10-2",
 						"name": "Musk",
-						"desc": ""
+						"desc": "Odors, smells, and natural secretions."
 					},
 					"H10-3": {
 						"id": "H10-3",
 						"name": "Slob",
-						"desc": ""
+						"desc": "Roleplay involving one or more who take poor care of themselves."
 					},
 					"H10-4": {
 						"id": "H10-4",
 						"name": "Smegma",
-						"desc": ""
+						"desc": "Play involving the material that builds up beneath the foreskin of the penis, or similar waste."
 					},
 					"H10-5": {
 						"id": "H10-5",
 						"name": "Wet and Messy",
-						"desc": ""
+						"desc": "Play that generally results in a mess and splatter all over."
 					}
 				}
 			},
 			"H11": {
 				"id": "H11",
 				"name": "Mutilation",
-				"desc": "",
+				"desc": "Inflicting permanent damage in some way that marks or alters a character.",
 				"subKinks": {
 					"H11-1": {
 						"id": "H11-1",
 						"name": "Abrasions",
-						"desc": ""
+						"desc": "Scrapes or rubbing that damages the skin and upper layers of flesh."
 					},
 					"H11-2": {
 						"id": "H11-2",
 						"name": "Branding",
-						"desc": ""
+						"desc": "Burning or freezing or otherwise permanently marking the skin. Usually implies leaving a sign of some kind."
 					},
 					"H11-3": {
 						"id": "H11-3",
 						"name": "Castration",
-						"desc": ""
+						"desc": "Removal of the gonads. Usually testicles, but this can apply to ovaries as well in this case."
 					},
 					"H11-4": {
 						"id": "H11-4",
 						"name": "Piercing",
-						"desc": ""
+						"desc": "Application of piercings in nonstandard places."
 					},
 					"H11-5": {
 						"id": "H11-5",
 						"name": "Scarring",
-						"desc": ""
+						"desc": "Permanently damaging the skin in some way."
 					},
 					"H11-6": {
 						"id": "H11-6",
 						"name": "Tattoos",
-						"desc": ""
+						"desc": "Application of tattoos. Just having tattoos does not fall under this."
 					}
 				}
 			},
 			"H12": {
 				"id": "H12",
 				"name": "Necrophilia",
-				"desc": "",
+				"desc": "Sexual relations with corpses, animated or non.",
 				"subKinks": {}
 			},
 			"H13": {
 				"id": "H13",
 				"name": "Scat",
-				"desc": "",
+				"desc": "Roleplay involving feces in some way.",
 				"subKinks": {
 					"H13-1": {
 						"id": "H13-1",
 						"name": "Diapers",
-						"desc": ""
+						"desc": "Roleplay focusing heavily on one or more partner wearing a diaper. Actual soiling may not be included."
 					},
 					"H13-2": {
 						"id": "H13-2",
 						"name": "Farting",
-						"desc": ""
+						"desc": "Focus on gaseous emissions."
 					},
 					"H13-3": {
 						"id": "H13-3",
 						"name": "Feces Play",
-						"desc": ""
+						"desc": "Playing with feces in some way. Sculpting, throwing, etc."
 					},
 					"H13-4": {
 						"id": "H13-4",
 						"name": "Hyper Scat",
-						"desc": ""
+						"desc": "Scenes involving huge amounts of feces."
 					},
 					"H13-5": {
 						"id": "H13-5",
 						"name": "Scat Torture",
-						"desc": ""
+						"desc": "Torture that involves the use of feces, either exposure or blockage."
 					},
 					"H13-6": {
 						"id": "H13-6",
 						"name": "Soiling",
-						"desc": ""
+						"desc": "Scenes in which one or more character has an accidental release of feces."
 					},
 					"H13-7": {
 						"id": "H13-7",
 						"name": "Swallowing",
-						"desc": ""
+						"desc": "The consumption of feces."
 					}
 				}
 			},
 			"H14": {
 				"id": "H14",
 				"name": "Transformation",
-				"desc": "",
+				"desc": "Roleplay centered around the change of another via external influence. Shapeshifters have a Body Type kink.",
 				"subKinks": {
 					"H14-1": {
 						"id": "H14-1",
 						"name": "Addition",
-						"desc": ""
+						"desc": "The addition of extra body parts. Breasts, arms, legs, tails, etc."
 					},
 					"H14-10": {
 						"id": "H14-10",
 						"name": "Expansion",
-						"desc": ""
+						"desc": "Growth in targeted areas, such as increased breast size."
 					},
 					"H14-11": {
 						"id": "H14-11",
 						"name": "Fast",
-						"desc": ""
+						"desc": "Transformation that occurs swiftly, usually no more than a few poses."
 					},
 					"H14-12": {
 						"id": "H14-12",
 						"name": "Fatal",
-						"desc": ""
+						"desc": "Transformation that results in the death of the victim somehow."
 					},
 					"H14-13": {
 						"id": "H14-13",
 						"name": "Forced",
-						"desc": ""
+						"desc": "Transformation where the victim is unwilling."
 					},
 					"H14-14": {
 						"id": "H14-14",
 						"name": "Growth",
-						"desc": ""
+						"desc": "Increasing the size of the victim significantly."
 					},
 					"H14-15": {
 						"id": "H14-15",
 						"name": "Inanimate",
-						"desc": ""
+						"desc": "Transformation of the victim into an inanimate object."
 					},
 					"H14-16": {
 						"id": "H14-16",
 						"name": "Mental",
-						"desc": ""
+						"desc": "Transformations which alter the mental state somehow."
 					},
 					"H14-17": {
 						"id": "H14-17",
 						"name": "Merging",
-						"desc": ""
+						"desc": "Merging the victim with another person or thing."
 					},
 					"H14-18": {
 						"id": "H14-18",
 						"name": "Permanent",
-						"desc": ""
+						"desc": "Transformations which last beyond the scope of the scene for an indefinite period."
 					},
 					"H14-19": {
 						"id": "H14-19",
 						"name": "Petrification",
-						"desc": ""
+						"desc": "Turning the victim to stone, or any other solid immobile substance."
 					},
 					"H14-2": {
 						"id": "H14-2",
 						"name": "Age Progression",
-						"desc": ""
+						"desc": "Artificially increasing one's age."
 					},
 					"H14-20": {
 						"id": "H14-20",
 						"name": "Removal",
-						"desc": ""
+						"desc": "Removal of parts normally present, such as the lower body."
 					},
 					"H14-21": {
 						"id": "H14-21",
-						"name": "Rubber/Latex"
+						"name": "Rubber/Latex",
+						"desc": "Transformation of the victim into rubber or latex."
 					},
 					"H14-22": {
 						"id": "H14-22",
-						"name": "Sex/Gender"
+						"name": "Sex/Gender",
+						"desc": "Changing the victim's sex."
 					},
 					"H14-23": {
 						"id": "H14-23",
 						"name": "Shrinking",
-						"desc": ""
+						"desc": "Reducing the size of the victim significantly."
 					},
 					"H14-24": {
 						"id": "H14-24",
 						"name": "Slow",
-						"desc": ""
+						"desc": "Transformations that take at a minimum several poses to complete, possibly several days."
 					},
 					"H14-25": {
 						"id": "H14-25",
 						"name": "Theft",
-						"desc": ""
+						"desc": "Transference of attributes or body parts from one person to another, implied nonconsenting."
 					},
 					"H14-26": {
 						"id": "H14-26",
 						"name": "Weird",
-						"desc": ""
+						"desc": "Bizarre changes which do not fit into any of the above."
 					},
 					"H14-3": {
 						"id": "H14-3",
 						"name": "Age Regression",
-						"desc": ""
+						"desc": "Artificially youthening."
 					},
 					"H14-4": {
 						"id": "H14-4",
 						"name": "Animal",
-						"desc": ""
+						"desc": "Turning into a full animal, or nearly so."
 					},
 					"H14-5": {
 						"id": "H14-5",
 						"name": "Anthro",
-						"desc": ""
+						"desc": "Transformation into an anthropomorphic form."
 					},
 					"H14-6": {
 						"id": "H14-6",
 						"name": "Bimbo",
-						"desc": ""
+						"desc": "Transformation into a sexually attractive but less intelligent form."
 					},
 					"H14-7": {
 						"id": "H14-7",
 						"name": "Desexualization",
-						"desc": ""
+						"desc": "Removal of sex characteristics. 'Barbie-dolling.'"
 					},
 					"H14-8": {
 						"id": "H14-8",
 						"name": "Dollification",
-						"desc": ""
+						"desc": "Transformation into a doll or similar decorative, humanlike object."
 					},
 					"H14-9": {
 						"id": "H14-9",
 						"name": "Enhancement",
-						"desc": ""
+						"desc": "General enhancement of a character, such as beauty or musculature."
 					}
 				}
 			},
 			"H15": {
 				"id": "H15",
 				"name": "Vomit",
-				"desc": "",
+				"desc": "Roleplay involving one person throwing up, and the resulting mess.",
 				"subKinks": {
 					"H15-1": {
 						"id": "H15-1",
 						"name": "Swallowing",
-						"desc": ""
+						"desc": "Swallowing vomit in play."
 					}
 				}
 			},
 			"H16": {
 				"id": "H16",
 				"name": "Vore",
-				"desc": "",
+				"desc": "Roleplay involving the consumption, swallowing, or absorption of another character.",
 				"subKinks": {
 					"H16-1": {
 						"id": "H16-1",
 						"name": "Absorption",
-						"desc": ""
+						"desc": "Consumption by merging and enveloping the victim, possibly taking on some of their traits."
 					},
 					"H16-10": {
 						"id": "H16-10",
 						"name": "Digestion",
-						"desc": ""
+						"desc": "Scenes which detail the process of digestion in addition to the consumption."
 					},
 					"H16-11": {
 						"id": "H16-11",
 						"name": "Disposal",
-						"desc": ""
+						"desc": "Scenes which detail the disposal of the remains in addition to the consumption."
 					},
 					"H16-12": {
 						"id": "H16-12",
 						"name": "Hard Vore",
-						"desc": ""
+						"desc": "Consumption which includes chewing and blood."
 					},
 					"H16-13": {
 						"id": "H16-13",
 						"name": "Realistic Vore",
-						"desc": ""
+						"desc": "Consumption which respects normal limits of stomach space and the relative sizes."
 					},
 					"H16-14": {
 						"id": "H16-14",
 						"name": "Soft Vore",
-						"desc": ""
+						"desc": "Non-bloody consumption, usually swallowing whole."
 					},
 					"H16-15": {
 						"id": "H16-15",
 						"name": "Soul Vore",
-						"desc": ""
+						"desc": "Consumption of the victim's soul. Usually tied with permanent death."
 					},
 					"H16-16": {
 						"id": "H16-16",
 						"name": "Unbirthing",
-						"desc": ""
+						"desc": "Taking the victim into the vaginal canal and womb."
 					},
 					"H16-17": {
 						"id": "H16-17",
 						"name": "Unrealistic Vore",
-						"desc": ""
+						"desc": "Consumption which cannot possibly happen in the real world."
 					},
 					"H16-2": {
 						"id": "H16-2",
 						"name": "Alternative Vore",
-						"desc": ""
+						"desc": Consumption by unusual methods not listed as a subkink, such as hair or clothing.""
 					},
 					"H16-3": {
 						"id": "H16-3",
 						"name": "Anal Vore",
-						"desc": ""
+						"desc": "Consumption by insertion into the rear."
 					},
 					"H16-4": {
 						"id": "H16-4",
 						"name": "Being Predator",
-						"desc": ""
+						"desc": Being the one eating.""
 					},
 					"H16-5": {
 						"id": "H16-5",
 						"name": "Being Prey",
-						"desc": ""
+						"desc": "Being the one eaten."
 					},
 					"H16-6": {
 						"id": "H16-6",
 						"name": "Breast Vore",
-						"desc": ""
+						"desc": "Consumption by being swallowed in the cleavage or nipples."
 					},
 					"H16-7": {
 						"id": "H16-7",
 						"name": "Cannibalism",
-						"desc": ""
+						"desc": "Realistic consumption of similar species."
 					},
 					"H16-8": {
 						"id": "H16-8",
 						"name": "Cock Vore",
-						"desc": ""
+						"desc": "Consumption by swallowing down the urethra."
 					},
 					"H16-9": {
 						"id": "H16-9",
 						"name": "Cooking",
-						"desc": ""
+						"desc": "Consumption after first cooking the victim. Usually but not always on a spit."
 					}
 				}
 			},
 			"H17": {
 				"id": "H17",
 				"name": "Watersports",
-				"desc": "",
+				"desc": "Roleplay that centers around urination and the bathroom.",
 				"subKinks": {
 					"H17-1": {
 						"id": "H17-1",
 						"name": "Bathroom Control",
-						"desc": ""
+						"desc": "Limiting someone's ability to use the restroom."
 					},
 					"H17-2": {
 						"id": "H17-2",
 						"name": "Bathroom Play",
-						"desc": ""
+						"desc": "Roleplay centered around the bathroom itself, and activities therein."
 					},
 					"H17-3": {
 						"id": "H17-3",
 						"name": "Diapers",
-						"desc": ""
+						"desc": "Roleplay focusing on diapers and wetting them."
 					},
 					"H17-4": {
 						"id": "H17-4",
 						"name": "Hyper Watersports",
-						"desc": ""
+						"desc": "Urination in extreme amounts. Think gallons."
 					},
 					"H17-5": {
 						"id": "H17-5",
 						"name": "Marking",
-						"desc": ""
+						"desc": "Urination with the goal of marking ownership by scent."
 					},
 					"H17-6": {
 						"id": "H17-6",
 						"name": "Piss Enema",
-						"desc": ""
+						"desc": "Cleaning the bowels out with urine."
 					},
 					"H17-7": {
 						"id": "H17-7",
 						"name": "Swallowing",
-						"desc": ""
+						"desc": "Swallowing urine in a scene."
 					},
 					"H17-8": {
 						"id": "H17-8",
 						"name": "Voyeur",
-						"desc": ""
+						"desc": "Watching urination."
 					},
 					"H17-9": {
 						"id": "H17-9",
 						"name": "Wetting",
-						"desc": ""
+						"desc": "Scenes where unintentional wetting occurs."
 					}
 				}
 			},
 			"H2": {
 				"id": "H2",
 				"name": "Blood",
-				"desc": "",
+				"desc": "Play involving blood in some way.",
 				"subKinks": {
 					"H2-1": {
 						"id": "H2-1",
 						"name": "Bloodletting",
-						"desc": ""
+						"desc": "Drawing or spilling blood."
 					},
 					"H2-2": {
 						"id": "H2-2",
 						"name": "Swallowing",
-						"desc": ""
+						"desc": "Drinking or swallowing blood."
 					}
 				}
 			},
 			"H3": {
 				"id": "H3",
 				"name": "Breath Control",
-				"desc": "",
+				"desc": "Control over a partner's air supply.",
 				"subKinks": {
 					"H3-1": {
 						"id": "H3-1",
 						"name": "Asphyxiation",
-						"desc": ""
+						"desc": "Removal of air in some way from a partner's reach."
 					},
 					"H3-2": {
 						"id": "H3-2",
 						"name": "Choking",
-						"desc": ""
+						"desc": "Blockage or closure of the trachea."
 					}
 				}
 			},
 			"H4": {
 				"id": "H4",
 				"name": "Death",
-				"desc": "",
+				"desc": "Play in which one or more characters are killed.",
 				"subKinks": {
 					"H4-1": {
 						"id": "H4-1",
 						"name": "Defilement",
-						"desc": ""
+						"desc": "Play in which the corpse is mutilated or defiled after death."
 					},
 					"H4-2": {
 						"id": "H4-2",
 						"name": "Impalement",
-						"desc": ""
+						"desc": "Death by impalement."
 					},
 					"H4-3": {
 						"id": "H4-3",
 						"name": "Permanent",
-						"desc": ""
+						"desc": "Death which results in deletion or permanent change of character."
 					}
 				}
 			},
 			"H5": {
 				"id": "H5",
 				"name": "Drugs",
-				"desc": "",
+				"desc": "Play involving mood-altering substances.",
 				"subKinks": {
 					"H5-1": {
 						"id": "H5-1",
 						"name": "Addiction",
-						"desc": ""
+						"desc": "Roleplay centering around need or addiction to a drug."
 					},
 					"H5-2": {
 						"id": "H5-2",
 						"name": "Alcohol",
-						"desc": ""
+						"desc": "Roleplay centering on the use of alcohol in some way."
 					},
 					"H5-3": {
 						"id": "H5-3",
 						"name": "Aphrodisiacs",
-						"desc": ""
+						"desc": "Roleplay using drugs that increase sexual sensitivity or desire."
 					},
 					"H5-4": {
 						"id": "H5-4",
 						"name": "Hard Drugs",
-						"desc": ""
+						"desc": "Roleplay involving hardcore drugs like heroin or cocaine."
 					},
 					"H5-5": {
 						"id": "H5-5",
 						"name": "Smoking",
-						"desc": ""
+						"desc": "Play centered around smoking, usually tobacco."
 					}
 				}
 			},
 			"H6": {
 				"id": "H6",
 				"name": "Enema",
-				"desc": "",
+				"desc": "Cleansing the bowels by injection of a cleaning solution into the anus.",
 				"subKinks": {
 					"H6-1": {
 						"id": "H6-1",
 						"name": "Clean",
-						"desc": ""
+						"desc": "Enemas that do not result in messes from the bowels."
 					},
 					"H6-2": {
 						"id": "H6-2",
 						"name": "Cum",
-						"desc": ""
+						"desc": "Enemas performed with sexual fluids rather than soap."
 					},
 					"H6-3": {
 						"id": "H6-3",
 						"name": "Messy",
-						"desc": ""
+						"desc": "Enemas which result in the expected expulsion of stool and waste."
 					}
 				}
 			},
 			"H7": {
 				"id": "H7",
 				"name": "Inflation",
-				"desc": "",
+				"desc": "Expansion of a person's body. For bloating from cum, see Cum Inflation in Sex Category.",
 				"subKinks": {
 					"H7-1": {
 						"id": "H7-1",
 						"name": "Heavy",
-						"desc": ""
+						"desc": "Extreme expansion resulting in a massively-rounded body, to balloon-like proportions."
 					},
 					"H7-2": {
 						"id": "H7-2",
 						"name": "Light",
-						"desc": ""
+						"desc": "Light expansion usually focused on one body part, such as breasts or hips."
 					},
 					"H7-3": {
 						"id": "H7-3",
 						"name": "Popping",
-						"desc": ""
+						"desc": "Inflation to the point of making the victim explode."
 					}
 				}
 			},
 			"H8": {
 				"id": "H8",
 				"name": "Rape",
-				"desc": "",
+				"desc": "Sexual play in which one or more parties are unwilling.",
 				"subKinks": {
 					"H8-1": {
 						"id": "H8-1",
 						"name": "Hard Rape",
-						"desc": ""
+						"desc": "Violent rape and all the trauma that comes with it."
 					},
 					"H8-2": {
 						"id": "H8-2",
-						"name": "Pseudo-Rape"
+						"name": "Pseudo-Rape",
+						"desc": "Rape in which one party protests, but is either eventually won over or does not actively resist."
 					}
 				}
 			},
 			"H9": {
 				"id": "H9",
 				"name": "Torture",
-				"desc": "",
+				"desc": "Inflicting purposeful pain upon one or more parties.",
 				"subKinks": {
 					"H9-1": {
 						"id": "H9-1",
-						"name": "Breast/Nipple"
+						"name": "Breast/Nipple",
+						"desc": "Twisting or inflicting pain on the nipples and/or breasts."
 					},
 					"H9-2": {
 						"id": "H9-2",
 						"name": "Burning",
-						"desc": ""
+						"desc": "Inflicting damage via flame or heat."
 					},
 					"H9-3": {
 						"id": "H9-3",
 						"name": "Chemical",
-						"desc": ""
+						"desc": "Pain inflicted by chemicals such as acid."
 					},
 					"H9-4": {
 						"id": "H9-4",
-						"name": "Electro-Torture"
+						"name": "Electro-Torture",
+						"desc": "Use of electricity to shock and inflict pain."
 					},
 					"H9-5": {
 						"id": "H9-5",
 						"name": "Genital Torture",
-						"desc": ""
+						"desc": "Torture focused heavily on the genitalia."
 					},
 					"H9-6": {
 						"id": "H9-6",
-						"name": "Hot/Cold"
+						"name": "Hot/Cold",
+						"desc": "Application of extreme but not necessarily damaging temperatures."
 					},
 					"H9-7": {
 						"id": "H9-7",
 						"name": "Pain",
-						"desc": ""
+						"desc": "General infliction of pain without a direct focus."
 					},
 					"H9-8": {
 						"id": "H9-8",
 						"name": "Sexual",
-						"desc": ""
+						"desc": "Torture that plays on sexual needs, usually tied with orgasm control or exhaustion."
 					},
 					"H9-9": {
 						"id": "H9-9",
 						"name": "Starvation",
-						"desc": ""
+						"desc": "Deprivation of nourishment to cause discomfort."
 					}
 				}
 			}
@@ -892,37 +901,37 @@
 			"M1": {
 				"id": "M1",
 				"name": "Bottom",
-				"desc": "",
+				"desc": "Being under the other partner during encounters, either physically or in position somehow.",
 				"subKinks": {}
 			},
 			"M2": {
 				"id": "M2",
 				"name": "Dominant",
-				"desc": "",
+				"desc": "Being in control of an encounter.",
 				"subKinks": {}
 			},
 			"M3": {
 				"id": "M3",
 				"name": "Equal",
-				"desc": "",
+				"desc": "Favoring neither party during an encounter in terms of control.",
 				"subKinks": {}
 			},
 			"M4": {
 				"id": "M4",
 				"name": "Submissive",
-				"desc": "",
+				"desc": "A preference for not being in control or ceding control to a Dominant partner.",
 				"subKinks": {}
 			},
 			"M5": {
 				"id": "M5",
 				"name": "Switch",
-				"desc": "",
+				"desc": "Can take the role of being in control or ceding control in an encounter.",
 				"subKinks": {}
 			},
 			"M6": {
 				"id": "M6",
 				"name": "Top",
-				"desc": "",
+				"desc": "Being above the other partner during encounters, either physically or in position somehow.",
 				"subKinks": {}
 			}
 		}
@@ -934,59 +943,60 @@
 			"P1": {
 				"id": "P1",
 				"name": "Androgynous",
-				"desc": "",
+				"desc": "Partners that are not clearly of one gender or another at first inspection.",
 				"subKinks": {
 					"P1-1": {
 						"id": "P1-1",
 						"name": "Trap",
-						"desc": ""
+						"desc": "Partners that appear feminine via dress and mannerism, but are male."
 					},
 					"P1-2": {
 						"id": "P1-2",
-						"name": "Reverse-Trap"
+						"name": "Reverse-Trap",
+						"desc": "Partners that appear male via dress and mannerism, but are female."
 					}
 				}
 			},
 			"P2": {
 				"id": "P2",
 				"name": "Cuntboys",
-				"desc": "",
+				"desc": "Partners which have the appearance of a male, but have a vagina and no male genitalia.",
 				"subKinks": {}
 			},
 			"P3": {
 				"id": "P3",
 				"name": "Females",
-				"desc": "",
+				"desc": "Partners which are entirely female.",
 				"subKinks": {}
 			},
 			"P4": {
 				"id": "P4",
 				"name": "Hermaphrodites",
-				"desc": "",
+				"desc": "Partners which have breasts and both male and female genitalia.",
 				"subKinks": {}
 			},
 			"P5": {
 				"id": "P5",
 				"name": "Male Herms",
-				"desc": "",
+				"desc": "Partners which have both sets of genitalia but appear male.",
 				"subKinks": {}
 			},
 			"P6": {
 				"id": "P6",
 				"name": "Males",
-				"desc": "",
+				"desc": "Fully male partners.",
 				"subKinks": {}
 			},
 			"P7": {
 				"id": "P7",
 				"name": "Shemales",
-				"desc": "",
+				"desc": "Partners which appear entirely female but have male genitalia instead of female.",
 				"subKinks": {}
 			},
 			"P8": {
 				"id": "P8",
 				"name": "Transgender",
-				"desc": "",
+				"desc": "Partners which were originally one sex but are transitioning into another.",
 				"subKinks": {}
 			}
 		}
@@ -998,630 +1008,640 @@
 			"R1": {
 				"id": "R1",
 				"name": "Clothing",
-				"desc": "",
+				"desc": "Roleplay centered around clothes and outfits.",
 				"subKinks": {
 					"R1-1": {
 						"id": "R1-1",
-						"name": "Boots/Shoes"
+						"name": "Boots/Shoes",
+						"desc": "Focus on footwear design and presence."
 					},
 					"R1-10": {
 						"id": "R1-10",
 						"name": "Maid",
-						"desc": ""
+						"desc": "Dressing up like a maid."
 					},
 					"R1-11": {
 						"id": "R1-11",
 						"name": "Naked Apron",
-						"desc": ""
+						"desc": "Wearing an apron and nothing else."
 					},
 					"R1-12": {
 						"id": "R1-12",
 						"name": "Religious",
-						"desc": ""
+						"desc": "Religious trappings such as nun or priestess clothing."
 					},
 					"R1-13": {
 						"id": "R1-13",
 						"name": "Slutty",
-						"desc": ""
+						"desc": "Dressing up in alluring and provocative outfits."
 					},
 					"R1-14": {
 						"id": "R1-14",
 						"name": "Style",
-						"desc": ""
+						"desc": "General focus on style and unusual fashion."
 					},
 					"R1-15": {
 						"id": "R1-15",
 						"name": "Suits",
-						"desc": ""
+						"desc": "Formal suit and tie."
 					},
 					"R1-16": {
 						"id": "R1-16",
 						"name": "Underwear",
-						"desc": ""
+						"desc": "Underthings not specifically designed to be attractive."
 					},
 					"R1-17": {
 						"id": "R1-17",
 						"name": "Uniforms",
-						"desc": ""
+						"desc": "Any uniform, but usually implying that of an authority figure like police or military."
 					},
 					"R1-18": {
 						"id": "R1-18",
-						"name": "Wedding/Formal"
+						"name": "Wedding/Formal",
+						"desc": "Wedding or formal dresses."
 					},
 					"R1-19": {
 						"id": "R1-19",
 						"name": "Stockings",
-						"desc": ""
+						"desc": "Stocking, pantyhose, or thigh-high roleplay."
 					},
 					"R1-2": {
 						"id": "R1-2",
 						"name": "Costumes",
-						"desc": ""
+						"desc": "Play centering around dressing up as someone/something else."
 					},
 					"R1-20": {
 						"id": "R1-20",
 						"name": "Living Clothing",
-						"desc": ""
+						"desc": "Clothing made up of a living being, like a symbiont or slime or similar."
 					},
 					"R1-3": {
 						"id": "R1-3",
 						"name": "Crossdressing",
-						"desc": ""
+						"desc": "Dressing up as the opposite sex."
 					},
 					"R1-4": {
 						"id": "R1-4",
 						"name": "Glasses",
-						"desc": ""
+						"desc": "Wearing glasses."
 					},
 					"R1-5": {
 						"id": "R1-5",
-						"name": "Kimono/Japanese"
+						"name": "Kimono/Japanese",
+						"desc": "Traditional Eastern-style clothes such as kimonos and yukatas."
 					},
 					"R1-6": {
 						"id": "R1-6",
 						"name": "Latex",
-						"desc": ""
+						"desc": "Clothing made of latex or similar substances."
 					},
 					"R1-7": {
 						"id": "R1-7",
 						"name": "Leather",
-						"desc": ""
+						"desc": "Outfits made of leather."
 					},
 					"R1-8": {
 						"id": "R1-8",
 						"name": "Lingerie",
-						"desc": ""
+						"desc": "Focus on fancy undergarments."
 					},
 					"R1-9": {
 						"id": "R1-9",
 						"name": "Masks",
-						"desc": ""
+						"desc": "Masks and facial coverings of some sort."
 					}
 				}
 			},
 			"R10": {
 				"id": "R10",
 				"name": "Perspective - Second",
+				"desc": "Posing in the second person: 'You touch him/me.'",
 				"subKinks": {}
 			},
 			"R11": {
 				"id": "R11",
 				"name": "Perspective - Third",
+				"desc": "Posing in the third person: 'He does this to her.'",
 				"subKinks": {}
 			},
 			"R12": {
 				"id": "R12",
 				"name": "Pregnancy",
-				"desc": "",
+				"desc": "Roleplay involving one partner who is pregnant or becomes pregnant.",
 				"subKinks": {
 					"R12-1": {
 						"id": "R12-1",
 						"name": "Birthing",
-						"desc": ""
+						"desc": "Scenes roleplaying out the birth of children."
 					},
 					"R12-2": {
 						"id": "R12-2",
 						"name": "Breeding",
-						"desc": ""
+						"desc": "Roleplay where one specifically intends impregnation as the goal."
 					},
 					"R12-3": {
 						"id": "R12-3",
 						"name": "Extreme Pregnancy",
-						"desc": ""
+						"desc": "Pregnancy which is very large or heavy, beyond the norm. Implies either multiples or much larger young."
 					},
 					"R12-4": {
 						"id": "R12-4",
 						"name": "Impregnation",
-						"desc": ""
+						"desc": "The act of making someone pregnant is the focus of roleplay."
 					},
 					"R12-5": {
 						"id": "R12-5",
 						"name": "Male Pregnancy",
-						"desc": ""
+						"desc": "Pregnancy roleplay where a male is pregnant."
 					},
 					"R12-6": {
 						"id": "R12-6",
 						"name": "Oviposition",
-						"desc": ""
+						"desc": "Pregnancy involving the carrying and/or laying of eggs rather than live young."
 					},
 					"R12-7": {
 						"id": "R12-7",
 						"name": "Pregnant Sex",
-						"desc": ""
+						"desc": "Sex during pregnancy."
 					},
 					"R12-8": {
 						"id": "R12-8",
 						"name": "Risk of Pregnancy",
-						"desc": ""
+						"desc": "Roleplay playing up the risk of becoming pregnant, but not necessarily ending in impregnation."
 					},
 					"R12-9": {
 						"id": "R12-9",
 						"name": "Unusual Pregnancy",
-						"desc": ""
+						"desc": "Roleplay around pregnancy which is not normal, such as multiple fathers or cross-species."
 					}
 				}
 			},
 			"R13": {
 				"id": "R13",
 				"name": "Role Reversal",
-				"desc": "",
+				"desc": "Roleplay in which one person takes on a role that is unusual for them, such as a Slave ordering a Noble.",
 				"subKinks": {}
 			},
 			"R14": {
 				"id": "R14",
 				"name": "Romance",
-				"desc": "",
+				"desc": "Roleplay centered around the romantic attachment of characters.",
 				"subKinks": {
 					"R14-1": {
 						"id": "R14-1",
 						"name": "Cuddling",
-						"desc": ""
+						"desc": "Roleplay largely concerning snuggling and casual intimacy."
 					},
 					"R14-2": {
 						"id": "R14-2",
 						"name": "Dating",
-						"desc": ""
+						"desc": "Roleplay of the dating process and getting to know a partner."
 					},
 					"R14-3": {
 						"id": "R14-3",
 						"name": "Kissing",
-						"desc": ""
+						"desc": "Enjoyment of the act of kissing and the description of it."
 					},
 					"R14-4": {
 						"id": "R14-4",
 						"name": "Marriage",
-						"desc": ""
+						"desc": "Roleplay of marriage ceremonies or roleplay within the context of a marriage."
 					},
 					"R14-5": {
 						"id": "R14-5",
 						"name": "PDA",
-						"desc": ""
+						"desc": "Affectionate displays between partners performed in public spaces."
 					},
 					"R14-6": {
 						"id": "R14-6",
 						"name": "Polygamy",
-						"desc": ""
+						"desc": "Having multiple partners sharing affections."
 					},
 					"R14-7": {
 						"id": "R14-7",
 						"name": "Monogamy",
-						"desc": ""
+						"desc": "Devoting oneself to a single partner in a romantic and/or sexual sense."
 					}
 				}
 			},
 			"R15": {
 				"id": "R15",
 				"name": "RP in RP",
-				"desc": "",
+				"desc": "Having characters play a role different from the norm.",
 				"subKinks": {
 					"R15-1": {
 						"id": "R15-1",
 						"name": "Ageplay",
-						"desc": ""
+						"desc": "Characters playing at being a different age."
 					},
 					"R15-2": {
 						"id": "R15-2",
 						"name": "Costumes",
-						"desc": ""
+						"desc": "Characters pretending to be different characters."
 					},
 					"R15-3": {
 						"id": "R15-3",
 						"name": "Infantilism",
-						"desc": ""
+						"desc": "Characters engaging in babylike behavior."
 					}
 				}
 			},
 			"R16": {
 				"id": "R16",
 				"name": "Rubber/Latex",
+				"desc": "Roleplay heavily involving rubber or latex fetishes.",
 				"subKinks": {
 					"R16-1": {
 						"id": "R16-1",
 						"name": "Hoods",
-						"desc": ""
+						"desc": "Use of rubber or latex hoods around the head."
 					},
 					"R16-2": {
 						"id": "R16-2",
 						"name": "Suits",
-						"desc": ""
+						"desc": "Use of full body rubber or latex suits."
 					},
 					"R16-3": {
 						"id": "R16-3",
 						"name": "Toys",
-						"desc": ""
+						"desc": "Rubber or latex toys involved in roleplay."
 					}
 				}
 			},
 			"R17": {
 				"id": "R17",
 				"name": "Sandboxing",
-				"desc": "",
+				"desc": "Enjoyment of scenes not in the official MUSH setting.",
 				"subKinks": {}
 			},
 			"R18": {
 				"id": "R18",
 				"name": "Taboo",
-				"desc": "",
+				"desc": "Roleplay heavily focused on themes not regarded well in polite society.",
 				"subKinks": {
 					"R18-1": {
 						"id": "R18-1",
 						"name": "Adultery",
-						"desc": ""
+						"desc": "One or more partner is in a monogamous relationship, and not with their current partner."
 					},
 					"R18-2": {
 						"id": "R18-2",
 						"name": "Age Differences",
-						"desc": ""
+						"desc": "Relationships that cross unacceptable age barriers(adult to child, elderly to young adult, etc)"
 					},
 					"R18-3": {
 						"id": "R18-3",
 						"name": "Blasphemy",
-						"desc": ""
+						"desc": "Focus on defying religious beliefs or standards and performing acts regarded as 'evil' by a religion."
 					},
 					"R18-4": {
 						"id": "R18-4",
 						"name": "Incest",
-						"desc": ""
+						"desc": "Sexual relations between close family members."
 					},
 					"R18-5": {
 						"id": "R18-5",
 						"name": "Interracial",
-						"desc": ""
+						"desc": "Sexual relations between different races that have tension in their past, such as black and white humans, or drow and high elves."
 					},
 					"R18-6": {
 						"id": "R18-6",
 						"name": "Interspecies",
-						"desc": ""
+						"desc": "Sexual relations between different species, and focusing on the fact. Elf and dwarf, human and anthro, etc."
 					},
 					"R18-7": {
 						"id": "R18-7",
 						"name": "Orientation Play",
-						"desc": ""
+						"desc": "Roleplay focused on sexual orientation, such as discovering a real orientation or engaging in relations against orientation, e.g. lesbian with a male."
 					},
 					"R18-8": {
 						"id": "R18-8",
 						"name": "Spanking",
-						"desc": ""
+						"desc": "Spanking or light striking in an erotic context."
 					}
 				}
 			},
 			"R19": {
 				"id": "R19",
 				"name": "Teasing",
-				"desc": "",
+				"desc": "Roleplay focused on teasing and taunting someone.",
 				"subKinks": {
 					"R19-1": {
 						"id": "R19-1",
 						"name": "Caressing",
-						"desc": ""
+						"desc": "Light touches of the body which titillate but do not go far."
 					},
 					"R19-2": {
 						"id": "R19-2",
 						"name": "Humiliation",
-						"desc": ""
+						"desc": "Causing heavy embarrassment in some way."
 					},
 					"R19-3": {
 						"id": "R19-3",
 						"name": "Tickling",
-						"desc": ""
+						"desc": "Tickling to the point of causing embarrassment or reactions."
 					}
 				}
 			},
 			"R2": {
 				"id": "R2",
 				"name": "Exhibitionism",
-				"desc": "",
+				"desc": "Exposure of activities or the body in some way.",
 				"subKinks": {
 					"R2-1": {
 						"id": "R2-1",
 						"name": "Public Nudity",
-						"desc": ""
+						"desc": "Being without clothing, or wearing much less than usual, in a public place."
 					},
 					"R2-2": {
 						"id": "R2-2",
 						"name": "Public Sex",
-						"desc": ""
+						"desc": "Performing sex acts in a public place."
 					}
 				}
 			},
 			"R20": {
 				"id": "R20",
 				"name": "Themed",
-				"desc": "",
+				"desc": "Preference for certain specific themes in roleplay.",
 				"subKinks": {
 					"R20-1": {
 						"id": "R20-1",
 						"name": "Captivity",
-						"desc": ""
+						"desc": "Play where one party is held captive in some way, either by the partner or for rescue."
 					},
 					"R20-10": {
 						"id": "R20-10",
 						"name": "School",
-						"desc": ""
+						"desc": "Play in a school environment."
 					},
 					"R20-11": {
 						"id": "R20-11",
-						"name": "Sci-Fi"
+						"name": "Sci-Fi",
+						"desc": "Play in a heavy science fiction theme, usually involving space travel."
 					},
 					"R20-12": {
 						"id": "R20-12",
 						"name": "Steampunk",
-						"desc": ""
+						"desc": "Play that involves clockworks, steam, and victorian themes."
 					},
 					"R20-13": {
 						"id": "R20-13",
 						"name": "Tribal",
-						"desc": ""
+						"desc": "Roleplay centered around primitive tribal customs and locations."
 					},
 					"R20-14": {
 						"id": "R20-14",
-						"name": "Zero-G"
+						"name": "Zero-G",
+						"desc": "Roleplay in a low or zero-gravity environment."
 					},
 					"R20-15": {
 						"id": "R20-15",
 						"name": "Superheroes",
-						"desc": ""
+						"desc": "Play revolving around empowered or larger than life heroes... or villains."
 					},
 					"R20-2": {
 						"id": "R20-2",
 						"name": "Fantasy",
-						"desc": ""
+						"desc": "Roleplay with heavy fantasy elements like magical worlds, wizards, and so on."
 					},
 					"R20-3": {
 						"id": "R20-3",
 						"name": "Isolation",
-						"desc": ""
+						"desc": "Roleplay where the major theme is isolation, either from culture or from others entirely."
 					},
 					"R20-4": {
 						"id": "R20-4",
 						"name": "Law Enforcement",
-						"desc": ""
+						"desc": "Play where enforcement of the law is a heavy theme."
 					},
 					"R20-5": {
 						"id": "R20-5",
 						"name": "Medical",
-						"desc": ""
+						"desc": "Play involving medical issues or exams."
 					},
 					"R20-6": {
 						"id": "R20-6",
 						"name": "Office",
-						"desc": ""
+						"desc": "Play centered around a work office of some kind."
 					},
 					"R20-7": {
 						"id": "R20-7",
 						"name": "Political",
-						"desc": ""
+						"desc": "Roleplay that involves the complexities and intrigue of politics."
 					},
 					"R20-8": {
 						"id": "R20-8",
 						"name": "Prostitution",
-						"desc": ""
+						"desc": "Play where someone is selling their body."
 					},
 					"R20-9": {
 						"id": "R20-9",
 						"name": "Religion",
-						"desc": ""
+						"desc": "Roleplay with heavy religious themes and references."
 					}
 				}
 			},
 			"R21": {
 				"id": "R21",
 				"name": "Unwilling",
-				"desc": "",
+				"desc": "Roleplay where one party is forced into the encounter, not necessarily sexually.",
 				"subKinks": {
 					"R21-1": {
 						"id": "R21-1",
 						"name": "Blackmail",
-						"desc": ""
+						"desc": "One party possesses incriminating or embarrassing evidence on the other."
 					},
 					"R21-2": {
 						"id": "R21-2",
 						"name": "Obligation",
-						"desc": ""
+						"desc": "Play where one person has a duty to perform."
 					},
 					"R21-3": {
 						"id": "R21-3",
 						"name": "Penalty",
-						"desc": ""
+						"desc": "Play where one person is forced to perform due to a punishment of some kind."
 					}
 				}
 			},
 			"R22": {
 				"id": "R22",
 				"name": "Violence",
-				"desc": "",
+				"desc": "Roleplay heavily centered around violent action and deeds.",
 				"subKinks": {
 					"R22-1": {
 						"id": "R22-1",
 						"name": "Bladeplay",
-						"desc": ""
+						"desc": "Play with heavy usage of bladed weapons."
 					},
 					"R22-2": {
 						"id": "R22-2",
 						"name": "Fighting",
-						"desc": ""
+						"desc": "General play involving fighting or combat."
 					},
 					"R22-3": {
 						"id": "R22-3",
 						"name": "Guns",
-						"desc": ""
+						"desc": "Play focused heavily on firearms of some kind."
 					},
 					"R22-4": {
 						"id": "R22-4",
 						"name": "Wrestling",
-						"desc": ""
+						"desc": "Play specifically focused on unarmed grappling."
 					}
 				}
 			},
 			"R23": {
 				"id": "R23",
 				"name": "Voyeurism",
-				"desc": "",
+				"desc": "Roleplay where someone watches others perform sexual acts.",
 				"subKinks": {
 					"R23-1": {
 						"id": "R23-1",
 						"name": "Accidental",
-						"desc": ""
+						"desc": "Play where the voyeur unintentionally found the scene."
 					},
 					"R23-2": {
 						"id": "R23-2",
 						"name": "Cuckolding",
-						"desc": ""
+						"desc": "Play where the voyeur discovers they are being cheated upon."
 					},
 					"R23-3": {
 						"id": "R23-3",
 						"name": "Spying",
-						"desc": ""
+						"desc": "Play where the voyeur is specifically attempting to find sexual play to watch."
 					}
 				}
 			},
 			"R3": {
 				"id": "R3",
 				"name": "Food",
-				"desc": "",
+				"desc": "Roleplay heavily involving food in some way.",
 				"subKinks": {
 					"R3-1": {
 						"id": "R3-1",
 						"name": "Force Feeding",
-						"desc": ""
+						"desc": "Forcing another to eat when they do not wish to."
 					},
 					"R3-2": {
 						"id": "R3-2",
-						"name": "Nyo/Nan-taimori"
+						"name": "Nyo/Nan-taimori",
+						"desc": "Eating food or sushi off of a naked man or woman."
 					},
 					"R3-3": {
 						"id": "R3-3",
 						"name": "Sweets",
-						"desc": ""
+						"desc": "Heavy focus on sweets and junk food."
 					},
 					"R3-4": {
 						"id": "R3-4",
 						"name": "Syrups",
-						"desc": ""
+						"desc": "Use of syrups and edible liquids in roleplay."
 					},
 					"R3-5": {
 						"id": "R3-5",
 						"name": "Weight Gain",
-						"desc": ""
+						"desc": "Roleplay which results in one or more characters gaining a notable amount of weight."
 					}
 				}
 			},
 			"R4": {
 				"id": "R4",
 				"name": "Instant Hookups",
-				"desc": "",
+				"desc": "Roleplay immediately leading to sexual situations.",
 				"subKinks": {}
 			},
 			"R5": {
 				"id": "R5",
 				"name": "Long Term",
-				"desc": "",
+				"desc": "Focus on roleplay that is continuous over multiple scenes and a persistent story.",
 				"subKinks": {
 					"R5-1": {
 						"id": "R5-1",
 						"name": "Grid",
-						"desc": ""
+						"desc": "Roleplay involving the official IC grid and setting."
 					},
 					"R5-2": {
 						"id": "R5-2",
 						"name": "Sandbox",
-						"desc": ""
+						"desc": "Long term stories not set in the official mush setting."
 					}
 				}
 			},
 			"R6": {
 				"id": "R6",
 				"name": "Magic",
-				"desc": "",
+				"desc": "Roleplay involving magic in some way.",
 				"subKinks": {
 					"R6-1": {
 						"id": "R6-1",
 						"name": "Background",
-						"desc": ""
+						"desc": "The magic is a background element or springboard for roleplay, but not necessarily heavily involved in the roleplay itself."
 					},
 					"R6-2": {
 						"id": "R6-2",
 						"name": "Magic Sex",
-						"desc": ""
+						"desc": "Magic heavily involved in sexual play."
 					},
 					"R6-3": {
 						"id": "R6-3",
 						"name": "Potions",
-						"desc": ""
+						"desc": "Use of potions or ointments in RP to cause mystical effects."
 					}
 				}
 			},
 			"R7": {
 				"id": "R7",
 				"name": "Mind Control",
-				"desc": "",
+				"desc": "Roleplay where the victim loses control of mind or body in some way.",
 				"subKinks": {
 					"R7-1": {
 						"id": "R7-1",
 						"name": "Body Control",
-						"desc": ""
+						"desc": "Taking control of the victim's body and forcing action, but not necessarily their mind."
 					},
 					"R7-2": {
 						"id": "R7-2",
 						"name": "Direct Control",
-						"desc": ""
+						"desc": "Outright dictation of thoughts for the victim."
 					},
 					"R7-3": {
 						"id": "R7-3",
 						"name": "Hypnotism",
-						"desc": ""
+						"desc": "Use of hypnotism to alter the behavior of the victim."
 					},
 					"R7-4": {
 						"id": "R7-4",
 						"name": "Memory Wipe",
-						"desc": ""
+						"desc": "Removal of memories, in part or in total, to influence the victim."
 					},
 					"R7-5": {
 						"id": "R7-5",
 						"name": "Programming",
-						"desc": ""
+						"desc": "Inserting preprogrammed reactions to certain stimuli or people, or rewriting thought processes in some way."
 					},
 					"R7-6": {
 						"id": "R7-6",
 						"name": "Suggestion",
-						"desc": ""
+						"desc": "Subtle influence over thoughts via implanting ideas."
 					},
 					"R7-7": {
 						"id": "R7-7",
 						"name": "Training",
-						"desc": ""
+						"desc": "Slow training of the victim to respond to stimuli in a desired manner."
 					}
 				}
 			},
 			"R8": {
 				"id": "R8",
 				"name": "Nonsexual",
-				"desc": "",
+				"desc": "Roleplay which does not center around sex at all.",
 				"subKinks": {}
 			},
 			"R9": {
 				"id": "R9",
 				"name": "Perspective - First",
+				"desc": "Posing in the first person: 'I do this to him/you.'",
 				"subKinks": {}
 			}
 		}
@@ -1633,459 +1653,465 @@
 			"S1": {
 				"id": "S1",
 				"name": "Anal Sex",
-				"desc": "",
+				"desc": "The act of sex involving the anus, usually but not always penetration.",
 				"subKinks": {
 					"S1-1": {
 						"id": "S1-1",
 						"name": "Ass Worship",
-						"desc": ""
+						"desc": "Paying special attention to the ass, extensively. Verbal or physical."
 					},
 					"S1-2": {
 						"id": "S1-2",
 						"name": "Fisting",
-						"desc": ""
+						"desc": "Inserting the fist into the anus."
 					},
 					"S1-3": {
 						"id": "S1-3",
 						"name": "Gaping",
-						"desc": ""
+						"desc": "Stretching the anus wide enough that it stays open for some time afterward."
 					},
 					"S1-4": {
 						"id": "S1-4",
 						"name": "Hotdogging",
-						"desc": ""
+						"desc": "The act of rubbing a penis(or equivalent) along the cheeks of the ass without actually penetrating."
 					},
 					"S1-5": {
 						"id": "S1-5",
 						"name": "Pegging",
-						"desc": ""
+						"desc": "Penetrating the ass with a strap-on."
 					},
 					"S1-6": {
 						"id": "S1-6",
 						"name": "Penetration",
-						"desc": ""
+						"desc": "Penetrating the ass in some way."
 					},
 					"S1-7": {
 						"id": "S1-7",
 						"name": "Rimming",
-						"desc": ""
+						"desc": "Licking or otherwise performing oral sex on the anus."
 					},
 					"S1-8": {
 						"id": "S1-8",
 						"name": "Training",
-						"desc": ""
+						"desc": "Preparing and training a character's ass for insertion that would not otherwise be comfortable."
 					},
 					"S1-9": {
 						"id": "S1-9",
 						"name": "Virginity",
-						"desc": ""
+						"desc": "Enjoyment in the first penetration of anal sex."
 					}
 				}
 			},
 			"S10": {
 				"id": "S10",
 				"name": "Oral Sex",
-				"desc": "",
+				"desc": "Stimulation by using the mouth on the genitals.",
 				"subKinks": {
 					"S10-1": {
 						"id": "S10-1",
 						"name": "Autocunnilingus",
-						"desc": ""
+						"desc": "Providing oral stimulation to your own female genitalia."
 					},
 					"S10-2": {
 						"id": "S10-2",
 						"name": "Autofellatio",
-						"desc": ""
+						"desc": "Providing oral stimulation to your own penis."
 					},
 					"S10-3": {
 						"id": "S10-3",
 						"name": "Cunnilingus",
-						"desc": ""
+						"desc": "Oral stimulation of female genitalia."
 					},
 					"S10-4": {
 						"id": "S10-4",
-						"name": "Face-Fucking"
+						"name": "Face-Fucking",
+						"desc": "Oral penetration of the mouth by similar means to normal sex, usually implied to be rough."
 					},
 					"S10-5": {
 						"id": "S10-5",
 						"name": "Fellatio",
-						"desc": ""
+						"desc": "Oral stimulation of a penis."
 					},
 					"S10-6": {
 						"id": "S10-6",
 						"name": "Throat Penetration",
-						"desc": ""
+						"desc": "Penetration of a mouth that is deep enough to enter the throat."
 					},
 					"S10-7": {
 						"id": "S10-7",
 						"name": "Virginity",
-						"desc": ""
+						"desc": "Enjoyment of the first act of oral sex."
 					}
 				}
 			},
 			"S11": {
 				"id": "S11",
 				"name": "Penis Sex",
-				"desc": "",
+				"desc": "Sex involving the penis which does not involve penetration of another.",
 				"subKinks": {
 					"S11-1": {
 						"id": "S11-1",
 						"name": "Docking",
-						"desc": ""
+						"desc": "Phallic insertion into a male's sheath or foreskin."
 					},
 					"S11-2": {
 						"id": "S11-2",
 						"name": "Frottage",
-						"desc": ""
+						"desc": "Rubbing of the penis against another person or penis."
 					},
 					"S11-3": {
 						"id": "S11-3",
 						"name": "Handjob",
-						"desc": ""
+						"desc": "Stroking of the penis with a hand."
 					},
 					"S11-4": {
 						"id": "S11-4",
 						"name": "Sounding",
-						"desc": ""
+						"desc": "Insertion into the urethra."
 					},
 					"S11-5": {
 						"id": "S11-5",
 						"name": "Cock Worship",
-						"desc": ""
+						"desc": "Extra attention especially given to the penis, verbal or physical."
 					},
 					"S11-6": {
 						"id": "S11-6",
 						"name": "Ball Worship",
-						"desc": ""
+						"desc": "Extra attention especially given to the testicles, verbal or physical."
 					}
 				}
 			},
 			"S12": {
 				"id": "S12",
 				"name": "Toys",
-				"desc": "",
+				"desc": "Sexual play using external apparatuses.",
 				"subKinks": {
 					"S12-1": {
 						"id": "S12-1",
 						"name": "Anal Beads",
-						"desc": ""
+						"desc": "Insertion of a string of beads into the anus."
 					},
 					"S12-2": {
 						"id": "S12-2",
 						"name": "Dildos",
-						"desc": ""
+						"desc": "Artificial phalluses."
 					},
 					"S12-3": {
 						"id": "S12-3",
 						"name": "Sex Machines",
-						"desc": ""
+						"desc": "Mechanical apparatuses designed to stimulate the subject."
 					},
 					"S12-4": {
 						"id": "S12-4",
-						"name": "Strap-ons"
+						"name": "Strap-ons",
+						"desc": "Artificial phalluses which are attached to the groin."
 					},
 					"S12-5": {
 						"id": "S12-5",
 						"name": "Vibrators",
-						"desc": ""
+						"desc": "Vibrating devices intended for stimulation."
 					}
 				}
 			},
 			"S13": {
 				"id": "S13",
 				"name": "Vaginal Sex",
-				"desc": "",
+				"desc": "Sex that somehow involves vaginal stimulation.",
 				"subKinks": {
 					"S13-1": {
 						"id": "S13-1",
 						"name": "Cervical Penetration",
-						"desc": ""
+						"desc": "The act of deep penetration that enters the uterus."
 					},
 					"S13-10": {
 						"id": "S13-10",
 						"name": "Virginity",
-						"desc": ""
+						"desc": "The first act of vaginal sex."
 					},
 					"S13-2": {
 						"id": "S13-2",
 						"name": "Fingering",
-						"desc": ""
+						"desc": "Penetration or stroking of the vaginal area via fingers."
 					},
 					"S13-3": {
 						"id": "S13-3",
 						"name": "Fisting",
-						"desc": ""
+						"desc": "Insertion of the hand/fist into the vaginal canal."
 					},
 					"S13-4": {
 						"id": "S13-4",
 						"name": "Gaping",
-						"desc": ""
+						"desc": "Leaving a post-sexual encounter with the vagina stretched to the point of staying open wider than normal."
 					},
 					"S13-5": {
 						"id": "S13-5",
 						"name": "Penetration",
-						"desc": ""
+						"desc": "Penetration of the vagina. Often called Vanilla Sex."
 					},
 					"S13-6": {
 						"id": "S13-6",
 						"name": "Pussy Worship",
-						"desc": ""
+						"desc": "Extravagant attention given to the vaginal area, verbal or physical."
 					},
 					"S13-7": {
 						"id": "S13-7",
 						"name": "Squirting",
-						"desc": ""
+						"desc": "Vaginal orgasms which result in the female ejaculating."
 					},
 					"S13-8": {
 						"id": "S13-8",
 						"name": "Tribadism",
-						"desc": ""
+						"desc": "The rubbing of two female genitalia together to achieve orgasm."
 					},
 					"S13-9": {
 						"id": "S13-9",
 						"name": "Urethra Penetration",
-						"desc": ""
+						"desc": "Penetration of the urethra for stimulation."
 					}
 				}
 			},
 			"S2": {
 				"id": "S2",
 				"name": "Biting",
-				"desc": "",
+				"desc": "The use of bites in intimacy.",
 				"subKinks": {
 					"S2-1": {
 						"id": "S2-1",
 						"name": "Marking",
-						"desc": ""
+						"desc": "Biting hard enough to leave visible marks that linger for some time afterward."
 					}
 				}
 			},
 			"S3": {
 				"id": "S3",
 				"name": "Breasts",
-				"desc": "",
+				"desc": "Enjoyment of breasts.",
 				"subKinks": {
 					"S3-1": {
 						"id": "S3-1",
 						"name": "Breast Worship",
-						"desc": ""
+						"desc": "Special and/or thorough attention to the breasts beyond the norm, verbal or physical."
 					},
 					"S3-2": {
 						"id": "S3-2",
 						"name": "Docking",
-						"desc": ""
+						"desc": "Enjoyment in fitting two pairs of breasts together like a puzzle."
 					},
 					"S3-3": {
 						"id": "S3-3",
 						"name": "Fondling",
-						"desc": ""
+						"desc": "Groping or manual attention to breasts."
 					},
 					"S3-4": {
 						"id": "S3-4",
 						"name": "Lactation",
-						"desc": ""
+						"desc": "Breasts which are lactating/giving milk."
 					},
 					"S3-5": {
 						"id": "S3-5",
 						"name": "Nipple Penetration",
-						"desc": ""
+						"desc": "Enjoyment from physical insertions into the nipple."
 					},
 					"S3-6": {
 						"id": "S3-6",
 						"name": "Titfucking",
-						"desc": ""
+						"desc": "Using breasts to sexually satisfy a penis(or equivalent) by rubbing between the breasts."
 					}
 				}
 			},
 			"S4": {
 				"id": "S4",
 				"name": "Clothed Sex",
-				"desc": "",
+				"desc": "Sexual relations while still wearing clothes.",
 				"subKinks": {}
 			},
 			"S5": {
 				"id": "S5",
 				"name": "Condoms",
-				"desc": "",
+				"desc": "Condoms involved in sexual play in some way.",
 				"subKinks": {
 					"S5-1": {
 						"id": "S5-1",
 						"name": "Breaking",
-						"desc": ""
+						"desc": "Enjoyment in having the condom break during sexual activity."
 					},
 					"S5-2": {
 						"id": "S5-2",
 						"name": "Swallowing After",
-						"desc": ""
+						"desc": "Drinking the cum from a condom after use."
 					}
 				}
 			},
 			"S6": {
 				"id": "S6",
 				"name": "Cumplay",
-				"desc": "",
+				"desc": "Enjoyment of sexual fluids, usually but not always semen.",
 				"subKinks": {
 					"S6-1": {
 						"id": "S6-1",
 						"name": "Bukkake",
-						"desc": ""
+						"desc": "Ejaculation from a group onto a smaller group or single person's face and/or body."
 					},
 					"S6-10": {
 						"id": "S6-10",
 						"name": "Creampie",
-						"desc": ""
+						"desc": "The act of ejaculating inside an orifice to the point that it leaves visible leakage."
 					},
 					"S6-11": {
 						"id": "S6-11",
 						"name": "Internal",
-						"desc": ""
+						"desc": "The act of describing or enjoying an ejaculation inside your partner."
 					},
 					"S6-2": {
 						"id": "S6-2",
 						"name": "Cum Bath",
-						"desc": ""
+						"desc": "Immersion, partial or total, in cum."
 					},
 					"S6-3": {
 						"id": "S6-3",
 						"name": "Cum Diet",
-						"desc": ""
+						"desc": "Receiving nourishment either largely or exclusively from cum."
 					},
 					"S6-4": {
 						"id": "S6-4",
-						"name": "Inflation(Light)"
+						"name": "Inflation(Light)",
+						"desc": "Heavy ejaculation to the point of making a small but visible expansion of the belly."
 					},
 					"S6-5": {
 						"id": "S6-5",
-						"name": "Inflation(Medium)"
+						"name": "Inflation(Medium)",
+						"desc": "Heavy ejaculation to the point of making a large and visible expansion of the belly."
 					},
 					"S6-6": {
 						"id": "S6-6",
-						"name": "Inflation(Heavy)"
+						"name": "Inflation(Heavy)",
+						"desc": "Heavy ejaculation to the point of causing unrealistic expansion of the belly."
 					},
 					"S6-7": {
 						"id": "S6-7",
 						"name": "Large Quantities",
-						"desc": ""
+						"desc": "Ejaculation of massive amounts of cum."
 					},
 					"S6-8": {
 						"id": "S6-8",
 						"name": "Swallowing",
-						"desc": ""
+						"desc": "Swallowing sexual fluids."
 					},
 					"S6-9": {
 						"id": "S6-9",
 						"name": "Unusual Semen",
-						"desc": ""
+						"desc": "Play using semen that has an abnormal consistency/color/flavor."
 					}
 				}
 			},
 			"S7": {
 				"id": "S7",
 				"name": "Exotic",
-				"desc": "",
+				"desc": "Types of sex that do not fit within the normal definition.",
 				"subKinks": {
 					"S7-1": {
 						"id": "S7-1",
 						"name": "Armpit Sex",
-						"desc": ""
+						"desc": "Stimulation via rubbing or humping the armpits."
 					},
 					"S7-10": {
 						"id": "S7-10",
 						"name": "Other",
-						"desc": ""
+						"desc": "Anything not on this list."
 					},
 					"S7-11": {
 						"id": "S7-11",
 						"name": "Sleep Sex",
-						"desc": ""
+						"desc": "Sexual situations where one partner is asleep or unconscious."
 					},
 					"S7-2": {
 						"id": "S7-2",
 						"name": "Ear Penetration",
-						"desc": ""
+						"desc": "Penetration of the ear canal."
 					},
 					"S7-3": {
 						"id": "S7-3",
 						"name": "Ear Play",
-						"desc": ""
+						"desc": "Teasing, touching, rubbing, suckling, or otherwise toying with ears."
 					},
 					"S7-4": {
 						"id": "S7-4",
 						"name": "Eye Penetration",
-						"desc": ""
+						"desc": "Penetration or the eye socket to achieve pleasure."
 					},
 					"S7-5": {
 						"id": "S7-5",
 						"name": "Foot Fetish",
-						"desc": ""
+						"desc": "Fascination with or special attention to the feet."
 					},
 					"S7-6": {
 						"id": "S7-6",
 						"name": "Footjobs",
-						"desc": ""
+						"desc": "Bringing another sexual gratification by using the feet, usually by rubbing or stroking genitals."
 					},
 					"S7-7": {
 						"id": "S7-7",
 						"name": "Hairjob",
-						"desc": ""
+						"desc": "Stroking or stimulation of another's genitals using hair."
 					},
 					"S7-8": {
 						"id": "S7-8",
 						"name": "Navel Penetration",
-						"desc": ""
+						"desc": "Penetration of the navel as a means of sexual gratification."
 					},
 					"S7-9": {
 						"id": "S7-9",
 						"name": "Navel Play",
-						"desc": ""
+						"desc": "Teasing or toying with the navel."
 					}
 				}
 			},
 			"S8": {
 				"id": "S8",
 				"name": "Masturbation",
-				"desc": "",
+				"desc": "Sexual stimulation without actual sex, usually by fingers(toys are a separate kink).",
 				"subKinks": {
 					"S8-1": {
 						"id": "S8-1",
 						"name": "In Scenes",
-						"desc": ""
+						"desc": "Masturbating during play as a major part of the scene."
 					},
 					"S8-2": {
 						"id": "S8-2",
 						"name": "Mutual Masturbation",
-						"desc": ""
+						"desc": "Masturbating with a partner, or masturbating one another."
 					},
 					"S8-3": {
 						"id": "S8-3",
 						"name": "Secret",
-						"desc": ""
+						"desc": "Masturbation in circumstances where others in the area are ICly unaware."
 					}
 				}
 			},
 			"S9": {
 				"id": "S9",
 				"name": "Multiple Penetration",
-				"desc": "",
+				"desc": "Penetration via multiple orifices.",
 				"subKinks": {
 					"S9-1": {
 						"id": "S9-1",
-						"name": "3+ Penetration"
+						"name": "3+ Penetration",
+						"desc": "Penetration by three or more members at once."
 					},
 					"S9-2": {
 						"id": "S9-2",
 						"name": "All The Way Through",
-						"desc": ""
+						"desc": "Penetration that is so deep it goes in one orifice and exits another."
 					},
 					"S9-3": {
 						"id": "S9-3",
 						"name": "Double Penetration",
-						"desc": ""
+						"desc": "Penetration by two members at once."
 					},
 					"S9-4": {
 						"id": "S9-4",
 						"name": "Gangbang",
-						"desc": ""
+						"desc": "Sexual scenes where multiple partners are engaging in sex with the same individual."
 					}
 				}
 			}
@@ -2098,645 +2124,661 @@
 			"T1": {
 				"id": "T1",
 				"name": "Animal",
-				"desc": "",
+				"desc": "Animalistic or bestial partners.",
 				"subKinks": {
 					"T1-1": {
 						"id": "T1-1",
 						"name": "Aquatic",
-						"desc": ""
+						"desc": "Animals dwelling in the water. Fish, dolphins, and so on."
 					},
 					"T1-2": {
 						"id": "T1-2",
 						"name": "Avian",
-						"desc": ""
+						"desc": "Feathered and/or winged creatures."
 					},
 					"T1-3": {
 						"id": "T1-3",
 						"name": "Draconic",
-						"desc": ""
+						"desc": "Scaled and draconic creatures."
 					},
 					"T1-4": {
 						"id": "T1-4",
 						"name": "Equine",
-						"desc": ""
+						"desc": "Creatures very close to horses."
 					},
 					"T1-5": {
 						"id": "T1-5",
-						"name": "Insect/Arachnid"
+						"name": "Insect/Arachnid",
+						"desc": "Creatures with an exoskeleton and possibly multiple limbs."
 					},
 					"T1-6": {
 						"id": "T1-6",
-						"name": "Pokemon/Digimon"
+						"name": "Pokemon/Digimon",
+						"desc": "Creatures from the Pokemon or Digimon continuities."
 					},
 					"T1-7": {
 						"id": "T1-7",
 						"name": "Quadruped",
-						"desc": ""
+						"desc": "Creatures that walk with all feet on the floor, and lack manipulative appendages."
 					},
 					"T1-8": {
 						"id": "T1-8",
 						"name": "Serpentine",
-						"desc": ""
+						"desc": "Limbless or nearly limbless creatures like snakes."
 					}
 				}
 			},
 			"T10": {
 				"id": "T10",
 				"name": "Giant/Macro",
+				"desc": "Play where one or more partners are incredibly tall compared to others.",
 				"subKinks": {}
 			},
 			"T11": {
 				"id": "T11",
 				"name": "Head Hair",
-				"desc": "",
+				"desc": "Enjoyment of head hair in some fashion, or lack thereof.",
 				"subKinks": {
 					"T11-1": {
 						"id": "T11-1",
 						"name": "Bald",
-						"desc": ""
+						"desc": "Partners who lack any head hair."
 					},
 					"T11-2": {
 						"id": "T11-2",
 						"name": "Short",
-						"desc": ""
+						"desc": "Partners with short hair, shoulder-length or less."
 					},
 					"T11-3": {
 						"id": "T11-3",
 						"name": "Long",
-						"desc": ""
+						"desc": "Partners with long hair, from back to legs."
 					},
 					"T11-4": {
 						"id": "T11-4",
 						"name": "Very Long",
-						"desc": ""
+						"desc": "Partners with extremely long hair, that reaches to the ankles or beyond."
 					},
 					"T11-5": {
 						"id": "T11-5",
 						"name": "Exotic",
-						"desc": ""
+						"desc": "Partners with highly unusual hair texture or color, like blue or orange."
 					}
 				}
 			},
 			"T12": {
 				"id": "T12",
 				"name": "Hirsute",
-				"desc": "",
+				"desc": "Partners with hair in places other than he head.",
 				"subKinks": {
 					"T12-1": {
 						"id": "T12-1",
 						"name": "Armpit Hair",
-						"desc": ""
+						"desc": " Partners with hair in the pits."
 					},
 					"T12-2": {
 						"id": "T12-2",
 						"name": "Beards",
-						"desc": ""
+						"desc": "Partners with facial hair."
 					},
 					"T12-3": {
 						"id": "T12-3",
 						"name": "Body Hair",
-						"desc": ""
+						"desc": "Partners with thick or extensive hair over the body."
 					},
 					"T12-4": {
 						"id": "T12-4",
 						"name": "Pubic Hair",
-						"desc": ""
+						"desc": "Partners with heavy pubic hair."
 					}
 				}
 			},
 			"T13": {
 				"id": "T13",
 				"name": "Humanoid",
-				"desc": "",
+				"desc": "Partners with a generally human-like shape.",
 				"subKinks": {
 					"T13-1": {
 						"id": "T13-1",
 						"name": "Angel",
-						"desc": ""
+						"desc": "Angelic partners, with feathered wings and such."
 					},
 					"T13-2": {
 						"id": "T13-2",
 						"name": "Demon",
-						"desc": ""
+						"desc": "Demonic partners, which may include tails or bat wings."
 					},
 					"T13-3": {
 						"id": "T13-3",
 						"name": "Elvish",
-						"desc": ""
+						"desc": "Partners with elflike attributes; pointed ears and lithe builds."
 					},
 					"T13-4": {
 						"id": "T13-4",
 						"name": "Human",
-						"desc": ""
+						"desc": "Normal, entirely human partners."
 					}
 				}
 			},
 			"T14": {
 				"id": "T14",
 				"name": "Large Anatomy",
-				"desc": "",
+				"desc": "Partners with anatomy that is larger than the norm.",
 				"subKinks": {
 					"T14-1": {
 						"id": "T14-1",
 						"name": "Chubby",
-						"desc": ""
+						"desc": "Overweight partners."
 					},
 					"T14-2": {
 						"id": "T14-2",
 						"name": "Large Asses",
-						"desc": ""
+						"desc": "Partners with an oversized rear."
 					},
 					"T14-3": {
 						"id": "T14-3",
 						"name": "Large Balls",
-						"desc": ""
+						"desc": "Partners with larger than normal testicles."
 					},
 					"T14-4": {
 						"id": "T14-4",
 						"name": "Large Breasts",
-						"desc": ""
+						"desc": "Partners with large breasts."
 					},
 					"T14-5": {
 						"id": "T14-5",
 						"name": "Large Cocks",
-						"desc": ""
+						"desc": "Partners with larger than normal cocks."
 					},
 					"T14-6": {
 						"id": "T14-6",
 						"name": "Muscle",
-						"desc": ""
+						"desc": "Very muscular partners."
 					}
 				}
 			},
 			"T15": {
 				"id": "T15",
 				"name": "Sexless",
-				"desc": "",
+				"desc": "Partners who lack sex in some way.",
 				"subKinks": {
 					"T15-1": {
 						"id": "T15-1",
 						"name": "Desexed",
-						"desc": ""
+						"desc": "Partners who have had their sexual attributes removed somehow, in total, possibly including secondary sex characteristics."
 					},
 					"T15-2": {
 						"id": "T15-2",
 						"name": "Eunuch",
-						"desc": ""
+						"desc": "Partners who have had their ability to reproduce removed."
 					}
 				}
 			},
 			"T16": {
 				"id": "T16",
 				"name": "Shapeshifters",
-				"desc": "",
+				"desc": "Partners who can change their form.",
 				"subKinks": {
 					"T16-1": {
 						"id": "T16-1",
-						"name": "Multiple-Form"
+						"name": "Multiple-Form",
+						"desc": "Partners who can change into many forms."
 					},
 					"T16-2": {
 						"id": "T16-2",
-						"name": "Single-Form"
+						"name": "Single-Form",
+						"desc": "Partners who have a single other form or theme of forms. (Werewolves, etc.)"
 					},
 					"T16-3": {
 						"id": "T16-3",
 						"name": "Unwilling",
-						"desc": ""
+						"desc": "Partners who have little to no control over their transformation."
 					},
 					"T16-4": {
 						"id": "T16-4",
 						"name": "Willing",
-						"desc": ""
+						"desc": "Partners who can control their transformation."
 					}
 				}
 			},
 			"T17": {
 				"id": "T17",
 				"name": "Small Anatomy",
-				"desc": "",
+				"desc": "Partners with some portion of anatomy smaller than the norm.",
 				"subKinks": {
 					"T17-1": {
 						"id": "T17-1",
 						"name": "Extreme Tightness",
-						"desc": ""
+						"desc": "Orifices that are tighter or narrower than usual."
 					},
 					"T17-2": {
 						"id": "T17-2",
 						"name": "Flat Chest",
-						"desc": ""
+						"desc": "A flat chest on a female."
 					},
 					"T17-3": {
 						"id": "T17-3",
 						"name": "Small Breasts",
-						"desc": ""
+						"desc": "Small breasts on a female. Usually A-cup or so."
 					},
 					"T17-4": {
 						"id": "T17-4",
 						"name": "Small Cocks",
-						"desc": ""
+						"desc": "Smaller than average cocks. (Uusually under 4".)"
 					}
 				}
 			},
 			"T18": {
 				"id": "T18",
 				"name": "Tails",
-				"desc": "",
+				"desc": "Partners with tails of some kind.",
 				"subKinks": {
 					"T18-1": {
 						"id": "T18-1",
 						"name": "Fluffy",
-						"desc": ""
+						"desc": "Tails that have a lot of body to them, in the form of fur or feathers of great softness and thickness."
 					},
 					"T18-2": {
 						"id": "T18-2",
 						"name": "Prehensile",
-						"desc": ""
+						"desc": "Tails which can grasp, hold, and are otherwise nimble."
 					}
 				}
 			},
 			"T19": {
 				"id": "T19",
 				"name": "Taurs/Hybrid",
+				"desc": "Partners that are a hybrid species or part animal, part human, but not anthropomorphic. Centaurs, driders, and so on.",
 				"subKinks": {
 					"T19-1": {
 						"id": "T19-1",
 						"name": "Aquatic",
-						"desc": ""
+						"desc": "Hybrids with a fish body, usually the tail, like mermaids."
 					},
 					"T19-2": {
 						"id": "T19-2",
 						"name": "Avian",
-						"desc": ""
+						"desc": "Hybrids with a heavy avian component, like harpies or griffons."
 					},
 					"T19-3": {
 						"id": "T19-3",
-						"name": "Insect/Arachnid"
+						"name": "Insect/Arachnid",
+						"desc": "Lower bodies that are exoskeletal or otherwise crustacean in nature."
 					},
 					"T19-4": {
 						"id": "T19-4",
 						"name": "Quadruped",
-						"desc": ""
+						"desc": "Taurs with quadrupedal lower bodies, like a centaur, or beasts that are quadrupedal like griffons."
 					},
 					"T19-5": {
 						"id": "T19-5",
 						"name": "Serpentine",
-						"desc": ""
+						"desc": "Creatures with a heavy snake component, like naga or lamia."
 					}
 				}
 			},
 			"T2": {
 				"id": "T2",
 				"name": "Animal Anatomy",
-				"desc": "",
+				"desc": "Partners with some part of their anatomy like an animal.",
 				"subKinks": {
 					"T2-1": {
 						"id": "T2-1",
 						"name": "Barbed Cocks",
-						"desc": ""
+						"desc": "Phalluses with spines or barbs."
 					},
 					"T2-2": {
 						"id": "T2-2",
 						"name": "Bestial Cocks",
-						"desc": ""
+						"desc": "Phalluses that have a very inhuman shape or appearance."
 					},
 					"T2-3": {
 						"id": "T2-3",
 						"name": "Knotted Cocks",
-						"desc": ""
+						"desc": "Phalluses which possess a knot, which swells the base considerably."
 					},
 					"T2-4": {
 						"id": "T2-4",
 						"name": "Sheaths",
-						"desc": ""
+						"desc": "Partners who have a protective sheath for their phallus."
 					},
 					"T2-5": {
 						"id": "T2-5",
 						"name": "Udders",
-						"desc": ""
+						"desc": "Mammaries that dangle and possess teats like a cow."
+					}
+					"T2-6": {
+						"id": "T2-6",
+						"name": "Bestial Vagina",
+						"desc": "Specifically interested in nonhuman female anatomy, such as equine or canine."
 					}
 				}
 			},
 			"T20": {
 				"id": "T20",
 				"name": "Tentacles",
-				"desc": "",
+				"desc": "Partners that have tentacles.",
 				"subKinks": {
 					"T20-1": {
 						"id": "T20-1",
 						"name": "Consentacles",
-						"desc": ""
+						"desc": "Tentacles which have penis-like ends, usually capable of ejaculation."
 					},
 					"T20-2": {
 						"id": "T20-2",
 						"name": "Phallic",
-						"desc": ""
+						"desc": "Tentacles which have penis-like ends, usually capable of ejaculation."
 					},
 					"T20-3": {
 						"id": "T20-3",
 						"name": "Suction",
-						"desc": ""
+						"desc": "Tentacles with tips that suction or suckle, either like a vagina or mouth."
 					}
 				}
 			},
 			"T21": {
 				"id": "T21",
 				"name": "Twins/Clones",
+				"desc": "Partners that are an identical twin, clone, or doppelganger."
 				"subKinks": {}
 			},
 			"T22": {
 				"id": "T22",
 				"name": "Wings",
-				"desc": "",
+				"desc": "Partners with wings of some kind.",
 				"subKinks": {
 					"T22-1": {
 						"id": "T22-1",
 						"name": "Batlike",
-						"desc": ""
+						"desc": "Partners with leathery or batlike wings."
 					},
 					"T22-2": {
 						"id": "T22-2",
 						"name": "Fairy",
-						"desc": ""
+						"desc": "Partners with transparent dragonfly or fairy wings."
 					},
 					"T22-3": {
 						"id": "T22-3",
 						"name": "Feathery",
-						"desc": ""
+						"desc": "Partners with feathered wings like a bird."
 					}
 				}
 			},
 			"T23": {
 				"id": "T23",
 				"name": "Young Partners",
-				"desc": "",
+				"desc": "Partners below the normal age of majority.",
 				"subKinks": {
 					"T23-1": {
 						"id": "T23-1",
 						"name": "Preteen",
-						"desc": ""
+						"desc": "Partners who are below the age of puberty. Usually under age 12."
 					},
 					"T23-2": {
 						"id": "T23-2",
 						"name": "Pubescent",
-						"desc": ""
+						"desc": "Partners who have been through puberty, but have yet to really begin to grow up. Roughly age 11 to 14."
 					},
 					"T23-3": {
 						"id": "T23-3",
 						"name": "Teenage",
-						"desc": ""
+						"desc": "Partners who are adolescent and nearing adulthood. Usually age 15 to 18."
 					}
 				}
 			},
 			"T24": {
 				"id": "T24",
 				"name": "Decorations",
-				"desc": "",
+				"desc": "Decorations that are a part of the body, like paints or tattoos.",
 				"subKinks": {
 					"T24-1": {
 						"id": "T24-1",
 						"name": "Marks",
-						"desc": ""
+						"desc": "Birthmarks or other natural marks, like spots."
 					},
 					"T24-2": {
 						"id": "T24-2",
 						"name": "Scars",
-						"desc": ""
+						"desc": "Scars or other permanent wounds upon a body."
 					},
 					"T24-3": {
 						"id": "T24-3",
 						"name": "Paint",
-						"desc": ""
+						"desc": "Body paints or similar decoration."
 					},
 					"T24-4": {
 						"id": "T24-4",
 						"name": "Piercings",
-						"desc": ""
+						"desc": "Piercings on various body parts, rather than just the ears or other common places."
 					},
 					"T24-5": {
 						"id": "T24-5",
 						"name": "Tattoos",
-						"desc": ""
+						"desc": "Tattoos on significant parts of the body."
 					}
 				}
 			},
 			"T3": {
 				"id": "T3",
 				"name": "Anthro",
-				"desc": "",
+				"desc": "Partners with some animal features but are otherwise humanoid.",
 				"subKinks": {
 					"T3-1": {
 						"id": "T3-1",
 						"name": "Equine",
-						"desc": ""
+						"desc": "Partners with an equine build."
 					},
 					"T3-2": {
 						"id": "T3-2",
 						"name": "Feathers",
-						"desc": ""
+						"desc": "Partners with feathers."
 					},
 					"T3-3": {
 						"id": "T3-3",
 						"name": "Fur",
-						"desc": ""
+						"desc": "Partners with fur."
 					},
 					"T3-4": {
 						"id": "T3-4",
 						"name": "Kemonomimi",
-						"desc": ""
+						"desc": "Partners who possess animal ears and possibly tails or other minor features, but not fur or body structure alterations."
 					},
 					"T3-5": {
 						"id": "T3-5",
 						"name": "Muzzles",
-						"desc": ""
+						"desc": "Partners who have a muzzle instead of a flat face."
 					},
 					"T3-6": {
 						"id": "T3-6",
 						"name": "Pokemorph",
-						"desc": ""
+						"desc": "Partners resembling humanoid pokemon/digimon."
 					},
 					"T3-7": {
 						"id": "T3-7",
 						"name": "Scales",
-						"desc": ""
+						"desc": "Partners with scales."
 					}
 				}
 			},
 			"T4": {
 				"id": "T4",
 				"name": "Artificial",
-				"desc": "",
+				"desc": "Partners which are constructed in some way.",
 				"subKinks": {
 					"T4-1": {
 						"id": "T4-1",
 						"name": "Dolljoints",
-						"desc": ""
+						"desc": "Partners whose construction includes visible joints."
 					},
 					"T4-2": {
 						"id": "T4-2",
-						"name": "Robots/Cyborgs"
+						"name": "Robots/Cyborgs",
+						"desc": "Partners whose construction is partly or all robotic and circuitry."
 					}
 				}
 			},
 			"T5": {
 				"id": "T5",
 				"name": "Elderly Partners",
-				"desc": "",
+				"desc": "Partners who are past the prime of their lifespan.",
 				"subKinks": {
 					"T5-1": {
 						"id": "T5-1",
 						"name": "Middle Age",
-						"desc": ""
+						"desc": "Partners who are approximately halfway through their lifespan."
 					},
 					"T5-2": {
 						"id": "T5-2",
 						"name": "Elderly",
-						"desc": ""
+						"desc": "Partners that are advanced in age and nearing the end of their lifespan."
 					}
 				}
 			},
 			"T6": {
 				"id": "T6",
 				"name": "Exotic Anatomy",
-				"desc": "",
+				"desc": "Anatomy that is in some way unusual or striking from the norm.",
 				"subKinks": {
 					"T6-1": {
 						"id": "T6-1",
 						"name": "Dicknipples",
-						"desc": ""
+						"desc": "Possessing breasts with nipples that can serve as a phallus."
 					},
 					"T6-2": {
 						"id": "T6-2",
 						"name": "Heterochromia",
-						"desc": ""
+						"desc": "Possessing differently-colored eyes, e.g. one blue and one green."
 					},
 					"T6-3": {
 						"id": "T6-3",
 						"name": "Missing Parts",
-						"desc": ""
+						"desc": Lacking certain normal limbs, such as arms or a head, but still operating normally.""
 					},
 					"T6-4": {
 						"id": "T6-4",
 						"name": "Multiple Breasts",
-						"desc": ""
+						"desc": "Possessing more than the normal number of breasts."
 					},
 					"T6-5": {
 						"id": "T6-5",
 						"name": "Multiple Genitalia",
-						"desc": ""
+						"desc": "Possessing more than one of the same kind of genitalia(two or three penises, etc)"
 					},
 					"T6-6": {
 						"id": "T6-6",
 						"name": "Out of Place",
-						"desc": ""
+						"desc": "Anatomy that is not in the right place, like feet at the end of arms."
 					},
 					"T6-7": {
 						"id": "T6-7",
 						"name": "Prehensile Cocks",
-						"desc": ""
+						"desc": "Possessing a phallus that can move and manipulate objects."
 					},
 					"T6-8": {
 						"id": "T6-8",
 						"name": "Additional Parts",
-						"desc": ""
+						"desc": "More than the normal number of limbs or parts(extra arms or heads, etc)"
 					}
 				}
 			},
 			"T7": {
 				"id": "T7",
 				"name": "Exotic Material",
-				"desc": "",
+				"desc": "Partners composed of or covered by an unusual material.",
 				"subKinks": {
 					"T7-1": {
 						"id": "T7-1",
 						"name": "Ghostly",
-						"desc": ""
+						"desc": "Partners that are either not solid or partially solid."
 					},
 					"T7-2": {
 						"id": "T7-2",
 						"name": "Latex",
-						"desc": ""
+						"desc": "Partners made of or covered by latex."
 					},
 					"T7-3": {
 						"id": "T7-3",
 						"name": "Metal",
-						"desc": ""
+						"desc": "Partners made of or covered by some kind of metal."
 					},
 					"T7-4": {
 						"id": "T7-4",
 						"name": "Rubber",
-						"desc": ""
+						"desc": "Partners whose bodies are made of rubber or a similar substance."
 					},
 					"T7-5": {
 						"id": "T7-5",
 						"name": "Stone",
-						"desc": ""
+						"desc": "Partners made of stone."
 					},
 					"T7-6": {
 						"id": "T7-6",
-						"name": "Water/Liquid"
+						"name": "Water/Liquid",
+						"desc": "Partners that possess bodies of fluid."
 					}
 				}
 			},
 			"T8": {
 				"id": "T8",
 				"name": "Exotic Species",
-				"desc": "",
+				"desc": "Partners who are very strange or unusual species.",
 				"subKinks": {
 					"T8-1": {
 						"id": "T8-1",
-						"name": "Alien/Xeno"
+						"name": "Alien/Xeno",
+						"desc": "Very alien forms, like from the Aliens movies or just bizarre extraterrestrials."
 					},
 					"T8-2": {
 						"id": "T8-2",
 						"name": "Blob",
-						"desc": ""
+						"desc": "Partners who have an amorphous goo shape."
 					},
 					"T8-3": {
 						"id": "T8-3",
 						"name": "Eldritch",
-						"desc": ""
+						"desc": "Partners with forms that are akin to ancient horrors. Tentacles may be involved."
 					},
 					"T8-4": {
 						"id": "T8-4",
 						"name": "Fantastical",
-						"desc": ""
+						"desc": "Partners with body types from deep myth."
 					},
 					"T8-5": {
 						"id": "T8-5",
 						"name": "Monstrous",
-						"desc": ""
+						"desc": "Monster-like creatures, such as minotaurs, orks, orcs, scro, and other goblinoids not falling into other categories."
 					},
 					"T8-6": {
 						"id": "T8-6",
 						"name": "Plants",
-						"desc": ""
+						"desc": "Plantlike creatures that have a non-animal biology."
 					}
 				}
 			},
 			"T9": {
 				"id": "T9",
 				"name": "Extreme Anatomy",
-				"desc": "",
+				"desc": "Partners with oversized parts or otherwise larger than the norm.",
 				"subKinks": {
 					"T9-1": {
 						"id": "T9-1",
 						"name": "Huge Ass",
-						"desc": ""
+						"desc": "Possessing a rear end that is unrealistically large."
 					},
 					"T9-2": {
 						"id": "T9-2",
 						"name": "Massive Breasts",
-						"desc": ""
+						"desc": "Unrealistically large breasts."
 					},
 					"T9-3": {
 						"id": "T9-3",
 						"name": "Massive Cocks",
-						"desc": ""
+						"desc": "Unrealistically large cocks."
 					},
 					"T9-4": {
 						"id": "T9-4",
 						"name": "Obesity",
-						"desc": ""
+						"desc": "Massively overweight partners."
 					}
 				}
 			}
