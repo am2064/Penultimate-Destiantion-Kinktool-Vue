@@ -6,44 +6,54 @@
 			"B1": {
 				"id": "B1",
 				"name": "Behavior",
+				"desc": "",
 				"subKinks": {
 					"B1-1": {
 						"id": "B1-1",
-						"name": "Begging"
+						"name": "Begging",
+						"desc": ""
 					},
 					"B1-2": {
 						"id": "B1-2",
-						"name": "Meek"
+						"name": "Meek",
+						"desc": ""
 					},
 					"B1-3": {
 						"id": "B1-3",
-						"name": "Pet Play"
+						"name": "Pet Play",
+						"desc": ""
 					},
 					"B1-4": {
 						"id": "B1-4",
-						"name": "Physical Exhaustion"
+						"name": "Physical Exhaustion",
+						"desc": ""
 					},
 					"B1-5": {
 						"id": "B1-5",
-						"name": "Pony Play"
+						"name": "Pony Play",
+						"desc": ""
 					},
 					"B1-6": {
 						"id": "B1-6",
-						"name": "Sexual Exhaustion"
+						"name": "Sexual Exhaustion",
+						"desc": ""
 					},
 					"B1-7": {
 						"id": "B1-7",
-						"name": "Uppity"
+						"name": "Uppity",
+						"desc": ""
 					}
 				}
 			},
 			"B2": {
 				"id": "B2",
 				"name": "Bondage",
+				"desc": "",
 				"subKinks": {
 					"B2-1": {
 						"id": "B2-1",
-						"name": "Belts"
+						"name": "Belts",
+						"desc": ""
 					},
 					"B2-10": {
 						"id": "B2-10",
@@ -51,11 +61,13 @@
 					},
 					"B2-11": {
 						"id": "B2-11",
-						"name": "Magic"
+						"name": "Magic",
+						"desc": ""
 					},
 					"B2-12": {
 						"id": "B2-12",
-						"name": "Manacles"
+						"name": "Manacles",
+						"desc": ""
 					},
 					"B2-13": {
 						"id": "B2-13",
@@ -67,145 +79,179 @@
 					},
 					"B2-15": {
 						"id": "B2-15",
-						"name": "Rope"
+						"name": "Rope",
+						"desc": ""
 					},
 					"B2-16": {
 						"id": "B2-16",
-						"name": "Shibari"
+						"name": "Shibari",
+						"desc": ""
 					},
 					"B2-17": {
 						"id": "B2-17",
-						"name": "Suspension"
+						"name": "Suspension",
+						"desc": ""
 					},
 					"B2-2": {
 						"id": "B2-2",
-						"name": "Caging"
+						"name": "Caging",
+						"desc": ""
 					},
 					"B2-3": {
 						"id": "B2-3",
-						"name": "Chain"
+						"name": "Chain",
+						"desc": ""
 					},
 					"B2-4": {
 						"id": "B2-4",
-						"name": "Contortion"
+						"name": "Contortion",
+						"desc": ""
 					},
 					"B2-5": {
 						"id": "B2-5",
-						"name": "Devices"
+						"name": "Devices",
+						"desc": ""
 					},
 					"B2-6": {
 						"id": "B2-6",
-						"name": "Encasement"
+						"name": "Encasement",
+						"desc": ""
 					},
 					"B2-7": {
 						"id": "B2-7",
-						"name": "Gags"
+						"name": "Gags",
+						"desc": ""
 					},
 					"B2-8": {
 						"id": "B2-8",
-						"name": "Handcuffs"
+						"name": "Handcuffs",
+						"desc": ""
 					},
 					"B2-9": {
 						"id": "B2-9",
-						"name": "Immobilization"
+						"name": "Immobilization",
+						"desc": ""
 					}
 				}
 			},
 			"B3": {
 				"id": "B3",
 				"name": "Rules",
+				"desc": "",
 				"subKinks": {
 					"B3-1": {
 						"id": "B3-1",
-						"name": "Access Restrictions"
+						"name": "Access Restrictions",
+						"desc": ""
 					},
 					"B3-2": {
 						"id": "B3-2",
-						"name": "Clothing Restriction"
+						"name": "Clothing Restriction",
+						"desc": ""
 					},
 					"B3-3": {
 						"id": "B3-3",
-						"name": "Chastity"
+						"name": "Chastity",
+						"desc": ""
 					},
 					"B3-4": {
 						"id": "B3-4",
-						"name": "Humiliation"
+						"name": "Humiliation",
+						"desc": ""
 					},
 					"B3-5": {
 						"id": "B3-5",
-						"name": "Movement Restriction"
+						"name": "Movement Restriction",
+						"desc": ""
 					},
 					"B3-6": {
 						"id": "B3-6",
-						"name": "Orgasm Control"
+						"name": "Orgasm Control",
+						"desc": ""
 					},
 					"B3-7": {
 						"id": "B3-7",
-						"name": "Orgasm Denial"
+						"name": "Orgasm Denial",
+						"desc": ""
 					},
 					"B3-8": {
 						"id": "B3-8",
-						"name": "Speech Restraints"
+						"name": "Speech Restraints",
+						"desc": ""
 					}
 				}
 			},
 			"B4": {
 				"id": "B4",
 				"name": "Sensory Deprivation",
+				"desc": "",
 				"subKinks": {
 					"B4-1": {
 						"id": "B4-1",
-						"name": "Blindfolds"
+						"name": "Blindfolds",
+						"desc": ""
 					},
 					"B4-2": {
 						"id": "B4-2",
-						"name": "Earplugs"
+						"name": "Earplugs",
+						"desc": ""
 					},
 					"B4-3": {
 						"id": "B4-3",
-						"name": "Full Body"
+						"name": "Full Body",
+						"desc": ""
 					},
 					"B4-4": {
 						"id": "B4-4",
-						"name": "Hoods"
+						"name": "Hoods",
+						"desc": ""
 					},
 					"B4-5": {
 						"id": "B4-5",
-						"name": "Masks"
+						"name": "Masks",
+						"desc": ""
 					},
 					"B4-6": {
 						"id": "B4-6",
-						"name": "Numbing"
+						"name": "Numbing",
+						"desc": ""
 					}
 				}
 			},
 			"B5": {
 				"id": "B5",
 				"name": "Slavery",
+				"desc": "",
 				"subKinks": {
 					"B5-1": {
 						"id": "B5-1",
-						"name": "Branding"
+						"name": "Branding",
+						"desc": ""
 					},
 					"B5-2": {
 						"id": "B5-2",
-						"name": "Discipline"
+						"name": "Discipline",
+						"desc": ""
 					},
 					"B5-3": {
 						"id": "B5-3",
-						"name": "Harem"
+						"name": "Harem",
+						"desc": ""
 					},
 					"B5-4": {
 						"id": "B5-4",
-						"name": "Objectification"
+						"name": "Objectification",
+						"desc": ""
 					},
 					"B5-5": {
 						"id": "B5-5",
-						"name": "Pet"
+						"name": "Pet",
+						"desc": ""
 					},
 					"B5-6": {
 						"id": "B5-6",
-						"name": "Slave"
+						"name": "Slave",
+						"desc": ""
 					}
 				}
 			}
@@ -218,167 +264,206 @@
 			"H1": {
 				"id": "H1",
 				"name": "Amputation",
+				"desc": "",
 				"subKinks": {
 					"H1-1": {
 						"id": "H1-1",
-						"name": "Clean"
+						"name": "Clean",
+						"desc": ""
 					},
 					"H1-2": {
 						"id": "H1-2",
-						"name": "Realistic"
+						"name": "Realistic",
+						"desc": ""
 					}
 				}
 			},
 			"H10": {
 				"id": "H10",
 				"name": "Messy",
+				"desc": "",
 				"subKinks": {
 					"H10-1": {
 						"id": "H10-1",
-						"name": "Menses"
+						"name": "Menses",
+						"desc": ""
 					},
 					"H10-2": {
 						"id": "H10-2",
-						"name": "Musk"
+						"name": "Musk",
+						"desc": ""
 					},
 					"H10-3": {
 						"id": "H10-3",
-						"name": "Slob"
+						"name": "Slob",
+						"desc": ""
 					},
 					"H10-4": {
 						"id": "H10-4",
-						"name": "Smegma"
+						"name": "Smegma",
+						"desc": ""
 					},
 					"H10-5": {
 						"id": "H10-5",
-						"name": "Wet and Messy"
+						"name": "Wet and Messy",
+						"desc": ""
 					}
 				}
 			},
 			"H11": {
 				"id": "H11",
 				"name": "Mutilation",
+				"desc": "",
 				"subKinks": {
 					"H11-1": {
 						"id": "H11-1",
-						"name": "Abrasions"
+						"name": "Abrasions",
+						"desc": ""
 					},
 					"H11-2": {
 						"id": "H11-2",
-						"name": "Branding"
+						"name": "Branding",
+						"desc": ""
 					},
 					"H11-3": {
 						"id": "H11-3",
-						"name": "Castration"
+						"name": "Castration",
+						"desc": ""
 					},
 					"H11-4": {
 						"id": "H11-4",
-						"name": "Piercing"
+						"name": "Piercing",
+						"desc": ""
 					},
 					"H11-5": {
 						"id": "H11-5",
-						"name": "Scarring"
+						"name": "Scarring",
+						"desc": ""
 					},
 					"H11-6": {
 						"id": "H11-6",
-						"name": "Tattoos"
+						"name": "Tattoos",
+						"desc": ""
 					}
 				}
 			},
 			"H12": {
 				"id": "H12",
 				"name": "Necrophilia",
+				"desc": "",
 				"subKinks": {}
 			},
 			"H13": {
 				"id": "H13",
 				"name": "Scat",
+				"desc": "",
 				"subKinks": {
 					"H13-1": {
 						"id": "H13-1",
-						"name": "Diapers"
+						"name": "Diapers",
+						"desc": ""
 					},
 					"H13-2": {
 						"id": "H13-2",
-						"name": "Farting"
+						"name": "Farting",
+						"desc": ""
 					},
 					"H13-3": {
 						"id": "H13-3",
-						"name": "Feces Play"
+						"name": "Feces Play",
+						"desc": ""
 					},
 					"H13-4": {
 						"id": "H13-4",
-						"name": "Hyper Scat"
+						"name": "Hyper Scat",
+						"desc": ""
 					},
 					"H13-5": {
 						"id": "H13-5",
-						"name": "Scat Torture"
+						"name": "Scat Torture",
+						"desc": ""
 					},
 					"H13-6": {
 						"id": "H13-6",
-						"name": "Soiling"
+						"name": "Soiling",
+						"desc": ""
 					},
 					"H13-7": {
 						"id": "H13-7",
-						"name": "Swallowing"
+						"name": "Swallowing",
+						"desc": ""
 					}
 				}
 			},
 			"H14": {
 				"id": "H14",
 				"name": "Transformation",
+				"desc": "",
 				"subKinks": {
 					"H14-1": {
 						"id": "H14-1",
-						"name": "Addition"
+						"name": "Addition",
+						"desc": ""
 					},
 					"H14-10": {
 						"id": "H14-10",
-						"name": "Expansion"
+						"name": "Expansion",
+						"desc": ""
 					},
 					"H14-11": {
 						"id": "H14-11",
-						"name": "Fast"
+						"name": "Fast",
+						"desc": ""
 					},
 					"H14-12": {
 						"id": "H14-12",
-						"name": "Fatal"
+						"name": "Fatal",
+						"desc": ""
 					},
 					"H14-13": {
 						"id": "H14-13",
-						"name": "Forced"
+						"name": "Forced",
+						"desc": ""
 					},
 					"H14-14": {
 						"id": "H14-14",
-						"name": "Growth"
+						"name": "Growth",
+						"desc": ""
 					},
 					"H14-15": {
 						"id": "H14-15",
-						"name": "Inanimate"
+						"name": "Inanimate",
+						"desc": ""
 					},
 					"H14-16": {
 						"id": "H14-16",
-						"name": "Mental"
+						"name": "Mental",
+						"desc": ""
 					},
 					"H14-17": {
 						"id": "H14-17",
-						"name": "Merging"
+						"name": "Merging",
+						"desc": ""
 					},
 					"H14-18": {
 						"id": "H14-18",
-						"name": "Permanent"
+						"name": "Permanent",
+						"desc": ""
 					},
 					"H14-19": {
 						"id": "H14-19",
-						"name": "Petrification"
+						"name": "Petrification",
+						"desc": ""
 					},
 					"H14-2": {
 						"id": "H14-2",
-						"name": "Age Progression"
+						"name": "Age Progression",
+						"desc": ""
 					},
 					"H14-20": {
 						"id": "H14-20",
-						"name": "Removal"
+						"name": "Removal",
+						"desc": ""
 					},
 					"H14-21": {
 						"id": "H14-21",
@@ -390,291 +475,358 @@
 					},
 					"H14-23": {
 						"id": "H14-23",
-						"name": "Shrinking"
+						"name": "Shrinking",
+						"desc": ""
 					},
 					"H14-24": {
 						"id": "H14-24",
-						"name": "Slow"
+						"name": "Slow",
+						"desc": ""
 					},
 					"H14-25": {
 						"id": "H14-25",
-						"name": "Theft"
+						"name": "Theft",
+						"desc": ""
 					},
 					"H14-26": {
 						"id": "H14-26",
-						"name": "Weird"
+						"name": "Weird",
+						"desc": ""
 					},
 					"H14-3": {
 						"id": "H14-3",
-						"name": "Age Regression"
+						"name": "Age Regression",
+						"desc": ""
 					},
 					"H14-4": {
 						"id": "H14-4",
-						"name": "Animal"
+						"name": "Animal",
+						"desc": ""
 					},
 					"H14-5": {
 						"id": "H14-5",
-						"name": "Anthro"
+						"name": "Anthro",
+						"desc": ""
 					},
 					"H14-6": {
 						"id": "H14-6",
-						"name": "Bimbo"
+						"name": "Bimbo",
+						"desc": ""
 					},
 					"H14-7": {
 						"id": "H14-7",
-						"name": "Desexualization"
+						"name": "Desexualization",
+						"desc": ""
 					},
 					"H14-8": {
 						"id": "H14-8",
-						"name": "Dollification"
+						"name": "Dollification",
+						"desc": ""
 					},
 					"H14-9": {
 						"id": "H14-9",
-						"name": "Enhancement"
+						"name": "Enhancement",
+						"desc": ""
 					}
 				}
 			},
 			"H15": {
 				"id": "H15",
 				"name": "Vomit",
+				"desc": "",
 				"subKinks": {
 					"H15-1": {
 						"id": "H15-1",
-						"name": "Swallowing"
+						"name": "Swallowing",
+						"desc": ""
 					}
 				}
 			},
 			"H16": {
 				"id": "H16",
 				"name": "Vore",
+				"desc": "",
 				"subKinks": {
 					"H16-1": {
 						"id": "H16-1",
-						"name": "Absorption"
+						"name": "Absorption",
+						"desc": ""
 					},
 					"H16-10": {
 						"id": "H16-10",
-						"name": "Digestion"
+						"name": "Digestion",
+						"desc": ""
 					},
 					"H16-11": {
 						"id": "H16-11",
-						"name": "Disposal"
+						"name": "Disposal",
+						"desc": ""
 					},
 					"H16-12": {
 						"id": "H16-12",
-						"name": "Hard Vore"
+						"name": "Hard Vore",
+						"desc": ""
 					},
 					"H16-13": {
 						"id": "H16-13",
-						"name": "Realistic Vore"
+						"name": "Realistic Vore",
+						"desc": ""
 					},
 					"H16-14": {
 						"id": "H16-14",
-						"name": "Soft Vore"
+						"name": "Soft Vore",
+						"desc": ""
 					},
 					"H16-15": {
 						"id": "H16-15",
-						"name": "Soul Vore"
+						"name": "Soul Vore",
+						"desc": ""
 					},
 					"H16-16": {
 						"id": "H16-16",
-						"name": "Unbirthing"
+						"name": "Unbirthing",
+						"desc": ""
 					},
 					"H16-17": {
 						"id": "H16-17",
-						"name": "Unrealistic Vore"
+						"name": "Unrealistic Vore",
+						"desc": ""
 					},
 					"H16-2": {
 						"id": "H16-2",
-						"name": "Alternative Vore"
+						"name": "Alternative Vore",
+						"desc": ""
 					},
 					"H16-3": {
 						"id": "H16-3",
-						"name": "Anal Vore"
+						"name": "Anal Vore",
+						"desc": ""
 					},
 					"H16-4": {
 						"id": "H16-4",
-						"name": "Being Predator"
+						"name": "Being Predator",
+						"desc": ""
 					},
 					"H16-5": {
 						"id": "H16-5",
-						"name": "Being Prey"
+						"name": "Being Prey",
+						"desc": ""
 					},
 					"H16-6": {
 						"id": "H16-6",
-						"name": "Breast Vore"
+						"name": "Breast Vore",
+						"desc": ""
 					},
 					"H16-7": {
 						"id": "H16-7",
-						"name": "Cannibalism"
+						"name": "Cannibalism",
+						"desc": ""
 					},
 					"H16-8": {
 						"id": "H16-8",
-						"name": "Cock Vore"
+						"name": "Cock Vore",
+						"desc": ""
 					},
 					"H16-9": {
 						"id": "H16-9",
-						"name": "Cooking"
+						"name": "Cooking",
+						"desc": ""
 					}
 				}
 			},
 			"H17": {
 				"id": "H17",
 				"name": "Watersports",
+				"desc": "",
 				"subKinks": {
 					"H17-1": {
 						"id": "H17-1",
-						"name": "Bathroom Control"
+						"name": "Bathroom Control",
+						"desc": ""
 					},
 					"H17-2": {
 						"id": "H17-2",
-						"name": "Bathroom Play"
+						"name": "Bathroom Play",
+						"desc": ""
 					},
 					"H17-3": {
 						"id": "H17-3",
-						"name": "Diapers"
+						"name": "Diapers",
+						"desc": ""
 					},
 					"H17-4": {
 						"id": "H17-4",
-						"name": "Hyper Watersports"
+						"name": "Hyper Watersports",
+						"desc": ""
 					},
 					"H17-5": {
 						"id": "H17-5",
-						"name": "Marking"
+						"name": "Marking",
+						"desc": ""
 					},
 					"H17-6": {
 						"id": "H17-6",
-						"name": "Piss Enema"
+						"name": "Piss Enema",
+						"desc": ""
 					},
 					"H17-7": {
 						"id": "H17-7",
-						"name": "Swallowing"
+						"name": "Swallowing",
+						"desc": ""
 					},
 					"H17-8": {
 						"id": "H17-8",
-						"name": "Voyeur"
+						"name": "Voyeur",
+						"desc": ""
 					},
 					"H17-9": {
 						"id": "H17-9",
-						"name": "Wetting"
+						"name": "Wetting",
+						"desc": ""
 					}
 				}
 			},
 			"H2": {
 				"id": "H2",
 				"name": "Blood",
+				"desc": "",
 				"subKinks": {
 					"H2-1": {
 						"id": "H2-1",
-						"name": "Bloodletting"
+						"name": "Bloodletting",
+						"desc": ""
 					},
 					"H2-2": {
 						"id": "H2-2",
-						"name": "Swallowing"
+						"name": "Swallowing",
+						"desc": ""
 					}
 				}
 			},
 			"H3": {
 				"id": "H3",
 				"name": "Breath Control",
+				"desc": "",
 				"subKinks": {
 					"H3-1": {
 						"id": "H3-1",
-						"name": "Asphyxiation"
+						"name": "Asphyxiation",
+						"desc": ""
 					},
 					"H3-2": {
 						"id": "H3-2",
-						"name": "Choking"
+						"name": "Choking",
+						"desc": ""
 					}
 				}
 			},
 			"H4": {
 				"id": "H4",
 				"name": "Death",
+				"desc": "",
 				"subKinks": {
 					"H4-1": {
 						"id": "H4-1",
-						"name": "Defilement"
+						"name": "Defilement",
+						"desc": ""
 					},
 					"H4-2": {
 						"id": "H4-2",
-						"name": "Impalement"
+						"name": "Impalement",
+						"desc": ""
 					},
 					"H4-3": {
 						"id": "H4-3",
-						"name": "Permanent"
+						"name": "Permanent",
+						"desc": ""
 					}
 				}
 			},
 			"H5": {
 				"id": "H5",
 				"name": "Drugs",
+				"desc": "",
 				"subKinks": {
 					"H5-1": {
 						"id": "H5-1",
-						"name": "Addiction"
+						"name": "Addiction",
+						"desc": ""
 					},
 					"H5-2": {
 						"id": "H5-2",
-						"name": "Alcohol"
+						"name": "Alcohol",
+						"desc": ""
 					},
 					"H5-3": {
 						"id": "H5-3",
-						"name": "Aphrodisiacs"
+						"name": "Aphrodisiacs",
+						"desc": ""
 					},
 					"H5-4": {
 						"id": "H5-4",
-						"name": "Hard Drugs"
+						"name": "Hard Drugs",
+						"desc": ""
 					},
 					"H5-5": {
 						"id": "H5-5",
-						"name": "Smoking"
+						"name": "Smoking",
+						"desc": ""
 					}
 				}
 			},
 			"H6": {
 				"id": "H6",
 				"name": "Enema",
+				"desc": "",
 				"subKinks": {
 					"H6-1": {
 						"id": "H6-1",
-						"name": "Clean"
+						"name": "Clean",
+						"desc": ""
 					},
 					"H6-2": {
 						"id": "H6-2",
-						"name": "Cum"
+						"name": "Cum",
+						"desc": ""
 					},
 					"H6-3": {
 						"id": "H6-3",
-						"name": "Messy"
+						"name": "Messy",
+						"desc": ""
 					}
 				}
 			},
 			"H7": {
 				"id": "H7",
 				"name": "Inflation",
+				"desc": "",
 				"subKinks": {
 					"H7-1": {
 						"id": "H7-1",
-						"name": "Heavy"
+						"name": "Heavy",
+						"desc": ""
 					},
 					"H7-2": {
 						"id": "H7-2",
-						"name": "Light"
+						"name": "Light",
+						"desc": ""
 					},
 					"H7-3": {
 						"id": "H7-3",
-						"name": "Popping"
+						"name": "Popping",
+						"desc": ""
 					}
 				}
 			},
 			"H8": {
 				"id": "H8",
 				"name": "Rape",
+				"desc": "",
 				"subKinks": {
 					"H8-1": {
 						"id": "H8-1",
-						"name": "Hard Rape"
+						"name": "Hard Rape",
+						"desc": ""
 					},
 					"H8-2": {
 						"id": "H8-2",
@@ -685,6 +837,7 @@
 			"H9": {
 				"id": "H9",
 				"name": "Torture",
+				"desc": "",
 				"subKinks": {
 					"H9-1": {
 						"id": "H9-1",
@@ -692,11 +845,13 @@
 					},
 					"H9-2": {
 						"id": "H9-2",
-						"name": "Burning"
+						"name": "Burning",
+						"desc": ""
 					},
 					"H9-3": {
 						"id": "H9-3",
-						"name": "Chemical"
+						"name": "Chemical",
+						"desc": ""
 					},
 					"H9-4": {
 						"id": "H9-4",
@@ -704,7 +859,8 @@
 					},
 					"H9-5": {
 						"id": "H9-5",
-						"name": "Genital Torture"
+						"name": "Genital Torture",
+						"desc": ""
 					},
 					"H9-6": {
 						"id": "H9-6",
@@ -712,15 +868,18 @@
 					},
 					"H9-7": {
 						"id": "H9-7",
-						"name": "Pain"
+						"name": "Pain",
+						"desc": ""
 					},
 					"H9-8": {
 						"id": "H9-8",
-						"name": "Sexual"
+						"name": "Sexual",
+						"desc": ""
 					},
 					"H9-9": {
 						"id": "H9-9",
-						"name": "Starvation"
+						"name": "Starvation",
+						"desc": ""
 					}
 				}
 			}
@@ -733,31 +892,37 @@
 			"M1": {
 				"id": "M1",
 				"name": "Bottom",
+				"desc": "",
 				"subKinks": {}
 			},
 			"M2": {
 				"id": "M2",
 				"name": "Dominant",
+				"desc": "",
 				"subKinks": {}
 			},
 			"M3": {
 				"id": "M3",
 				"name": "Equal",
+				"desc": "",
 				"subKinks": {}
 			},
 			"M4": {
 				"id": "M4",
 				"name": "Submissive",
+				"desc": "",
 				"subKinks": {}
 			},
 			"M5": {
 				"id": "M5",
 				"name": "Switch",
+				"desc": "",
 				"subKinks": {}
 			},
 			"M6": {
 				"id": "M6",
 				"name": "Top",
+				"desc": "",
 				"subKinks": {}
 			}
 		}
@@ -769,10 +934,12 @@
 			"P1": {
 				"id": "P1",
 				"name": "Androgynous",
+				"desc": "",
 				"subKinks": {
 					"P1-1": {
 						"id": "P1-1",
-						"name": "Trap"
+						"name": "Trap",
+						"desc": ""
 					},
 					"P1-2": {
 						"id": "P1-2",
@@ -783,36 +950,43 @@
 			"P2": {
 				"id": "P2",
 				"name": "Cuntboys",
+				"desc": "",
 				"subKinks": {}
 			},
 			"P3": {
 				"id": "P3",
 				"name": "Females",
+				"desc": "",
 				"subKinks": {}
 			},
 			"P4": {
 				"id": "P4",
 				"name": "Hermaphrodites",
+				"desc": "",
 				"subKinks": {}
 			},
 			"P5": {
 				"id": "P5",
 				"name": "Male Herms",
+				"desc": "",
 				"subKinks": {}
 			},
 			"P6": {
 				"id": "P6",
 				"name": "Males",
+				"desc": "",
 				"subKinks": {}
 			},
 			"P7": {
 				"id": "P7",
 				"name": "Shemales",
+				"desc": "",
 				"subKinks": {}
 			},
 			"P8": {
 				"id": "P8",
 				"name": "Transgender",
+				"desc": "",
 				"subKinks": {}
 			}
 		}
@@ -824,6 +998,7 @@
 			"R1": {
 				"id": "R1",
 				"name": "Clothing",
+				"desc": "",
 				"subKinks": {
 					"R1-1": {
 						"id": "R1-1",
@@ -831,35 +1006,43 @@
 					},
 					"R1-10": {
 						"id": "R1-10",
-						"name": "Maid"
+						"name": "Maid",
+						"desc": ""
 					},
 					"R1-11": {
 						"id": "R1-11",
-						"name": "Naked Apron"
+						"name": "Naked Apron",
+						"desc": ""
 					},
 					"R1-12": {
 						"id": "R1-12",
-						"name": "Religious"
+						"name": "Religious",
+						"desc": ""
 					},
 					"R1-13": {
 						"id": "R1-13",
-						"name": "Slutty"
+						"name": "Slutty",
+						"desc": ""
 					},
 					"R1-14": {
 						"id": "R1-14",
-						"name": "Style"
+						"name": "Style",
+						"desc": ""
 					},
 					"R1-15": {
 						"id": "R1-15",
-						"name": "Suits"
+						"name": "Suits",
+						"desc": ""
 					},
 					"R1-16": {
 						"id": "R1-16",
-						"name": "Underwear"
+						"name": "Underwear",
+						"desc": ""
 					},
 					"R1-17": {
 						"id": "R1-17",
-						"name": "Uniforms"
+						"name": "Uniforms",
+						"desc": ""
 					},
 					"R1-18": {
 						"id": "R1-18",
@@ -867,23 +1050,28 @@
 					},
 					"R1-19": {
 						"id": "R1-19",
-						"name": "Stockings"
+						"name": "Stockings",
+						"desc": ""
 					},
 					"R1-2": {
 						"id": "R1-2",
-						"name": "Costumes"
+						"name": "Costumes",
+						"desc": ""
 					},
 					"R1-20": {
 						"id": "R1-20",
-						"name": "Living Clothing"
+						"name": "Living Clothing",
+						"desc": ""
 					},
 					"R1-3": {
 						"id": "R1-3",
-						"name": "Crossdressing"
+						"name": "Crossdressing",
+						"desc": ""
 					},
 					"R1-4": {
 						"id": "R1-4",
-						"name": "Glasses"
+						"name": "Glasses",
+						"desc": ""
 					},
 					"R1-5": {
 						"id": "R1-5",
@@ -891,19 +1079,23 @@
 					},
 					"R1-6": {
 						"id": "R1-6",
-						"name": "Latex"
+						"name": "Latex",
+						"desc": ""
 					},
 					"R1-7": {
 						"id": "R1-7",
-						"name": "Leather"
+						"name": "Leather",
+						"desc": ""
 					},
 					"R1-8": {
 						"id": "R1-8",
-						"name": "Lingerie"
+						"name": "Lingerie",
+						"desc": ""
 					},
 					"R1-9": {
 						"id": "R1-9",
-						"name": "Masks"
+						"name": "Masks",
+						"desc": ""
 					}
 				}
 			},
@@ -920,99 +1112,122 @@
 			"R12": {
 				"id": "R12",
 				"name": "Pregnancy",
+				"desc": "",
 				"subKinks": {
 					"R12-1": {
 						"id": "R12-1",
-						"name": "Birthing"
+						"name": "Birthing",
+						"desc": ""
 					},
 					"R12-2": {
 						"id": "R12-2",
-						"name": "Breeding"
+						"name": "Breeding",
+						"desc": ""
 					},
 					"R12-3": {
 						"id": "R12-3",
-						"name": "Extreme Pregnancy"
+						"name": "Extreme Pregnancy",
+						"desc": ""
 					},
 					"R12-4": {
 						"id": "R12-4",
-						"name": "Impregnation"
+						"name": "Impregnation",
+						"desc": ""
 					},
 					"R12-5": {
 						"id": "R12-5",
-						"name": "Male Pregnancy"
+						"name": "Male Pregnancy",
+						"desc": ""
 					},
 					"R12-6": {
 						"id": "R12-6",
-						"name": "Oviposition"
+						"name": "Oviposition",
+						"desc": ""
 					},
 					"R12-7": {
 						"id": "R12-7",
-						"name": "Pregnant Sex"
+						"name": "Pregnant Sex",
+						"desc": ""
 					},
 					"R12-8": {
 						"id": "R12-8",
-						"name": "Risk of Pregnancy"
+						"name": "Risk of Pregnancy",
+						"desc": ""
 					},
 					"R12-9": {
 						"id": "R12-9",
-						"name": "Unusual Pregnancy"
+						"name": "Unusual Pregnancy",
+						"desc": ""
 					}
 				}
 			},
 			"R13": {
 				"id": "R13",
 				"name": "Role Reversal",
+				"desc": "",
 				"subKinks": {}
 			},
 			"R14": {
 				"id": "R14",
 				"name": "Romance",
+				"desc": "",
 				"subKinks": {
 					"R14-1": {
 						"id": "R14-1",
-						"name": "Cuddling"
+						"name": "Cuddling",
+						"desc": ""
 					},
 					"R14-2": {
 						"id": "R14-2",
-						"name": "Dating"
+						"name": "Dating",
+						"desc": ""
 					},
 					"R14-3": {
 						"id": "R14-3",
-						"name": "Kissing"
+						"name": "Kissing",
+						"desc": ""
 					},
 					"R14-4": {
 						"id": "R14-4",
-						"name": "Marriage"
+						"name": "Marriage",
+						"desc": ""
 					},
 					"R14-5": {
 						"id": "R14-5",
-						"name": "PDA"
+						"name": "PDA",
+						"desc": ""
 					},
 					"R14-6": {
 						"id": "R14-6",
-						"name": "Polygamy"
+						"name": "Polygamy",
+						"desc": ""
 					},
 					"R14-7": {
 						"id": "R14-7",
-						"name": "Monogamy"
+						"name": "Monogamy",
+						"desc": ""
 					}
 				}
 			},
 			"R15": {
 				"id": "R15",
 				"name": "RP in RP",
+				"desc": "",
 				"subKinks": {
 					"R15-1": {
 						"id": "R15-1",
-						"name": "Ageplay"
+						"name": "Ageplay",
+						"desc": ""
 					},
 					"R15-2": {
 						"id": "R15-2",
-						"name": "Costumes"
+						"name": "Costumes",
+						"desc": ""
 					},
 					"R15-3": {
 						"id": "R15-3",
-						"name": "Infantilism"
+						"name": "Infantilism",
+						"desc": ""
 					}
 				}
 			},
@@ -1022,104 +1237,127 @@
 				"subKinks": {
 					"R16-1": {
 						"id": "R16-1",
-						"name": "Hoods"
+						"name": "Hoods",
+						"desc": ""
 					},
 					"R16-2": {
 						"id": "R16-2",
-						"name": "Suits"
+						"name": "Suits",
+						"desc": ""
 					},
 					"R16-3": {
 						"id": "R16-3",
-						"name": "Toys"
+						"name": "Toys",
+						"desc": ""
 					}
 				}
 			},
 			"R17": {
 				"id": "R17",
 				"name": "Sandboxing",
+				"desc": "",
 				"subKinks": {}
 			},
 			"R18": {
 				"id": "R18",
 				"name": "Taboo",
+				"desc": "",
 				"subKinks": {
 					"R18-1": {
 						"id": "R18-1",
-						"name": "Adultery"
+						"name": "Adultery",
+						"desc": ""
 					},
 					"R18-2": {
 						"id": "R18-2",
-						"name": "Age Differences"
+						"name": "Age Differences",
+						"desc": ""
 					},
 					"R18-3": {
 						"id": "R18-3",
-						"name": "Blasphemy"
+						"name": "Blasphemy",
+						"desc": ""
 					},
 					"R18-4": {
 						"id": "R18-4",
-						"name": "Incest"
+						"name": "Incest",
+						"desc": ""
 					},
 					"R18-5": {
 						"id": "R18-5",
-						"name": "Interracial"
+						"name": "Interracial",
+						"desc": ""
 					},
 					"R18-6": {
 						"id": "R18-6",
-						"name": "Interspecies"
+						"name": "Interspecies",
+						"desc": ""
 					},
 					"R18-7": {
 						"id": "R18-7",
-						"name": "Orientation Play"
+						"name": "Orientation Play",
+						"desc": ""
 					},
 					"R18-8": {
 						"id": "R18-8",
-						"name": "Spanking"
+						"name": "Spanking",
+						"desc": ""
 					}
 				}
 			},
 			"R19": {
 				"id": "R19",
 				"name": "Teasing",
+				"desc": "",
 				"subKinks": {
 					"R19-1": {
 						"id": "R19-1",
-						"name": "Caressing"
+						"name": "Caressing",
+						"desc": ""
 					},
 					"R19-2": {
 						"id": "R19-2",
-						"name": "Humiliation"
+						"name": "Humiliation",
+						"desc": ""
 					},
 					"R19-3": {
 						"id": "R19-3",
-						"name": "Tickling"
+						"name": "Tickling",
+						"desc": ""
 					}
 				}
 			},
 			"R2": {
 				"id": "R2",
 				"name": "Exhibitionism",
+				"desc": "",
 				"subKinks": {
 					"R2-1": {
 						"id": "R2-1",
-						"name": "Public Nudity"
+						"name": "Public Nudity",
+						"desc": ""
 					},
 					"R2-2": {
 						"id": "R2-2",
-						"name": "Public Sex"
+						"name": "Public Sex",
+						"desc": ""
 					}
 				}
 			},
 			"R20": {
 				"id": "R20",
 				"name": "Themed",
+				"desc": "",
 				"subKinks": {
 					"R20-1": {
 						"id": "R20-1",
-						"name": "Captivity"
+						"name": "Captivity",
+						"desc": ""
 					},
 					"R20-10": {
 						"id": "R20-10",
-						"name": "School"
+						"name": "School",
+						"desc": ""
 					},
 					"R20-11": {
 						"id": "R20-11",
@@ -1127,11 +1365,13 @@
 					},
 					"R20-12": {
 						"id": "R20-12",
-						"name": "Steampunk"
+						"name": "Steampunk",
+						"desc": ""
 					},
 					"R20-13": {
 						"id": "R20-13",
-						"name": "Tribal"
+						"name": "Tribal",
+						"desc": ""
 					},
 					"R20-14": {
 						"id": "R20-14",
@@ -1139,107 +1379,131 @@
 					},
 					"R20-15": {
 						"id": "R20-15",
-						"name": "Superheroes"
+						"name": "Superheroes",
+						"desc": ""
 					},
 					"R20-2": {
 						"id": "R20-2",
-						"name": "Fantasy"
+						"name": "Fantasy",
+						"desc": ""
 					},
 					"R20-3": {
 						"id": "R20-3",
-						"name": "Isolation"
+						"name": "Isolation",
+						"desc": ""
 					},
 					"R20-4": {
 						"id": "R20-4",
-						"name": "Law Enforcement"
+						"name": "Law Enforcement",
+						"desc": ""
 					},
 					"R20-5": {
 						"id": "R20-5",
-						"name": "Medical"
+						"name": "Medical",
+						"desc": ""
 					},
 					"R20-6": {
 						"id": "R20-6",
-						"name": "Office"
+						"name": "Office",
+						"desc": ""
 					},
 					"R20-7": {
 						"id": "R20-7",
-						"name": "Political"
+						"name": "Political",
+						"desc": ""
 					},
 					"R20-8": {
 						"id": "R20-8",
-						"name": "Prostitution"
+						"name": "Prostitution",
+						"desc": ""
 					},
 					"R20-9": {
 						"id": "R20-9",
-						"name": "Religion"
+						"name": "Religion",
+						"desc": ""
 					}
 				}
 			},
 			"R21": {
 				"id": "R21",
 				"name": "Unwilling",
+				"desc": "",
 				"subKinks": {
 					"R21-1": {
 						"id": "R21-1",
-						"name": "Blackmail"
+						"name": "Blackmail",
+						"desc": ""
 					},
 					"R21-2": {
 						"id": "R21-2",
-						"name": "Obligation"
+						"name": "Obligation",
+						"desc": ""
 					},
 					"R21-3": {
 						"id": "R21-3",
-						"name": "Penalty"
+						"name": "Penalty",
+						"desc": ""
 					}
 				}
 			},
 			"R22": {
 				"id": "R22",
 				"name": "Violence",
+				"desc": "",
 				"subKinks": {
 					"R22-1": {
 						"id": "R22-1",
-						"name": "Bladeplay"
+						"name": "Bladeplay",
+						"desc": ""
 					},
 					"R22-2": {
 						"id": "R22-2",
-						"name": "Fighting"
+						"name": "Fighting",
+						"desc": ""
 					},
 					"R22-3": {
 						"id": "R22-3",
-						"name": "Guns"
+						"name": "Guns",
+						"desc": ""
 					},
 					"R22-4": {
 						"id": "R22-4",
-						"name": "Wrestling"
+						"name": "Wrestling",
+						"desc": ""
 					}
 				}
 			},
 			"R23": {
 				"id": "R23",
 				"name": "Voyeurism",
+				"desc": "",
 				"subKinks": {
 					"R23-1": {
 						"id": "R23-1",
-						"name": "Accidental"
+						"name": "Accidental",
+						"desc": ""
 					},
 					"R23-2": {
 						"id": "R23-2",
-						"name": "Cuckolding"
+						"name": "Cuckolding",
+						"desc": ""
 					},
 					"R23-3": {
 						"id": "R23-3",
-						"name": "Spying"
+						"name": "Spying",
+						"desc": ""
 					}
 				}
 			},
 			"R3": {
 				"id": "R3",
 				"name": "Food",
+				"desc": "",
 				"subKinks": {
 					"R3-1": {
 						"id": "R3-1",
-						"name": "Force Feeding"
+						"name": "Force Feeding",
+						"desc": ""
 					},
 					"R3-2": {
 						"id": "R3-2",
@@ -1247,92 +1511,112 @@
 					},
 					"R3-3": {
 						"id": "R3-3",
-						"name": "Sweets"
+						"name": "Sweets",
+						"desc": ""
 					},
 					"R3-4": {
 						"id": "R3-4",
-						"name": "Syrups"
+						"name": "Syrups",
+						"desc": ""
 					},
 					"R3-5": {
 						"id": "R3-5",
-						"name": "Weight Gain"
+						"name": "Weight Gain",
+						"desc": ""
 					}
 				}
 			},
 			"R4": {
 				"id": "R4",
 				"name": "Instant Hookups",
+				"desc": "",
 				"subKinks": {}
 			},
 			"R5": {
 				"id": "R5",
 				"name": "Long Term",
+				"desc": "",
 				"subKinks": {
 					"R5-1": {
 						"id": "R5-1",
-						"name": "Grid"
+						"name": "Grid",
+						"desc": ""
 					},
 					"R5-2": {
 						"id": "R5-2",
-						"name": "Sandbox"
+						"name": "Sandbox",
+						"desc": ""
 					}
 				}
 			},
 			"R6": {
 				"id": "R6",
 				"name": "Magic",
+				"desc": "",
 				"subKinks": {
 					"R6-1": {
 						"id": "R6-1",
-						"name": "Background"
+						"name": "Background",
+						"desc": ""
 					},
 					"R6-2": {
 						"id": "R6-2",
-						"name": "Magic Sex"
+						"name": "Magic Sex",
+						"desc": ""
 					},
 					"R6-3": {
 						"id": "R6-3",
-						"name": "Potions"
+						"name": "Potions",
+						"desc": ""
 					}
 				}
 			},
 			"R7": {
 				"id": "R7",
 				"name": "Mind Control",
+				"desc": "",
 				"subKinks": {
 					"R7-1": {
 						"id": "R7-1",
-						"name": "Body Control"
+						"name": "Body Control",
+						"desc": ""
 					},
 					"R7-2": {
 						"id": "R7-2",
-						"name": "Direct Control"
+						"name": "Direct Control",
+						"desc": ""
 					},
 					"R7-3": {
 						"id": "R7-3",
-						"name": "Hypnotism"
+						"name": "Hypnotism",
+						"desc": ""
 					},
 					"R7-4": {
 						"id": "R7-4",
-						"name": "Memory Wipe"
+						"name": "Memory Wipe",
+						"desc": ""
 					},
 					"R7-5": {
 						"id": "R7-5",
-						"name": "Programming"
+						"name": "Programming",
+						"desc": ""
 					},
 					"R7-6": {
 						"id": "R7-6",
-						"name": "Suggestion"
+						"name": "Suggestion",
+						"desc": ""
 					},
 					"R7-7": {
 						"id": "R7-7",
-						"name": "Training"
+						"name": "Training",
+						"desc": ""
 					}
 				}
 			},
 			"R8": {
 				"id": "R8",
 				"name": "Nonsexual",
+				"desc": "",
 				"subKinks": {}
 			},
 			"R9": {
@@ -1349,60 +1633,74 @@
 			"S1": {
 				"id": "S1",
 				"name": "Anal Sex",
+				"desc": "",
 				"subKinks": {
 					"S1-1": {
 						"id": "S1-1",
-						"name": "Ass Worship"
+						"name": "Ass Worship",
+						"desc": ""
 					},
 					"S1-2": {
 						"id": "S1-2",
-						"name": "Fisting"
+						"name": "Fisting",
+						"desc": ""
 					},
 					"S1-3": {
 						"id": "S1-3",
-						"name": "Gaping"
+						"name": "Gaping",
+						"desc": ""
 					},
 					"S1-4": {
 						"id": "S1-4",
-						"name": "Hotdogging"
+						"name": "Hotdogging",
+						"desc": ""
 					},
 					"S1-5": {
 						"id": "S1-5",
-						"name": "Pegging"
+						"name": "Pegging",
+						"desc": ""
 					},
 					"S1-6": {
 						"id": "S1-6",
-						"name": "Penetration"
+						"name": "Penetration",
+						"desc": ""
 					},
 					"S1-7": {
 						"id": "S1-7",
-						"name": "Rimming"
+						"name": "Rimming",
+						"desc": ""
 					},
 					"S1-8": {
 						"id": "S1-8",
-						"name": "Training"
+						"name": "Training",
+						"desc": ""
 					},
 					"S1-9": {
 						"id": "S1-9",
-						"name": "Virginity"
+						"name": "Virginity",
+						"desc": ""
 					}
 				}
 			},
 			"S10": {
 				"id": "S10",
 				"name": "Oral Sex",
+				"desc": "",
 				"subKinks": {
 					"S10-1": {
 						"id": "S10-1",
-						"name": "Autocunnilingus"
+						"name": "Autocunnilingus",
+						"desc": ""
 					},
 					"S10-2": {
 						"id": "S10-2",
-						"name": "Autofellatio"
+						"name": "Autofellatio",
+						"desc": ""
 					},
 					"S10-3": {
 						"id": "S10-3",
-						"name": "Cunnilingus"
+						"name": "Cunnilingus",
+						"desc": ""
 					},
 					"S10-4": {
 						"id": "S10-4",
@@ -1410,63 +1708,77 @@
 					},
 					"S10-5": {
 						"id": "S10-5",
-						"name": "Fellatio"
+						"name": "Fellatio",
+						"desc": ""
 					},
 					"S10-6": {
 						"id": "S10-6",
-						"name": "Throat Penetration"
+						"name": "Throat Penetration",
+						"desc": ""
 					},
 					"S10-7": {
 						"id": "S10-7",
-						"name": "Virginity"
+						"name": "Virginity",
+						"desc": ""
 					}
 				}
 			},
 			"S11": {
 				"id": "S11",
 				"name": "Penis Sex",
+				"desc": "",
 				"subKinks": {
 					"S11-1": {
 						"id": "S11-1",
-						"name": "Docking"
+						"name": "Docking",
+						"desc": ""
 					},
 					"S11-2": {
 						"id": "S11-2",
-						"name": "Frottage"
+						"name": "Frottage",
+						"desc": ""
 					},
 					"S11-3": {
 						"id": "S11-3",
-						"name": "Handjob"
+						"name": "Handjob",
+						"desc": ""
 					},
 					"S11-4": {
 						"id": "S11-4",
-						"name": "Sounding"
+						"name": "Sounding",
+						"desc": ""
 					},
 					"S11-5": {
 						"id": "S11-5",
-						"name": "Cock Worship"
+						"name": "Cock Worship",
+						"desc": ""
 					},
 					"S11-6": {
 						"id": "S11-6",
-						"name": "Ball Worship"
+						"name": "Ball Worship",
+						"desc": ""
 					}
 				}
 			},
 			"S12": {
 				"id": "S12",
 				"name": "Toys",
+				"desc": "",
 				"subKinks": {
 					"S12-1": {
 						"id": "S12-1",
-						"name": "Anal Beads"
+						"name": "Anal Beads",
+						"desc": ""
 					},
 					"S12-2": {
 						"id": "S12-2",
-						"name": "Dildos"
+						"name": "Dildos",
+						"desc": ""
 					},
 					"S12-3": {
 						"id": "S12-3",
-						"name": "Sex Machines"
+						"name": "Sex Machines",
+						"desc": ""
 					},
 					"S12-4": {
 						"id": "S12-4",
@@ -1474,138 +1786,169 @@
 					},
 					"S12-5": {
 						"id": "S12-5",
-						"name": "Vibrators"
+						"name": "Vibrators",
+						"desc": ""
 					}
 				}
 			},
 			"S13": {
 				"id": "S13",
 				"name": "Vaginal Sex",
+				"desc": "",
 				"subKinks": {
 					"S13-1": {
 						"id": "S13-1",
-						"name": "Cervical Penetration"
+						"name": "Cervical Penetration",
+						"desc": ""
 					},
 					"S13-10": {
 						"id": "S13-10",
-						"name": "Virginity"
+						"name": "Virginity",
+						"desc": ""
 					},
 					"S13-2": {
 						"id": "S13-2",
-						"name": "Fingering"
+						"name": "Fingering",
+						"desc": ""
 					},
 					"S13-3": {
 						"id": "S13-3",
-						"name": "Fisting"
+						"name": "Fisting",
+						"desc": ""
 					},
 					"S13-4": {
 						"id": "S13-4",
-						"name": "Gaping"
+						"name": "Gaping",
+						"desc": ""
 					},
 					"S13-5": {
 						"id": "S13-5",
-						"name": "Penetration"
+						"name": "Penetration",
+						"desc": ""
 					},
 					"S13-6": {
 						"id": "S13-6",
-						"name": "Pussy Worship"
+						"name": "Pussy Worship",
+						"desc": ""
 					},
 					"S13-7": {
 						"id": "S13-7",
-						"name": "Squirting"
+						"name": "Squirting",
+						"desc": ""
 					},
 					"S13-8": {
 						"id": "S13-8",
-						"name": "Tribadism"
+						"name": "Tribadism",
+						"desc": ""
 					},
 					"S13-9": {
 						"id": "S13-9",
-						"name": "Urethra Penetration"
+						"name": "Urethra Penetration",
+						"desc": ""
 					}
 				}
 			},
 			"S2": {
 				"id": "S2",
 				"name": "Biting",
+				"desc": "",
 				"subKinks": {
 					"S2-1": {
 						"id": "S2-1",
-						"name": "Marking"
+						"name": "Marking",
+						"desc": ""
 					}
 				}
 			},
 			"S3": {
 				"id": "S3",
 				"name": "Breasts",
+				"desc": "",
 				"subKinks": {
 					"S3-1": {
 						"id": "S3-1",
-						"name": "Breast Worship"
+						"name": "Breast Worship",
+						"desc": ""
 					},
 					"S3-2": {
 						"id": "S3-2",
-						"name": "Docking"
+						"name": "Docking",
+						"desc": ""
 					},
 					"S3-3": {
 						"id": "S3-3",
-						"name": "Fondling"
+						"name": "Fondling",
+						"desc": ""
 					},
 					"S3-4": {
 						"id": "S3-4",
-						"name": "Lactation"
+						"name": "Lactation",
+						"desc": ""
 					},
 					"S3-5": {
 						"id": "S3-5",
-						"name": "Nipple Penetration"
+						"name": "Nipple Penetration",
+						"desc": ""
 					},
 					"S3-6": {
 						"id": "S3-6",
-						"name": "Titfucking"
+						"name": "Titfucking",
+						"desc": ""
 					}
 				}
 			},
 			"S4": {
 				"id": "S4",
 				"name": "Clothed Sex",
+				"desc": "",
 				"subKinks": {}
 			},
 			"S5": {
 				"id": "S5",
 				"name": "Condoms",
+				"desc": "",
 				"subKinks": {
 					"S5-1": {
 						"id": "S5-1",
-						"name": "Breaking"
+						"name": "Breaking",
+						"desc": ""
 					},
 					"S5-2": {
 						"id": "S5-2",
-						"name": "Swallowing After"
+						"name": "Swallowing After",
+						"desc": ""
 					}
 				}
 			},
 			"S6": {
 				"id": "S6",
 				"name": "Cumplay",
+				"desc": "",
 				"subKinks": {
 					"S6-1": {
 						"id": "S6-1",
-						"name": "Bukkake"
+						"name": "Bukkake",
+						"desc": ""
 					},
 					"S6-10": {
 						"id": "S6-10",
-						"name": "Creampie"
+						"name": "Creampie",
+						"desc": ""
 					},
 					"S6-11": {
 						"id": "S6-11",
-						"name": "Internal"
+						"name": "Internal",
+						"desc": ""
 					},
 					"S6-2": {
 						"id": "S6-2",
-						"name": "Cum Bath"
+						"name": "Cum Bath",
+						"desc": ""
 					},
 					"S6-3": {
 						"id": "S6-3",
-						"name": "Cum Diet"
+						"name": "Cum Diet",
+						"desc": ""
 					},
 					"S6-4": {
 						"id": "S6-4",
@@ -1621,89 +1964,109 @@
 					},
 					"S6-7": {
 						"id": "S6-7",
-						"name": "Large Quantities"
+						"name": "Large Quantities",
+						"desc": ""
 					},
 					"S6-8": {
 						"id": "S6-8",
-						"name": "Swallowing"
+						"name": "Swallowing",
+						"desc": ""
 					},
 					"S6-9": {
 						"id": "S6-9",
-						"name": "Unusual Semen"
+						"name": "Unusual Semen",
+						"desc": ""
 					}
 				}
 			},
 			"S7": {
 				"id": "S7",
 				"name": "Exotic",
+				"desc": "",
 				"subKinks": {
 					"S7-1": {
 						"id": "S7-1",
-						"name": "Armpit Sex"
+						"name": "Armpit Sex",
+						"desc": ""
 					},
 					"S7-10": {
 						"id": "S7-10",
-						"name": "Other"
+						"name": "Other",
+						"desc": ""
 					},
 					"S7-11": {
 						"id": "S7-11",
-						"name": "Sleep Sex"
+						"name": "Sleep Sex",
+						"desc": ""
 					},
 					"S7-2": {
 						"id": "S7-2",
-						"name": "Ear Penetration"
+						"name": "Ear Penetration",
+						"desc": ""
 					},
 					"S7-3": {
 						"id": "S7-3",
-						"name": "Ear Play"
+						"name": "Ear Play",
+						"desc": ""
 					},
 					"S7-4": {
 						"id": "S7-4",
-						"name": "Eye Penetration"
+						"name": "Eye Penetration",
+						"desc": ""
 					},
 					"S7-5": {
 						"id": "S7-5",
-						"name": "Foot Fetish"
+						"name": "Foot Fetish",
+						"desc": ""
 					},
 					"S7-6": {
 						"id": "S7-6",
-						"name": "Footjobs"
+						"name": "Footjobs",
+						"desc": ""
 					},
 					"S7-7": {
 						"id": "S7-7",
-						"name": "Hairjob"
+						"name": "Hairjob",
+						"desc": ""
 					},
 					"S7-8": {
 						"id": "S7-8",
-						"name": "Navel Penetration"
+						"name": "Navel Penetration",
+						"desc": ""
 					},
 					"S7-9": {
 						"id": "S7-9",
-						"name": "Navel Play"
+						"name": "Navel Play",
+						"desc": ""
 					}
 				}
 			},
 			"S8": {
 				"id": "S8",
 				"name": "Masturbation",
+				"desc": "",
 				"subKinks": {
 					"S8-1": {
 						"id": "S8-1",
-						"name": "In Scenes"
+						"name": "In Scenes",
+						"desc": ""
 					},
 					"S8-2": {
 						"id": "S8-2",
-						"name": "Mutual Masturbation"
+						"name": "Mutual Masturbation",
+						"desc": ""
 					},
 					"S8-3": {
 						"id": "S8-3",
-						"name": "Secret"
+						"name": "Secret",
+						"desc": ""
 					}
 				}
 			},
 			"S9": {
 				"id": "S9",
 				"name": "Multiple Penetration",
+				"desc": "",
 				"subKinks": {
 					"S9-1": {
 						"id": "S9-1",
@@ -1711,15 +2074,18 @@
 					},
 					"S9-2": {
 						"id": "S9-2",
-						"name": "All The Way Through"
+						"name": "All The Way Through",
+						"desc": ""
 					},
 					"S9-3": {
 						"id": "S9-3",
-						"name": "Double Penetration"
+						"name": "Double Penetration",
+						"desc": ""
 					},
 					"S9-4": {
 						"id": "S9-4",
-						"name": "Gangbang"
+						"name": "Gangbang",
+						"desc": ""
 					}
 				}
 			}
@@ -1732,22 +2098,27 @@
 			"T1": {
 				"id": "T1",
 				"name": "Animal",
+				"desc": "",
 				"subKinks": {
 					"T1-1": {
 						"id": "T1-1",
-						"name": "Aquatic"
+						"name": "Aquatic",
+						"desc": ""
 					},
 					"T1-2": {
 						"id": "T1-2",
-						"name": "Avian"
+						"name": "Avian",
+						"desc": ""
 					},
 					"T1-3": {
 						"id": "T1-3",
-						"name": "Draconic"
+						"name": "Draconic",
+						"desc": ""
 					},
 					"T1-4": {
 						"id": "T1-4",
-						"name": "Equine"
+						"name": "Equine",
+						"desc": ""
 					},
 					"T1-5": {
 						"id": "T1-5",
@@ -1759,11 +2130,13 @@
 					},
 					"T1-7": {
 						"id": "T1-7",
-						"name": "Quadruped"
+						"name": "Quadruped",
+						"desc": ""
 					},
 					"T1-8": {
 						"id": "T1-8",
-						"name": "Serpentine"
+						"name": "Serpentine",
+						"desc": ""
 					}
 				}
 			},
@@ -1775,120 +2148,147 @@
 			"T11": {
 				"id": "T11",
 				"name": "Head Hair",
+				"desc": "",
 				"subKinks": {
 					"T11-1": {
 						"id": "T11-1",
-						"name": "Bald"
+						"name": "Bald",
+						"desc": ""
 					},
 					"T11-2": {
 						"id": "T11-2",
-						"name": "Short"
+						"name": "Short",
+						"desc": ""
 					},
 					"T11-3": {
 						"id": "T11-3",
-						"name": "Long"
+						"name": "Long",
+						"desc": ""
 					},
 					"T11-4": {
 						"id": "T11-4",
-						"name": "Very Long"
+						"name": "Very Long",
+						"desc": ""
 					},
 					"T11-5": {
 						"id": "T11-5",
-						"name": "Exotic"
+						"name": "Exotic",
+						"desc": ""
 					}
 				}
 			},
 			"T12": {
 				"id": "T12",
 				"name": "Hirsute",
+				"desc": "",
 				"subKinks": {
 					"T12-1": {
 						"id": "T12-1",
-						"name": "Armpit Hair"
+						"name": "Armpit Hair",
+						"desc": ""
 					},
 					"T12-2": {
 						"id": "T12-2",
-						"name": "Beards"
+						"name": "Beards",
+						"desc": ""
 					},
 					"T12-3": {
 						"id": "T12-3",
-						"name": "Body Hair"
+						"name": "Body Hair",
+						"desc": ""
 					},
 					"T12-4": {
 						"id": "T12-4",
-						"name": "Pubic Hair"
+						"name": "Pubic Hair",
+						"desc": ""
 					}
 				}
 			},
 			"T13": {
 				"id": "T13",
 				"name": "Humanoid",
+				"desc": "",
 				"subKinks": {
 					"T13-1": {
 						"id": "T13-1",
-						"name": "Angel"
+						"name": "Angel",
+						"desc": ""
 					},
 					"T13-2": {
 						"id": "T13-2",
-						"name": "Demon"
+						"name": "Demon",
+						"desc": ""
 					},
 					"T13-3": {
 						"id": "T13-3",
-						"name": "Elvish"
+						"name": "Elvish",
+						"desc": ""
 					},
 					"T13-4": {
 						"id": "T13-4",
-						"name": "Human"
+						"name": "Human",
+						"desc": ""
 					}
 				}
 			},
 			"T14": {
 				"id": "T14",
 				"name": "Large Anatomy",
+				"desc": "",
 				"subKinks": {
 					"T14-1": {
 						"id": "T14-1",
-						"name": "Chubby"
+						"name": "Chubby",
+						"desc": ""
 					},
 					"T14-2": {
 						"id": "T14-2",
-						"name": "Large Asses"
+						"name": "Large Asses",
+						"desc": ""
 					},
 					"T14-3": {
 						"id": "T14-3",
-						"name": "Large Balls"
+						"name": "Large Balls",
+						"desc": ""
 					},
 					"T14-4": {
 						"id": "T14-4",
-						"name": "Large Breasts"
+						"name": "Large Breasts",
+						"desc": ""
 					},
 					"T14-5": {
 						"id": "T14-5",
-						"name": "Large Cocks"
+						"name": "Large Cocks",
+						"desc": ""
 					},
 					"T14-6": {
 						"id": "T14-6",
-						"name": "Muscle"
+						"name": "Muscle",
+						"desc": ""
 					}
 				}
 			},
 			"T15": {
 				"id": "T15",
 				"name": "Sexless",
+				"desc": "",
 				"subKinks": {
 					"T15-1": {
 						"id": "T15-1",
-						"name": "Desexed"
+						"name": "Desexed",
+						"desc": ""
 					},
 					"T15-2": {
 						"id": "T15-2",
-						"name": "Eunuch"
+						"name": "Eunuch",
+						"desc": ""
 					}
 				}
 			},
 			"T16": {
 				"id": "T16",
 				"name": "Shapeshifters",
+				"desc": "",
 				"subKinks": {
 					"T16-1": {
 						"id": "T16-1",
@@ -1900,47 +2300,57 @@
 					},
 					"T16-3": {
 						"id": "T16-3",
-						"name": "Unwilling"
+						"name": "Unwilling",
+						"desc": ""
 					},
 					"T16-4": {
 						"id": "T16-4",
-						"name": "Willing"
+						"name": "Willing",
+						"desc": ""
 					}
 				}
 			},
 			"T17": {
 				"id": "T17",
 				"name": "Small Anatomy",
+				"desc": "",
 				"subKinks": {
 					"T17-1": {
 						"id": "T17-1",
-						"name": "Extreme Tightness"
+						"name": "Extreme Tightness",
+						"desc": ""
 					},
 					"T17-2": {
 						"id": "T17-2",
-						"name": "Flat Chest"
+						"name": "Flat Chest",
+						"desc": ""
 					},
 					"T17-3": {
 						"id": "T17-3",
-						"name": "Small Breasts"
+						"name": "Small Breasts",
+						"desc": ""
 					},
 					"T17-4": {
 						"id": "T17-4",
-						"name": "Small Cocks"
+						"name": "Small Cocks",
+						"desc": ""
 					}
 				}
 			},
 			"T18": {
 				"id": "T18",
 				"name": "Tails",
+				"desc": "",
 				"subKinks": {
 					"T18-1": {
 						"id": "T18-1",
-						"name": "Fluffy"
+						"name": "Fluffy",
+						"desc": ""
 					},
 					"T18-2": {
 						"id": "T18-2",
-						"name": "Prehensile"
+						"name": "Prehensile",
+						"desc": ""
 					}
 				}
 			},
@@ -1950,11 +2360,13 @@
 				"subKinks": {
 					"T19-1": {
 						"id": "T19-1",
-						"name": "Aquatic"
+						"name": "Aquatic",
+						"desc": ""
 					},
 					"T19-2": {
 						"id": "T19-2",
-						"name": "Avian"
+						"name": "Avian",
+						"desc": ""
 					},
 					"T19-3": {
 						"id": "T19-3",
@@ -1962,55 +2374,67 @@
 					},
 					"T19-4": {
 						"id": "T19-4",
-						"name": "Quadruped"
+						"name": "Quadruped",
+						"desc": ""
 					},
 					"T19-5": {
 						"id": "T19-5",
-						"name": "Serpentine"
+						"name": "Serpentine",
+						"desc": ""
 					}
 				}
 			},
 			"T2": {
 				"id": "T2",
 				"name": "Animal Anatomy",
+				"desc": "",
 				"subKinks": {
 					"T2-1": {
 						"id": "T2-1",
-						"name": "Barbed Cocks"
+						"name": "Barbed Cocks",
+						"desc": ""
 					},
 					"T2-2": {
 						"id": "T2-2",
-						"name": "Bestial Cocks"
+						"name": "Bestial Cocks",
+						"desc": ""
 					},
 					"T2-3": {
 						"id": "T2-3",
-						"name": "Knotted Cocks"
+						"name": "Knotted Cocks",
+						"desc": ""
 					},
 					"T2-4": {
 						"id": "T2-4",
-						"name": "Sheaths"
+						"name": "Sheaths",
+						"desc": ""
 					},
 					"T2-5": {
 						"id": "T2-5",
-						"name": "Udders"
+						"name": "Udders",
+						"desc": ""
 					}
 				}
 			},
 			"T20": {
 				"id": "T20",
 				"name": "Tentacles",
+				"desc": "",
 				"subKinks": {
 					"T20-1": {
 						"id": "T20-1",
-						"name": "Consentacles"
+						"name": "Consentacles",
+						"desc": ""
 					},
 					"T20-2": {
 						"id": "T20-2",
-						"name": "Phallic"
+						"name": "Phallic",
+						"desc": ""
 					},
 					"T20-3": {
 						"id": "T20-3",
-						"name": "Suction"
+						"name": "Suction",
+						"desc": ""
 					}
 				}
 			},
@@ -2022,106 +2446,130 @@
 			"T22": {
 				"id": "T22",
 				"name": "Wings",
+				"desc": "",
 				"subKinks": {
 					"T22-1": {
 						"id": "T22-1",
-						"name": "Batlike"
+						"name": "Batlike",
+						"desc": ""
 					},
 					"T22-2": {
 						"id": "T22-2",
-						"name": "Fairy"
+						"name": "Fairy",
+						"desc": ""
 					},
 					"T22-3": {
 						"id": "T22-3",
-						"name": "Feathery"
+						"name": "Feathery",
+						"desc": ""
 					}
 				}
 			},
 			"T23": {
 				"id": "T23",
 				"name": "Young Partners",
+				"desc": "",
 				"subKinks": {
 					"T23-1": {
 						"id": "T23-1",
-						"name": "Preteen"
+						"name": "Preteen",
+						"desc": ""
 					},
 					"T23-2": {
 						"id": "T23-2",
-						"name": "Pubescent"
+						"name": "Pubescent",
+						"desc": ""
 					},
 					"T23-3": {
 						"id": "T23-3",
-						"name": "Teenage"
+						"name": "Teenage",
+						"desc": ""
 					}
 				}
 			},
 			"T24": {
 				"id": "T24",
 				"name": "Decorations",
+				"desc": "",
 				"subKinks": {
 					"T24-1": {
 						"id": "T24-1",
-						"name": "Marks"
+						"name": "Marks",
+						"desc": ""
 					},
 					"T24-2": {
 						"id": "T24-2",
-						"name": "Scars"
+						"name": "Scars",
+						"desc": ""
 					},
 					"T24-3": {
 						"id": "T24-3",
-						"name": "Paint"
+						"name": "Paint",
+						"desc": ""
 					},
 					"T24-4": {
 						"id": "T24-4",
-						"name": "Piercings"
+						"name": "Piercings",
+						"desc": ""
 					},
 					"T24-5": {
 						"id": "T24-5",
-						"name": "Tattoos"
+						"name": "Tattoos",
+						"desc": ""
 					}
 				}
 			},
 			"T3": {
 				"id": "T3",
 				"name": "Anthro",
+				"desc": "",
 				"subKinks": {
 					"T3-1": {
 						"id": "T3-1",
-						"name": "Equine"
+						"name": "Equine",
+						"desc": ""
 					},
 					"T3-2": {
 						"id": "T3-2",
-						"name": "Feathers"
+						"name": "Feathers",
+						"desc": ""
 					},
 					"T3-3": {
 						"id": "T3-3",
-						"name": "Fur"
+						"name": "Fur",
+						"desc": ""
 					},
 					"T3-4": {
 						"id": "T3-4",
-						"name": "Kemonomimi"
+						"name": "Kemonomimi",
+						"desc": ""
 					},
 					"T3-5": {
 						"id": "T3-5",
-						"name": "Muzzles"
+						"name": "Muzzles",
+						"desc": ""
 					},
 					"T3-6": {
 						"id": "T3-6",
-						"name": "Pokemorph"
+						"name": "Pokemorph",
+						"desc": ""
 					},
 					"T3-7": {
 						"id": "T3-7",
-						"name": "Scales"
+						"name": "Scales",
+						"desc": ""
 					}
 				}
 			},
 			"T4": {
 				"id": "T4",
 				"name": "Artificial",
+				"desc": "",
 				"subKinks": {
 					"T4-1": {
 						"id": "T4-1",
-						"name": "Dolljoints"
+						"name": "Dolljoints",
+						"desc": ""
 					},
 					"T4-2": {
 						"id": "T4-2",
@@ -2132,78 +2580,96 @@
 			"T5": {
 				"id": "T5",
 				"name": "Elderly Partners",
+				"desc": "",
 				"subKinks": {
 					"T5-1": {
 						"id": "T5-1",
-						"name": "Middle Age"
+						"name": "Middle Age",
+						"desc": ""
 					},
 					"T5-2": {
 						"id": "T5-2",
-						"name": "Elderly"
+						"name": "Elderly",
+						"desc": ""
 					}
 				}
 			},
 			"T6": {
 				"id": "T6",
 				"name": "Exotic Anatomy",
+				"desc": "",
 				"subKinks": {
 					"T6-1": {
 						"id": "T6-1",
-						"name": "Dicknipples"
+						"name": "Dicknipples",
+						"desc": ""
 					},
 					"T6-2": {
 						"id": "T6-2",
-						"name": "Heterochromia"
+						"name": "Heterochromia",
+						"desc": ""
 					},
 					"T6-3": {
 						"id": "T6-3",
-						"name": "Missing Parts"
+						"name": "Missing Parts",
+						"desc": ""
 					},
 					"T6-4": {
 						"id": "T6-4",
-						"name": "Multiple Breasts"
+						"name": "Multiple Breasts",
+						"desc": ""
 					},
 					"T6-5": {
 						"id": "T6-5",
-						"name": "Multiple Genitalia"
+						"name": "Multiple Genitalia",
+						"desc": ""
 					},
 					"T6-6": {
 						"id": "T6-6",
-						"name": "Out of Place"
+						"name": "Out of Place",
+						"desc": ""
 					},
 					"T6-7": {
 						"id": "T6-7",
-						"name": "Prehensile Cocks"
+						"name": "Prehensile Cocks",
+						"desc": ""
 					},
 					"T6-8": {
 						"id": "T6-8",
-						"name": "Additional Parts"
+						"name": "Additional Parts",
+						"desc": ""
 					}
 				}
 			},
 			"T7": {
 				"id": "T7",
 				"name": "Exotic Material",
+				"desc": "",
 				"subKinks": {
 					"T7-1": {
 						"id": "T7-1",
-						"name": "Ghostly"
+						"name": "Ghostly",
+						"desc": ""
 					},
 					"T7-2": {
 						"id": "T7-2",
-						"name": "Latex"
+						"name": "Latex",
+						"desc": ""
 					},
 					"T7-3": {
 						"id": "T7-3",
-						"name": "Metal"
+						"name": "Metal",
+						"desc": ""
 					},
 					"T7-4": {
 						"id": "T7-4",
-						"name": "Rubber"
+						"name": "Rubber",
+						"desc": ""
 					},
 					"T7-5": {
 						"id": "T7-5",
-						"name": "Stone"
+						"name": "Stone",
+						"desc": ""
 					},
 					"T7-6": {
 						"id": "T7-6",
@@ -2214,6 +2680,7 @@
 			"T8": {
 				"id": "T8",
 				"name": "Exotic Species",
+				"desc": "",
 				"subKinks": {
 					"T8-1": {
 						"id": "T8-1",
@@ -2221,45 +2688,55 @@
 					},
 					"T8-2": {
 						"id": "T8-2",
-						"name": "Blob"
+						"name": "Blob",
+						"desc": ""
 					},
 					"T8-3": {
 						"id": "T8-3",
-						"name": "Eldritch"
+						"name": "Eldritch",
+						"desc": ""
 					},
 					"T8-4": {
 						"id": "T8-4",
-						"name": "Fantastical"
+						"name": "Fantastical",
+						"desc": ""
 					},
 					"T8-5": {
 						"id": "T8-5",
-						"name": "Monstrous"
+						"name": "Monstrous",
+						"desc": ""
 					},
 					"T8-6": {
 						"id": "T8-6",
-						"name": "Plants"
+						"name": "Plants",
+						"desc": ""
 					}
 				}
 			},
 			"T9": {
 				"id": "T9",
 				"name": "Extreme Anatomy",
+				"desc": "",
 				"subKinks": {
 					"T9-1": {
 						"id": "T9-1",
-						"name": "Huge Ass"
+						"name": "Huge Ass",
+						"desc": ""
 					},
 					"T9-2": {
 						"id": "T9-2",
-						"name": "Massive Breasts"
+						"name": "Massive Breasts",
+						"desc": ""
 					},
 					"T9-3": {
 						"id": "T9-3",
-						"name": "Massive Cocks"
+						"name": "Massive Cocks",
+						"desc": ""
 					},
 					"T9-4": {
 						"id": "T9-4",
-						"name": "Obesity"
+						"name": "Obesity",
+						"desc": ""
 					}
 				}
 			}
