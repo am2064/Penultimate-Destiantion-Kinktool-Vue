@@ -7,6 +7,7 @@
 		</button>
 			{{kink.id}}. {{kink.name}}
 			<input type="checkbox" v-model="selected"/>
+      {{kink.desc}}
 		</p>
 		<select v-model="preference">
 			<option disabled value="">Preference</option>
